@@ -244,7 +244,6 @@
 | main  | func_80012454 |       76 |         18 |        |                                 |       |
 | main  | func_80019100 |       77 |          9 |        |                                 |       |
 | main  | func_800361F8 |       77 |         11 |        |                                 |       |
-| main  | func_80012024 |       77 |         20 |        | https://decomp.me/scratch/Lj7S4 | 1.0   |
 | main  | func_800261B4 |       78 |          9 |        |                                 |       |
 | main  | func_80021234 |       78 |         12 |        |                                 |       |
 | main  | func_80021340 |       78 |         12 |        |                                 |       |
