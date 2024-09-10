@@ -65,4 +65,3 @@
 | main  | func_80028690 |      263 |         31 |        |                                 |       |
 | main  | func_80024334 |      411 |         35 |        |                                 |       |
 | main  | func_80022730 |      787 |         88 | Yes    | https://decomp.me/scratch/jMUGf | 0.003 |
-
