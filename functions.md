@@ -1,11 +1,10 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | WIP                             | %     |
 |-------|---------------|----------|------------|--------|---------------------------------|-------|
 | main  | func_80028390 |       14 |          1 |        | https://decomp.me/scratch/bWewk | 0.988 |
-| main  | func_80028070 |       25 |          2 |        | https://decomp.me/scratch/RT0ru | 0.734 |
+| main  | func_80028070 |       25 |          2 |        | https://decomp.me/scratch/veWRH | 1.0   |
 | main  | func_80012854 |       32 |          5 |        | https://decomp.me/scratch/Hdma4 | 0.772 |
-| main  | func_80013650 |       32 |          5 |        | https://decomp.me/scratch/EkPCk | 0.969 |
-| main  | func_80027908 |       33 |          1 |        |                                 |       |
-| main  | func_80033974 |       34 |          5 |        | https://decomp.me/scratch/TagQE | 0.987 |
+| main  | func_80013650 |       32 |          5 |        | https://decomp.me/scratch/GJCMQ | 1.0   |
+| main  | func_80033974 |       34 |          5 |        | https://decomp.me/scratch/3upJ4 | 1.0   |
 | main  | func_80039880 |       35 |          8 |        |                                 |       |
 | main  | func_80036534 |       36 |          4 |        |                                 |       |
 | main  | func_80029978 |       36 |          5 |        |                                 |       |
@@ -38,7 +37,7 @@
 | main  | func_80029420 |       70 |         12 |        |                                 |       |
 | main  | func_80012454 |       76 |         18 |        |                                 |       |
 | main  | func_80019100 |       77 |          9 |        |                                 |       |
-| main  | func_80012024 |       77 |         20 |        | https://decomp.me/scratch/CCisO | 0.817 |
+| main  | func_80012024 |       77 |         20 |        | https://decomp.me/scratch/Lj7S4 | 1.0   |
 | main  | func_80021234 |       78 |         12 |        |                                 |       |
 | main  | func_80021340 |       78 |         12 |        |                                 |       |
 | main  | func_80021558 |       81 |         12 |        |                                 |       |
