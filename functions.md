@@ -5,7 +5,6 @@
 | main  | func_80012854 |       32 |          5 |        | https://decomp.me/scratch/Hdma4 | 0.772 |
 | main  | func_80013650 |       32 |          5 |        | https://decomp.me/scratch/GJCMQ | 1.0   |
 | main  | func_80033974 |       34 |          5 |        | https://decomp.me/scratch/3upJ4 | 1.0   |
-| main  | func_80039880 |       35 |          8 |        |                                 |       |
 | main  | func_80036534 |       36 |          4 |        |                                 |       |
 | main  | func_80029978 |       36 |          5 |        |                                 |       |
 | main  | func_80016004 |       38 |          6 |        |                                 |       |
