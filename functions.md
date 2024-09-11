@@ -1,6 +1,6 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | WIP                             | %     |
 |-------|---------------|----------|------------|--------|---------------------------------|-------|
-| main  | func_8001FBB8 |       13 |          1 |        |                                 |       |
+| main  | func_8001FBB8 |       13 |          1 |        | https://decomp.me/scratch/Ur9j8 | 1.0   |
 | main  | func_80028390 |       14 |          1 |        | https://decomp.me/scratch/bWewk | 0.988 |
 | main  | func_800B6C74 |       14 |          2 |        | https://decomp.me/scratch/zRrFk | 1.0   |
 | main  | func_800CB614 |       14 |          2 |        |                                 |       |
@@ -42,7 +42,7 @@
 | main  | func_800D3AC0 |       21 |          2 |        |                                 |       |
 | main  | func_800D5C54 |       21 |          2 |        |                                 |       |
 | main  | func_800D76F8 |       21 |          2 |        |                                 |       |
-| main  | func_8001FBE0 |       22 |          2 |        |                                 |       |
+| main  | func_8001FBE0 |       22 |          2 |        | https://decomp.me/scratch/hJLhP | 1.0   |
 | main  | func_8002F264 |       22 |          3 |        |                                 |       |
 | main  | func_8002B73C |       23 |          1 |        |                                 |       |
 | main  | func_800D3FE0 |       23 |          1 |        |                                 |       |
@@ -96,7 +96,7 @@
 | main  | func_80013650 |       32 |          5 |        | https://decomp.me/scratch/GJCMQ | 1.0   |
 | main  | func_800AE6B4 |       32 |          5 |        |                                 |       |
 | main  | func_800B5C60 |       33 |          3 |        |                                 |       |
-| main  | func_8001FB50 |       33 |          4 |        |                                 |       |
+| main  | func_8001FB50 |       33 |          4 |        | https://decomp.me/scratch/k0xjG | 1.0   |
 | main  | func_800CD110 |       33 |          4 |        |                                 |       |
 | main  | func_80021D20 |       33 |          6 |        |                                 |       |
 | main  | func_80036EE8 |       33 |          6 |        |                                 |       |
