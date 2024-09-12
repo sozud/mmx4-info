@@ -2,7 +2,7 @@
 |-------|---------------|----------|------------|--------|---------------------------------|-------|
 | main  | func_80028390 |       14 |          1 |        | https://decomp.me/scratch/bWewk | 0.988 |
 | main  | func_8002A728 |       16 |          2 |        | https://decomp.me/scratch/yzclO | 0.733 |
-| main  | func_8001D10C |       16 |          3 |        |                                 |       |
+| main  | func_8001D10C |       16 |          3 |        | https://decomp.me/scratch/8tmqB | 1.0   |
 | main  | func_80023D68 |       16 |          3 |        |                                 |       |
 | main  | func_80018EEC |       17 |          2 |        |                                 |       |
 | main  | func_80015D60 |       18 |          1 |        |                                 |       |
@@ -279,7 +279,7 @@
 | main  | func_80049AA0 |      101 |         20 |        |                                 |       |
 | main  | func_800169D8 |      102 |         17 |        | https://decomp.me/scratch/i6hak | 0.999 |
 | main  | func_8002F048 |      105 |         17 |        |                                 |       |
-| main  | func_800185F8 |      106 |          8 |        |                                 |       |
+| main  | func_800185F8 |      106 |          8 |        | https://decomp.me/scratch/4FERS | 0.59  |
 | main  | func_800CD78C |      108 |         12 |        |                                 |       |
 | main  | func_8001326C |      110 |          5 |        |                                 |       |
 | main  | func_8001213C |      111 |         26 |        |                                 |       |
@@ -328,7 +328,7 @@
 | main  | func_80013AD8 |      199 |         25 | Yes    |                                 |       |
 | main  | func_800CBA80 |      201 |         41 | Yes    |                                 |       |
 | main  | func_80028FEC |      203 |         28 |        |                                 |       |
-| main  | func_800182E8 |      205 |         21 |        |                                 |       |
+| main  | func_800182E8 |      205 |         21 |        | https://decomp.me/scratch/xsoZL | 0.491 |
 | main  | func_80012A3C |      207 |         32 |        |                                 |       |
 | main  | func_800D5F1C |      225 |         20 |        |                                 |       |
 | main  | func_80018788 |      226 |         39 |        |                                 |       |
