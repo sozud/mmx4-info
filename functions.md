@@ -1,13 +1,7 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | WIP                             | %     |
 |-------|---------------|----------|------------|--------|---------------------------------|-------|
 | main  | func_80028390 |       14 |          1 |        | https://decomp.me/scratch/bWewk | 0.988 |
-| main  | func_800CB614 |       14 |          2 |        |                                 |       |
-| main  | func_800CD730 |       14 |          2 |        |                                 |       |
-| main  | func_800D666C |       14 |          2 |        |                                 |       |
-| main  | func_800D76D8 |       14 |          2 |        |                                 |       |
-| main  | func_8002B13C |       15 |          1 |        |                                 |       |
-| main  | func_8002B718 |       15 |          1 |        |                                 |       |
-| main  | func_8002A728 |       16 |          2 |        |                                 |       |
+| main  | func_8002A728 |       16 |          2 |        | https://decomp.me/scratch/yzclO | 0.733 |
 | main  | func_8001D10C |       16 |          3 |        |                                 |       |
 | main  | func_80023D68 |       16 |          3 |        |                                 |       |
 | main  | func_80018EEC |       17 |          2 |        |                                 |       |
