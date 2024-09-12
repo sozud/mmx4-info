@@ -1,7 +1,6 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | WIP                             | %     |
 |-------|---------------|----------|------------|--------|---------------------------------|-------|
 | main  | func_80028390 |       14 |          1 |        | https://decomp.me/scratch/bWewk | 0.988 |
-| main  | func_800B6C74 |       14 |          2 |        | https://decomp.me/scratch/zRrFk | 1.0   |
 | main  | func_800CB614 |       14 |          2 |        |                                 |       |
 | main  | func_800CD730 |       14 |          2 |        |                                 |       |
 | main  | func_800D666C |       14 |          2 |        |                                 |       |
@@ -121,7 +120,6 @@
 | main  | func_80027B70 |       38 |          5 |        |                                 |       |
 | main  | func_80035FC4 |       38 |          5 |        |                                 |       |
 | main  | func_80016004 |       38 |          6 |        |                                 |       |
-| main  | func_800B6C9C |       38 |          7 |        |                                 |       |
 | main  | func_80027D40 |       39 |          4 |        |                                 |       |
 | main  | func_800281E8 |       39 |          4 |        |                                 |       |
 | main  | func_80015E54 |       39 |          5 |        | https://decomp.me/scratch/ATqsw | 0.894 |
@@ -291,7 +289,6 @@
 | main  | func_800CD78C |      108 |         12 |        |                                 |       |
 | main  | func_8001326C |      110 |          5 |        |                                 |       |
 | main  | func_8001213C |      111 |         26 |        |                                 |       |
-| main  | func_800B6D1C |      112 |         10 |        | https://decomp.me/scratch/7bgF9 | 1.0   |
 | main  | func_800381FC |      112 |         21 |        |                                 |       |
 | main  | func_800D4024 |      113 |          9 |        |                                 |       |
 | main  | func_800253F0 |      113 |         11 |        |                                 |       |
