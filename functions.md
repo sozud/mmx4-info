@@ -5,9 +5,6 @@
 | main  | func_8001D10C |       16 |          3 |        | https://decomp.me/scratch/8tmqB | 1.0   |
 | main  | func_8002A6FC |       18 |          2 |        | https://decomp.me/scratch/BVe6Q | 0.773 |
 | main  | func_800127C8 |       19 |          2 |        | https://decomp.me/scratch/w6FXW | 1.0   |
-| main  | func_800498C8 |       21 |          2 |        |                                 |       |
-| main  | func_800B5960 |       21 |          2 |        |                                 |       |
-| main  | func_800B6B18 |       21 |          2 |        |                                 |       |
 | main  | func_800BB9B8 |       21 |          2 |        |                                 |       |
 | main  | func_800C9EAC |       21 |          2 |        |                                 |       |
 | main  | func_800CB00C |       21 |          2 |        |                                 |       |
@@ -188,7 +185,7 @@
 | main  | func_80013890 |       63 |          9 |        |                                 |       |
 | main  | func_800CD2BC |       63 |          9 |        |                                 |       |
 | main  | func_800257BC |       63 |         10 |        |                                 |       |
-| main  | func_80016FF4 |       63 |         12 |        | https://decomp.me/scratch/Hz5cU | 0.783 |
+| main  | func_80016FF4 |       63 |         12 |        | https://decomp.me/scratch/Hz5cU | 0.88  |
 | main  | func_8001DCCC |       63 |         12 |        |                                 |       |
 | main  | func_8001FF8C |       63 |         13 |        |                                 |       |
 | main  | func_8001540C |       64 |          8 |        |                                 |       |
@@ -197,7 +194,7 @@
 | main  | func_80015930 |       66 |         10 |        |                                 |       |
 | main  | func_800192F8 |       66 |         10 |        |                                 |       |
 | main  | func_800264D0 |       67 |          5 |        |                                 |       |
-| main  | func_8002166C |       67 |          7 |        |                                 |       |
+| main  | func_8002166C |       67 |          7 |        | https://decomp.me/scratch/OcuwJ | 0.596 |
 | main  | func_80021B34 |       67 |          7 |        |                                 |       |
 | main  | func_8002D32C |       67 |         10 |        |                                 |       |
 | main  | func_8002951C |       68 |          7 |        |                                 |       |
