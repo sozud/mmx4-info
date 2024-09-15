@@ -5,9 +5,6 @@
 | main  | func_8002A6FC |       18 |          2 |        | https://decomp.me/scratch/BVe6Q | 0.773 |
 | main  | func_8002B73C |       23 |          1 |        | https://decomp.me/scratch/r4oym | 0.994 |
 | main  | func_8002859C |       23 |          3 |        | https://decomp.me/scratch/yZjIo | 0.997 |
-| main  | func_800D7154 |       23 |          3 |        |                                 |       |
-| main  | func_8001FD7C |       23 |          4 |        |                                 |       |
-| main  | func_8001D134 |       23 |          6 |        |                                 |       |
 | main  | func_80015DC8 |       24 |          2 |        |                                 |       |
 | main  | func_8002AD7C |       24 |          4 |        |                                 |       |
 | main  | func_8002AE50 |       24 |          4 |        |                                 |       |
