@@ -3,11 +3,8 @@
 | main  | func_80028390 |       14 |          1 |        | https://decomp.me/scratch/bWewk | 0.988 |
 | main  | func_8002A728 |       16 |          2 |        | https://decomp.me/scratch/yzclO | 0.733 |
 | main  | func_8002A6FC |       18 |          2 |        | https://decomp.me/scratch/BVe6Q | 0.773 |
-| main  | func_8002B73C |       23 |          1 |        |                                 |       |
-| main  | func_800D3FE0 |       23 |          1 |        |                                 |       |
-| main  | func_800D6494 |       23 |          1 |        |                                 |       |
-| main  | func_8002859C |       23 |          3 |        |                                 |       |
-| main  | func_8002B0C8 |       23 |          3 |        |                                 |       |
+| main  | func_8002B73C |       23 |          1 |        | https://decomp.me/scratch/r4oym | 0.994 |
+| main  | func_8002859C |       23 |          3 |        | https://decomp.me/scratch/yZjIo | 0.997 |
 | main  | func_800D7154 |       23 |          3 |        |                                 |       |
 | main  | func_8001FD7C |       23 |          4 |        |                                 |       |
 | main  | func_8001D134 |       23 |          6 |        |                                 |       |
