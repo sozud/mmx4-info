@@ -5,13 +5,10 @@
 | main  | func_8002A6FC |       18 |          2 |        | https://decomp.me/scratch/BVe6Q | 0.773 |
 | main  | func_8002B73C |       23 |          1 |        | https://decomp.me/scratch/r4oym | 0.994 |
 | main  | func_8002859C |       23 |          3 |        | https://decomp.me/scratch/yZjIo | 0.997 |
-| main  | func_80015DC8 |       24 |          2 |        |                                 |       |
-| main  | func_8002AD7C |       24 |          4 |        |                                 |       |
-| main  | func_8002AE50 |       24 |          4 |        |                                 |       |
+| main  | func_80015DC8 |       24 |          2 |        | https://decomp.me/scratch/vL8WC | 0.576 |
 | main  | func_8002B008 |       24 |          4 |        | https://decomp.me/scratch/SKkEf | 1.0   |
-| main  | func_8001D1F0 |       24 |          5 |        |                                 |       |
 | main  | func_800B5CC4 |       24 |          5 |        |                                 |       |
-| main  | func_80015E0C |       25 |          2 |        | https://decomp.me/scratch/kTzYe | 0.303 |
+| main  | func_80015E0C |       25 |          2 |        | https://decomp.me/scratch/cRJj5 | 0.625 |
 | main  | func_8002D900 |       25 |          2 |        |                                 |       |
 | main  | func_8002F4C4 |       25 |          3 |        |                                 |       |
 | main  | func_800CCD8C |       25 |          3 |        |                                 |       |
