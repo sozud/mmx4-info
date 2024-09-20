@@ -230,7 +230,6 @@
 | main  | func_800185F8 |      106 |          8 |        |                                 |       |
 | main  | func_800CD78C |      108 |         12 |        |                                 |       |
 | main  | func_8001326C |      110 |          5 |        |                                 |       |
-| main  | func_8001213C |      111 |         26 |        | https://decomp.me/scratch/nVH1U | 0.999 |
 | main  | func_800381FC |      112 |         21 |        |                                 |       |
 | main  | func_800D4024 |      113 |          9 |        |                                 |       |
 | main  | func_800253F0 |      113 |         11 |        |                                 |       |
