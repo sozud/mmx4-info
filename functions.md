@@ -4,94 +4,94 @@
 | main  | func_8002A728 |       16 |          2 |        | https://decomp.me/scratch/8FyjP | 0.844 |
 | main  | func_8002A6FC |       18 |          2 |        | https://decomp.me/scratch/BVe6Q | 0.773 |
 | main  | func_8002B73C |       23 |          1 |        | https://decomp.me/scratch/r4oym | 0.994 |
-| main  | func_8002859C |       23 |          3 |        | https://decomp.me/scratch/yZjIo | 0.997 |
-| main  | func_80015DC8 |       24 |          2 |        | https://decomp.me/scratch/Xg0Tn | 0.868 |
+| main  | func_8002859C |       23 |          3 |        | https://decomp.me/scratch/HrU1m | 1.0   |
+| main  | func_80015DC8 |       24 |          2 |        | https://decomp.me/scratch/Vl9Te | 1.0   |
 | main  | func_8002B008 |       24 |          4 |        | https://decomp.me/scratch/SKkEf | 1.0   |
 | main  | func_80015E0C |       25 |          2 |        | https://decomp.me/scratch/cRJj5 | 0.625 |
-| main  | func_8002D900 |       25 |          2 |        | https://decomp.me/scratch/G41gk | 0.75  |
+| main  | func_8002D900 |       25 |          2 |        | https://decomp.me/scratch/b5qdD | 0.855 |
 | main  | func_800AE848 |       25 |          5 |        | https://decomp.me/scratch/uemml | 0.882 |
-| main  | func_800129A4 |       26 |          3 |        | https://decomp.me/scratch/KXnzV | 0.616 |
+| main  | func_800129A4 |       26 |          3 |        | https://decomp.me/scratch/qBwoP | 1.0   |
 | main  | func_800129F0 |       26 |          3 |        | https://decomp.me/scratch/Wa7eY | 0.661 |
 | main  | func_800160AC |       26 |          3 |        | https://decomp.me/scratch/t5RKM | 0.847 |
-| main  | func_80023CE0 |       26 |          3 |        | https://decomp.me/scratch/yamjR | 0.495 |
-| main  | func_800CCD48 |       26 |          4 |        |                                 |       |
+| main  | func_80023CE0 |       26 |          3 |        | https://decomp.me/scratch/yamjR | 0.812 |
+| main  | func_800CCD48 |       26 |          4 |        | https://decomp.me/scratch/1vKcH | 1.0   |
 | main  | func_80016E34 |       27 |          5 |        | https://decomp.me/scratch/arNQA | 1.0   |
 | main  | func_8001D77C |       27 |          5 |        | https://decomp.me/scratch/Da1mv | 1.0   |
-| main  | func_80027A5C |       28 |          3 |        |                                 |       |
-| main  | func_80027AAC |       28 |          3 |        |                                 |       |
-| main  | func_800CD6D8 |       28 |          3 |        |                                 |       |
-| main  | func_800D5CF8 |       28 |          3 |        |                                 |       |
-| main  | func_8001DC7C |       28 |          4 |        |                                 |       |
-| main  | func_800127FC |       28 |          5 |        |                                 |       |
-| main  | func_80035EA4 |       28 |          5 |        |                                 |       |
-| main  | func_8001E638 |       29 |          3 |        |                                 |       |
+| main  | func_80027A5C |       28 |          3 |        | https://decomp.me/scratch/5KtAJ | 0.287 |
+| main  | func_80027AAC |       28 |          3 |        | https://decomp.me/scratch/Zb4ZX | 0.29  |
+| main  | func_800CD6D8 |       28 |          3 |        | https://decomp.me/scratch/wcmZ6 | 1.0   |
+| main  | func_800D5CF8 |       28 |          3 |        | https://decomp.me/scratch/VkvKP | 1.0   |
+| main  | func_8001DC7C |       28 |          4 |        | https://decomp.me/scratch/V71mT | 0.705 |
+| main  | func_800127FC |       28 |          5 |        | https://decomp.me/scratch/iVLcw | 1.0   |
+| main  | func_80035EA4 |       28 |          5 |        | https://decomp.me/scratch/RhTBz | 0.782 |
+| main  | func_8001E638 |       29 |          3 |        | https://decomp.me/scratch/Jew9c | 1.0   |
 | main  | func_8002AB20 |       29 |          3 |        | https://decomp.me/scratch/8IRcM | 0.429 |
-| main  | func_800D7100 |       29 |          4 |        |                                 |       |
-| main  | func_80021CC8 |       30 |          4 |        |                                 |       |
-| main  | func_800164D8 |       31 |          2 |        |                                 |       |
-| main  | func_800CB5B4 |       31 |          2 |        |                                 |       |
-| main  | func_8002938C |       31 |          3 |        |                                 |       |
-| main  | func_8003718C |       31 |          6 |        |                                 |       |
+| main  | func_800D7100 |       29 |          4 |        | https://decomp.me/scratch/JLRyN | 1.0   |
+| main  | func_80021CC8 |       30 |          4 |        | https://decomp.me/scratch/ToLt0 | 0.853 |
+| main  | func_800164D8 |       31 |          2 |        | https://decomp.me/scratch/FSQDG | 0.508 |
+| main  | func_800CB5B4 |       31 |          2 |        | https://decomp.me/scratch/crmbi | 0.977 |
+| main  | func_8002938C |       31 |          3 |        | https://decomp.me/scratch/3MqEp | 0.624 |
+| main  | func_8003718C |       31 |          6 |        | https://decomp.me/scratch/eZ8GW | 0.559 |
 | main  | func_80012854 |       32 |          5 |        | https://decomp.me/scratch/Hdma4 | 0.772 |
-| main  | func_800AE6B4 |       32 |          5 |        |                                 |       |
-| main  | func_800B5C60 |       33 |          3 |        |                                 |       |
-| main  | func_800CD110 |       33 |          4 |        |                                 |       |
-| main  | func_80021D20 |       33 |          6 |        |                                 |       |
-| main  | func_80036EE8 |       33 |          6 |        |                                 |       |
-| main  | func_80039BB8 |       33 |          6 |        |                                 |       |
-| main  | func_800D5C90 |       34 |          3 |        |                                 |       |
+| main  | func_800AE6B4 |       32 |          5 |        | https://decomp.me/scratch/6re6O | 0.44  |
+| main  | func_800B5C60 |       33 |          3 |        | https://decomp.me/scratch/tacpd | 0.73  |
+| main  | func_800CD110 |       33 |          4 |        | https://decomp.me/scratch/0lwFh | 0.723 |
+| main  | func_80021D20 |       33 |          6 |        | https://decomp.me/scratch/eFo4Z | 0.586 |
+| main  | func_80036EE8 |       33 |          6 |        | https://decomp.me/scratch/r7D2n | 0.844 |
+| main  | func_80039BB8 |       33 |          6 |        | https://decomp.me/scratch/MmreJ | 1.0   |
+| main  | func_800D5C90 |       34 |          3 |        | https://decomp.me/scratch/CkCNh | 1.0   |
 | main  | func_8002D1F8 |       34 |          4 | Yes    |                                 |       |
 | main  | func_80036B88 |       34 |          4 |        |                                 |       |
 | main  | func_80033974 |       34 |          5 |        | https://decomp.me/scratch/3upJ4 | 1.0   |
-| main  | func_800CD034 |       35 |          3 |        |                                 |       |
-| main  | func_800CD178 |       35 |          3 |        |                                 |       |
-| main  | func_800AE7DC |       35 |          5 |        |                                 |       |
-| main  | func_800CD0A4 |       35 |          5 |        |                                 |       |
-| main  | func_80028DB4 |       36 |          3 |        |                                 |       |
-| main  | func_8001DDB0 |       36 |          4 |        |                                 |       |
+| main  | func_800CD034 |       35 |          3 |        | https://decomp.me/scratch/PRYCj | 1.0   |
+| main  | func_800CD178 |       35 |          3 |        | https://decomp.me/scratch/gkzdm | 1.0   |
+| main  | func_800AE7DC |       35 |          5 |        | https://decomp.me/scratch/KFgoF | 1.0   |
+| main  | func_800CD0A4 |       35 |          5 |        | https://decomp.me/scratch/GSzIF | 0.937 |
+| main  | func_80028DB4 |       36 |          3 |        | https://decomp.me/scratch/xHU29 | 0.791 |
+| main  | func_8001DDB0 |       36 |          4 |        | https://decomp.me/scratch/ZbVhw | 1.0   |
 | main  | func_80036534 |       36 |          4 |        | https://decomp.me/scratch/4yNY3 | 0.368 |
-| main  | func_800CDB10 |       36 |          4 |        |                                 |       |
-| main  | func_800CB4E4 |       36 |          6 |        |                                 |       |
+| main  | func_800CDB10 |       36 |          4 |        | https://decomp.me/scratch/jUL80 | 1.0   |
+| main  | func_800CB4E4 |       36 |          6 |        | https://decomp.me/scratch/0ODc2 | 1.0   |
 | main  | func_800148EC |       37 |          2 |        | https://decomp.me/scratch/xHFCE | 0.711 |
-| main  | func_800CD390 |       37 |          4 |        |                                 |       |
-| main  | func_800298B4 |       37 |          5 |        |                                 |       |
+| main  | func_800CD390 |       37 |          4 |        | https://decomp.me/scratch/reAIV | 1.0   |
+| main  | func_800298B4 |       37 |          5 |        | https://decomp.me/scratch/TXa4H | 1.0   |
 | main  | func_8002D6BC |       37 |          6 | Yes    |                                 |       |
-| main  | func_80037A24 |       37 |          7 |        |                                 |       |
-| main  | func_800380F0 |       37 |          8 |        |                                 |       |
+| main  | func_80037A24 |       37 |          7 |        | https://decomp.me/scratch/sAHRp | 1.0   |
+| main  | func_800380F0 |       37 |          8 |        | https://decomp.me/scratch/cZm0L | 1.0   |
 | main  | func_800241E8 |       38 |          3 |        |                                 |       |
-| main  | func_80027AFC |       38 |          5 |        |                                 |       |
-| main  | func_80027B70 |       38 |          5 |        |                                 |       |
-| main  | func_80035FC4 |       38 |          5 |        |                                 |       |
-| main  | func_80027D40 |       39 |          4 |        |                                 |       |
-| main  | func_800281E8 |       39 |          4 |        |                                 |       |
+| main  | func_80027AFC |       38 |          5 |        | https://decomp.me/scratch/W0GvN | 0.284 |
+| main  | func_80027B70 |       38 |          5 |        | https://decomp.me/scratch/nUKIp | 0.284 |
+| main  | func_80035FC4 |       38 |          5 |        | https://decomp.me/scratch/eVsRQ | 0.995 |
+| main  | func_80027D40 |       39 |          4 |        | https://decomp.me/scratch/olUbv | 0.902 |
+| main  | func_800281E8 |       39 |          4 |        | https://decomp.me/scratch/IQ4vu | 0.902 |
 | main  | func_80015E54 |       39 |          5 |        | https://decomp.me/scratch/ATqsw | 0.894 |
 | main  | func_80014140 |       39 |          6 |        | https://decomp.me/scratch/rdAbc | 1.0   |
-| main  | func_800398F0 |       39 |          8 |        |                                 |       |
+| main  | func_800398F0 |       39 |          8 |        | https://decomp.me/scratch/coxGt | 0.653 |
 | main  | func_80012740 |       40 |          4 |        | https://decomp.me/scratch/IG2w7 | 0.646 |
-| main  | func_80016BDC |       40 |          5 |        |                                 |       |
+| main  | func_80016BDC |       40 |          5 |        | https://decomp.me/scratch/QLf6U | 1.0   |
 | main  | func_800AE714 |       40 |          5 |        |                                 |       |
-| main  | func_80016B58 |       40 |          6 |        |                                 |       |
+| main  | func_80016B58 |       40 |          6 |        | https://decomp.me/scratch/cPtxT | 0.949 |
 | main  | func_8002D41C |       40 |          7 | Yes    |                                 |       |
-| main  | func_800B5E2C |       41 |          4 |        |                                 |       |
-| main  | func_80016E84 |       41 |          7 |        |                                 |       |
+| main  | func_800B5E2C |       41 |          4 |        | https://decomp.me/scratch/Z0zfQ | 0.927 |
+| main  | func_80016E84 |       41 |          7 |        | https://decomp.me/scratch/POJRJ | 0.774 |
 | main  | func_800334F4 |       41 |          8 |        |                                 |       |
 | main  | func_8002B694 |       42 |          4 |        |                                 |       |
 | main  | func_800B6FF4 |       42 |          6 |        | https://decomp.me/scratch/cltI5 | 1.0   |
-| main  | func_80028F58 |       43 |          3 |        |                                 |       |
+| main  | func_80028F58 |       43 |          3 |        | https://decomp.me/scratch/KNpFT | 0.854 |
 | main  | func_8002A74C |       43 |          5 |        |                                 |       |
-| main  | func_80012EB8 |       43 |          8 |        |                                 |       |
-| main  | func_800CD408 |       44 |          5 |        |                                 |       |
-| main  | func_80016DAC |       44 |          8 |        |                                 |       |
-| main  | func_80037104 |       44 |          8 |        |                                 |       |
-| main  | func_8002B288 |       45 |          5 |        |                                 |       |
-| main  | func_800CCEF0 |       45 |          7 | Yes    |                                 |       |
-| main  | func_8001FEC0 |       45 |          8 |        |                                 |       |
-| main  | func_800CD498 |       46 |          6 |        |                                 |       |
-| main  | func_80026118 |       47 |          4 |        |                                 |       |
-| main  | func_8001D064 |       47 |          8 |        | https://decomp.me/scratch/WS0Xv | 0.886 |
-| main  | func_800343A4 |       47 |         10 |        |                                 |       |
+| main  | func_80012EB8 |       43 |          8 |        | https://decomp.me/scratch/D5QEe | 1.0   |
+| main  | func_800CD408 |       44 |          5 |        | https://decomp.me/scratch/3Kw1Q | 1.0   |
+| main  | func_80016DAC |       44 |          8 |        | https://decomp.me/scratch/xV27Y | 1.0   |
+| main  | func_80037104 |       44 |          8 |        | https://decomp.me/scratch/BXJx0 | 1.0   |
+| main  | func_8002B288 |       45 |          5 |        | https://decomp.me/scratch/ACRJO | 0.976 |
+| main  | func_800CCEF0 |       45 |          7 | Yes    | https://decomp.me/scratch/BUkqC | 1.0   |
+| main  | func_8001FEC0 |       45 |          8 |        | https://decomp.me/scratch/RD504 | 0.944 |
+| main  | func_800CD498 |       46 |          6 |        | https://decomp.me/scratch/xToNf | 1.0   |
+| main  | func_80026118 |       47 |          4 |        | https://decomp.me/scratch/3DbPS | 0.796 |
+| main  | func_8001D064 |       47 |          8 |        | https://decomp.me/scratch/WS0Xv | 0.887 |
+| main  | func_800343A4 |       47 |         10 |        | https://decomp.me/scratch/Kql4R | 1.0   |
 | main  | func_80012560 |       48 |          3 |        | https://decomp.me/scratch/dSjAq | 0.445 |
-| main  | func_800CA030 |       48 |         10 |        |                                 |       |
+| main  | func_800CA030 |       48 |         10 |        | https://decomp.me/scratch/ruRLQ | 0.941 |
 | main  | func_80018E50 |       48 |         15 |        |                                 |       |
 | main  | func_8002C760 |       49 |          2 |        |                                 |       |
 | main  | func_80029604 |       49 |          3 |        |                                 |       |
