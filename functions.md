@@ -93,7 +93,7 @@
 | main  | func_80012560 |       48 |          3 |        | https://decomp.me/scratch/dSjAq | 0.445 |
 | main  | func_800CA030 |       48 |         10 |        | https://decomp.me/scratch/ruRLQ | 0.941 |
 | main  | func_80018E50 |       48 |         15 |        | https://decomp.me/scratch/JcR9J | 1.0   |
-| main  | func_8002C760 |       49 |          2 |        |                                 |       |
+| main  | func_8002C760 |       49 |          2 |        | https://decomp.me/scratch/W8Wjg | 1.0   |
 | main  | func_80029604 |       49 |          3 |        | https://decomp.me/scratch/hMvkk | 0.852 |
 | main  | func_8001D9D0 |       50 |          9 |        | https://decomp.me/scratch/lGxEP | 1.0   |
 | main  | func_80038158 |       50 |          9 |        | https://decomp.me/scratch/p9vz9 | 0.998 |
@@ -117,7 +117,7 @@
 | main  | func_80027850 |       55 |          9 |        |                                 |       |
 | main  | func_80021C14 |       55 |         10 |        |                                 |       |
 | main  | func_800292D0 |       56 |          6 |        |                                 |       |
-| main  | func_8002D724 |       57 |          5 |        |                                 |       |
+| main  | func_8002D724 |       57 |          5 |        | https://decomp.me/scratch/4r1kO | 0.592 |
 | main  | func_80013DA8 |       57 |         13 |        | https://decomp.me/scratch/uFiHC | 1.0   |
 | main  | func_800355C0 |       59 |          2 |        |                                 |       |
 | main  | func_800CB634 |       59 |          2 |        |                                 |       |
@@ -201,7 +201,7 @@
 | main  | func_800136B0 |       91 |         14 |        | https://decomp.me/scratch/OXGjn | 1.0   |
 | main  | func_80012600 |       91 |         16 |        | https://decomp.me/scratch/F7UMs | 0.523 |
 | main  | func_800275DC |       93 |          8 |        | https://decomp.me/scratch/tXFWa | 0.347 |
-| main  | func_8002C808 |       93 |         11 |        |                                 |       |
+| main  | func_8002C808 |       93 |         11 |        | https://decomp.me/scratch/2pyLl | 1.0   |
 | main  | func_800D3AFC |       94 |          3 |        |                                 |       |
 | main  | func_800C9EE8 |       94 |          9 |        |                                 |       |
 | main  | func_80015C10 |       94 |         12 |        |                                 |       |
@@ -214,7 +214,7 @@
 | main  | func_800312B4 |       98 |         18 |        |                                 |       |
 | main  | func_80027BE4 |       99 |         13 |        |                                 |       |
 | main  | func_800CB394 |       99 |         13 |        |                                 |       |
-| main  | func_8002C614 |       99 |         26 |        |                                 |       |
+| main  | func_8002C614 |       99 |         26 |        | https://decomp.me/scratch/Jj6bk | 1.0   |
 | main  | func_80049AA0 |      101 |         20 |        |                                 |       |
 | main  | func_800169D8 |      102 |         17 |        | https://decomp.me/scratch/i6hak | 0.999 |
 | main  | func_8002F048 |      105 |         17 |        |                                 |       |
@@ -232,7 +232,7 @@
 | main  | func_800B599C |      122 |         10 |        |                                 |       |
 | main  | func_80036F50 |      123 |         25 |        |                                 |       |
 | main  | func_80035694 |      124 |         24 |        |                                 |       |
-| main  | func_8002CDD4 |      126 |         19 |        |                                 |       |
+| main  | func_8002CDD4 |      126 |         19 |        | https://decomp.me/scratch/sDyJD | 1.0   |
 | main  | func_800D5D50 |      129 |         19 |        |                                 |       |
 | main  | func_8002E420 |      133 |         22 | Yes    |                                 |       |
 | main  | func_800BBA24 |      133 |         23 |        |                                 |       |
