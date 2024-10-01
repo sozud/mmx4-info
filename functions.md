@@ -16,7 +16,7 @@
 | main  | func_800CCD48 |       26 |          4 |        | https://decomp.me/scratch/1vKcH | 1.0   |
 | main  | func_80016E34 |       27 |          5 |        | https://decomp.me/scratch/arNQA | 1.0   |
 | main  | func_8001D77C |       27 |          5 |        | https://decomp.me/scratch/Da1mv | 1.0   |
-| main  | func_80027A5C |       28 |          3 |        | https://decomp.me/scratch/5KtAJ | 0.287 |
+| main  | func_80027A5C |       28 |          3 |        | https://decomp.me/scratch/v9H3P | 0.895 |
 | main  | func_80027AAC |       28 |          3 |        | https://decomp.me/scratch/ZQr7G | 0.9   |
 | main  | func_800CD6D8 |       28 |          3 |        | https://decomp.me/scratch/wcmZ6 | 1.0   |
 | main  | func_800D5CF8 |       28 |          3 |        | https://decomp.me/scratch/VkvKP | 1.0   |
