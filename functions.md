@@ -133,7 +133,7 @@
 | main  | func_80038678 |       62 |         13 |        | 8 player              |                                 |       |
 | main  | func_80013890 |       63 |          9 |        |                       | https://decomp.me/scratch/s2hia | 1.0   |
 | main  | func_800CD2BC |       63 |          9 |        | 5 misc                |                                 |       |
-| main  | func_800257BC |       63 |         10 |        | 8 player              |                                 |       |
+| main  | func_800257BC |       63 |         10 |        | 8 player              | https://decomp.me/scratch/e80Yy | 0.858 |
 | main  | func_80016FF4 |       63 |         12 |        |                       | https://decomp.me/scratch/Hz5cU | 0.88  |
 | main  | func_8001DCCC |       63 |         12 |        |                       |                                 |       |
 | main  | func_8001FF8C |       63 |         13 |        | 10 engine             |                                 |       |
