@@ -65,7 +65,6 @@
 | main  | func_800B5E2C |       41 |          4 |        | 3 effect              | https://decomp.me/scratch/RfbIV | 1.0   |
 | main  | func_80016E84 |       41 |          7 |        |                       | https://decomp.me/scratch/POJRJ | 0.774 |
 | main  | func_800334F4 |       41 |          8 |        | 8 player              |                                 |       |
-| main  | func_800B6FF4 |       42 |          6 |        | 3 effect              | https://decomp.me/scratch/tZYv6 | 1.0   |
 | main  | func_80028F58 |       43 |          3 |        |                       | https://decomp.me/scratch/KNpFT | 0.854 |
 | main  | func_8002A74C |       43 |          5 |        |                       | https://decomp.me/scratch/QFDVv | 1.0   |
 | main  | func_80012EB8 |       43 |          8 |        |                       | https://decomp.me/scratch/D5QEe | 1.0   |
