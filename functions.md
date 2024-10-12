@@ -27,19 +27,15 @@
 | main  | func_80012854 |       32 |          5 |        |                       | https://decomp.me/scratch/Hdma4 | 0.772 |
 | main  | func_800AE6B4 |       32 |          5 |        |                       | https://decomp.me/scratch/6re6O | 0.44  |
 | main  | func_800B5C60 |       33 |          3 |        | 3 effect              | https://decomp.me/scratch/mNoTz | 1.0   |
-| main  | func_800CD110 |       33 |          4 |        | 5 misc                | https://decomp.me/scratch/VgeDn | 1.0   |
 | main  | func_80021D20 |       33 |          6 |        | 6 QuadObj             | https://decomp.me/scratch/ozuCN | 1.0   |
 | main  | func_80036EE8 |       33 |          6 |        | 8 player              | https://decomp.me/scratch/0nck6 | 1.0   |
 | main  | func_80039BB8 |       33 |          6 |        | 8 player              | https://decomp.me/scratch/MmreJ | 1.0   |
 | main  | func_800D5C90 |       34 |          3 |        | 6 QuadObj             | https://decomp.me/scratch/6DqSB | 1.0   |
 | main  | func_80036B88 |       34 |          4 |        | 8 player              | https://decomp.me/scratch/mV8AT | 0.98  |
-| main  | func_800CD034 |       35 |          3 |        | 5 misc                | https://decomp.me/scratch/PRYCj | 1.0   |
-| main  | func_800CD178 |       35 |          3 |        | 5 misc                | https://decomp.me/scratch/gkzdm | 1.0   |
 | main  | func_800AE7DC |       35 |          5 |        |                       | https://decomp.me/scratch/KFgoF | 1.0   |
-| main  | func_800CD0A4 |       35 |          5 |        | 5 misc                | https://decomp.me/scratch/4PtK6 | 1.0   |
 | main  | func_80028DB4 |       36 |          3 |        |                       | https://decomp.me/scratch/XoEMD | 0.979 |
 | main  | func_8001DDB0 |       36 |          4 |        |                       | https://decomp.me/scratch/ZbVhw | 1.0   |
-| main  | func_800CDB10 |       36 |          4 |        | 5 misc                | https://decomp.me/scratch/jUL80 | 1.0   |
+| main  | func_800CDB10 |       36 |          4 |        | 5 misc                | https://decomp.me/scratch/PsIFe | 1.0   |
 | main  | func_800CB4E4 |       36 |          6 |        | 5 misc                | https://decomp.me/scratch/0ODc2 | 1.0   |
 | main  | func_800148EC |       37 |          2 |        |                       | https://decomp.me/scratch/MuSQg | 1.0   |
 | main  | func_800CD390 |       37 |          4 |        | 5 misc                | https://decomp.me/scratch/reAIV | 1.0   |
