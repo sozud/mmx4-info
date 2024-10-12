@@ -43,7 +43,7 @@
 | main  | func_8002D6BC |       37 |          6 | Yes    | 8 player              |                                 |       |
 | main  | func_800380F0 |       37 |          8 |        | 8 player              | https://decomp.me/scratch/cZm0L | 1.0   |
 | main  | func_800241E8 |       38 |          3 |        |                       | https://decomp.me/scratch/ee1FF | 0.722 |
-| main  | func_80027AFC |       38 |          5 |        | 9 background          | https://decomp.me/scratch/W0GvN | 0.284 |
+| main  | func_80027AFC |       38 |          5 |        | 9 background          | https://decomp.me/scratch/h7nvM | 0.926 |
 | main  | func_80027B70 |       38 |          5 |        | 9 background          | https://decomp.me/scratch/nUKIp | 0.284 |
 | main  | func_80035FC4 |       38 |          5 |        |                       | https://decomp.me/scratch/eVsRQ | 0.995 |
 | main  | func_80027D40 |       39 |          4 |        | 8 player,9 background | https://decomp.me/scratch/olUbv | 0.902 |
