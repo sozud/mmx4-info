@@ -34,10 +34,7 @@
 | main  | func_800AE7DC |       35 |          5 |        |                       | https://decomp.me/scratch/KFgoF | 1.0   |
 | main  | func_80028DB4 |       36 |          3 |        |                       | https://decomp.me/scratch/XoEMD | 0.979 |
 | main  | func_8001DDB0 |       36 |          4 |        |                       | https://decomp.me/scratch/ZbVhw | 1.0   |
-| main  | func_800CDB10 |       36 |          4 |        | 5 misc                | https://decomp.me/scratch/PsIFe | 1.0   |
-| main  | func_800CB4E4 |       36 |          6 |        | 5 misc                | https://decomp.me/scratch/0ODc2 | 1.0   |
 | main  | func_800148EC |       37 |          2 |        |                       | https://decomp.me/scratch/MuSQg | 1.0   |
-| main  | func_800CD390 |       37 |          4 |        | 5 misc                | https://decomp.me/scratch/reAIV | 1.0   |
 | main  | func_800298B4 |       37 |          5 |        | 10 engine             | https://decomp.me/scratch/TXa4H | 1.0   |
 | main  | func_8002D6BC |       37 |          6 | Yes    | 8 player              |                                 |       |
 | main  | func_800380F0 |       37 |          8 |        | 8 player              | https://decomp.me/scratch/cZm0L | 1.0   |
