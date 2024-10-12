@@ -55,11 +55,8 @@
 | main  | func_800334F4 |       41 |          8 |        | 8 player              |                                 |       |
 | main  | func_80028F58 |       43 |          3 |        |                       | https://decomp.me/scratch/KNpFT | 0.854 |
 | main  | func_80012EB8 |       43 |          8 |        |                       | https://decomp.me/scratch/D5QEe | 1.0   |
-| main  | func_800CD408 |       44 |          5 |        | 5 misc                | https://decomp.me/scratch/3Kw1Q | 1.0   |
 | main  | func_80037104 |       44 |          8 |        | 8 player              | https://decomp.me/scratch/BXJx0 | 1.0   |
-| main  | func_800CCEF0 |       45 |          7 | Yes    | 5 misc                | https://decomp.me/scratch/BUkqC | 1.0   |
 | main  | func_8001FEC0 |       45 |          8 |        |                       | https://decomp.me/scratch/RD504 | 0.944 |
-| main  | func_800CD498 |       46 |          6 |        | 5 misc                | https://decomp.me/scratch/xToNf | 1.0   |
 | main  | func_80026118 |       47 |          4 |        |                       | https://decomp.me/scratch/3DbPS | 0.796 |
 | main  | func_8001D064 |       47 |          8 |        |                       | https://decomp.me/scratch/WS0Xv | 0.887 |
 | main  | func_800343A4 |       47 |         10 |        | 8 player              | https://decomp.me/scratch/Kql4R | 1.0   |
@@ -79,7 +76,7 @@
 | main  | func_8001D6DC |       52 |         15 |        |                       | https://decomp.me/scratch/OEIj8 | 0.869 |
 | main  | func_8002F1B4 |       53 |          5 |        | 10 engine             | https://decomp.me/scratch/HXlEF | 1.0   |
 | main  | func_8002728C |       53 |          6 |        | 5 misc,8 player       | https://decomp.me/scratch/zib7J | 0.452 |
-| main  | func_800CCCA0 |       53 |          8 |        | 5 misc                | https://decomp.me/scratch/ClrQz | 1.0   |
+| main  | func_800CCCA0 |       53 |          8 |        | 5 misc                | https://decomp.me/scratch/FyzGH | 1.0   |
 | main  | func_80033EA4 |       54 |         12 |        | 8 player              | https://decomp.me/scratch/XwGP7 | 1.0   |
 | main  | func_800D6F94 |       55 |          1 |        | 6 QuadObj             | https://decomp.me/scratch/sKCNU | 1.0   |
 | main  | func_800267D4 |       55 |          2 |        |                       | https://decomp.me/scratch/lt3of | 0.111 |
