@@ -73,7 +73,6 @@
 | main  | func_8002F1B4 |       53 |          5 |        | 10 engine             | https://decomp.me/scratch/HXlEF | 1.0   |
 | main  | func_8002728C |       53 |          6 |        | 5 misc,8 player       | https://decomp.me/scratch/zib7J | 0.452 |
 | main  | func_80033EA4 |       54 |         12 |        | 8 player              | https://decomp.me/scratch/XwGP7 | 1.0   |
-| main  | func_800D6F94 |       55 |          1 |        | 6 QuadObj             | https://decomp.me/scratch/sKCNU | 1.0   |
 | main  | func_800267D4 |       55 |          2 |        |                       | https://decomp.me/scratch/lt3of | 0.111 |
 | main  | func_8002E5E0 |       55 |          4 |        |                       |                                 |       |
 | main  | func_800B2C8C |       55 |          5 |        | 5 misc                | https://decomp.me/scratch/hNb47 | 0.829 |
