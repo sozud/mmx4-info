@@ -187,7 +187,7 @@
 | main  | func_800CB048 |      120 |         10 |        | 5 misc                |                                 |       |
 | main  | func_800CD530 |      120 |         25 |        | 5 misc                |                                 |       |
 | main  | func_80049904 |      121 |         11 | Yes    | 0 gameobj             |                                 |       |
-| main  | func_800B599C |      122 |         10 |        | 3 effect              |                                 |       |
+| main  | func_800B599C |      122 |         10 |        | 3 effect              | https://decomp.me/scratch/tgxRu | 0.965 |
 | main  | func_80036F50 |      123 |         25 |        | 8 player              |                                 |       |
 | main  | func_80035694 |      124 |         24 |        | 8 player              |                                 |       |
 | main  | func_800D5D50 |      129 |         19 |        | 6 QuadObj             |                                 |       |
