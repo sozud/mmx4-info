@@ -152,7 +152,7 @@
 | main  | func_80049CC8 |       88 |         14 | Yes    | 0 gameobj             |                                 |       |
 | main  | func_80031410 |       88 |         17 |        | 8 player              |                                 |       |
 | main  | func_80028E24 |       89 |          9 |        | 6 QuadObj             |                                 |       |
-| main  | func_800B6EB4 |       89 |         10 |        |                       | https://decomp.me/scratch/U4RKa | 0.964 |
+| main  | func_800B6EB4 |       89 |         10 |        |                       | https://decomp.me/scratch/GhJYO | 0.974 |
 | main  | func_80012328 |       89 |         11 |        |                       | https://decomp.me/scratch/93Orx | 0.928 |
 | main  | func_8001E708 |       89 |         12 |        |                       |                                 |       |
 | main  | func_80024F5C |       90 |         11 |        | 8 player              | https://decomp.me/scratch/06BK5 | 1.0   |
