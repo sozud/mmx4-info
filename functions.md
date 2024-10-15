@@ -7,7 +7,7 @@
 | main  | func_80015DC8 |       24 |          2 |        | 5 misc,8 player       | https://decomp.me/scratch/s1cix | 1.0   |
 | main  | func_80015E0C |       25 |          2 |        |                       | https://decomp.me/scratch/cRJj5 | 0.625 |
 | main  | func_800AE848 |       25 |          5 |        |                       | https://decomp.me/scratch/ov23Z | 1.0   |
-| main  | func_800160AC |       26 |          3 |        |                       | https://decomp.me/scratch/t5RKM | 0.847 |
+| main  | func_800160AC |       26 |          3 |        |                       | https://decomp.me/scratch/qoHoy | 1.0   |
 | main  | func_80023CE0 |       26 |          3 |        |                       | https://decomp.me/scratch/yamjR | 0.812 |
 | main  | func_8001D77C |       27 |          5 |        |                       | https://decomp.me/scratch/Da1mv | 1.0   |
 | main  | func_80027A5C |       28 |          3 |        | 9 background          | https://decomp.me/scratch/v9H3P | 0.895 |
