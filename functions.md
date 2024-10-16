@@ -175,7 +175,7 @@
 | main  | func_8002F048 |      105 |         17 |        | 10 engine             |                                 |       |
 | main  | func_800CD78C |      108 |         12 |        | 5 misc                |                                 |       |
 | main  | func_8001326C |      110 |          5 |        |                       | https://decomp.me/scratch/kI5NG | 0.71  |
-| main  | func_800381FC |      112 |         21 |        | 8 player              |                                 |       |
+| main  | func_800381FC |      112 |         21 |        | 8 player              | https://decomp.me/scratch/W6XYF | 0.946 |
 | main  | func_800D4024 |      113 |          9 |        | 6 QuadObj             |                                 |       |
 | main  | func_800253F0 |      113 |         11 |        | 8 player              | https://decomp.me/scratch/LXAao | 0.89  |
 | main  | func_80029A48 |      116 |         22 |        | 10 engine             |                                 |       |
