@@ -25,7 +25,6 @@
 | main  | func_80021D20 |       33 |          6 |        | 6 QuadObj             | https://decomp.me/scratch/ozuCN | 1.0   |
 | main  | func_80036EE8 |       33 |          6 |        | 8 player              | https://decomp.me/scratch/0nck6 | 1.0   |
 | main  | func_80039BB8 |       33 |          6 |        | 8 player              | https://decomp.me/scratch/MmreJ | 1.0   |
-| main  | func_80036B88 |       34 |          4 |        | 8 player              | https://decomp.me/scratch/0Q6PR | 1.0   |
 | main  | func_800AE7DC |       35 |          5 |        |                       | https://decomp.me/scratch/KFgoF | 1.0   |
 | main  | func_80028DB4 |       36 |          3 |        |                       | https://decomp.me/scratch/XoEMD | 0.979 |
 | main  | func_8001DDB0 |       36 |          4 |        |                       | https://decomp.me/scratch/ZbVhw | 1.0   |
@@ -82,11 +81,8 @@
 | main  | func_800355C0 |       59 |          2 |        |                       | https://decomp.me/scratch/NuVOj | 1.0   |
 | main  | func_800CB634 |       59 |          2 |        | 5 misc                | https://decomp.me/scratch/Wrv7N | 0.996 |
 | main  | func_800311EC |       59 |          7 |        |                       | https://decomp.me/scratch/tmAhC | 0.96  |
-| main  | func_800362F8 |       59 |          7 |        | 8 player              | https://decomp.me/scratch/vSL6Z | 1.0   |
 | main  | func_80033694 |       59 |         10 |        | 8 player              | https://decomp.me/scratch/gkaSs | 0.907 |
 | main  | func_800350A4 |       60 |          6 |        | 8 player              | https://decomp.me/scratch/42Cfc | 0.684 |
-| main  | func_8003795C |       60 |         11 |        | 8 player              | https://decomp.me/scratch/5Akus | 1.0   |
-| main  | func_8002D25C |       61 |          5 |        | 8 player              | https://decomp.me/scratch/8II04 | 1.0   |
 | main  | func_80035DE4 |       61 |          9 |        | 8 player              | https://decomp.me/scratch/DPC7Y | 1.0   |
 | main  | func_80035EF0 |       61 |          9 |        | 10 engine             | https://decomp.me/scratch/rWC20 | 1.0   |
 | main  | func_8002D5E4 |       61 |         10 |        | 8 player              | https://decomp.me/scratch/ObI22 | 1.0   |
@@ -126,7 +122,6 @@
 | main  | func_800360B8 |       75 |         15 |        | 8 player              | https://decomp.me/scratch/Fa61Z | 1.0   |
 | main  | func_80012454 |       76 |         18 |        |                       | https://decomp.me/scratch/YcFxe | 1.0   |
 | main  | func_80019100 |       77 |          9 |        |                       | https://decomp.me/scratch/KobUv | 0.919 |
-| main  | func_800361F8 |       77 |         11 |        | 8 player              | https://decomp.me/scratch/pGQpU | 1.0   |
 | main  | func_800261B4 |       78 |          9 |        |                       |                                 |       |
 | main  | func_80021234 |       78 |         12 |        | 1                     |                                 |       |
 | main  | func_80021340 |       78 |         12 |        |                       |                                 |       |
@@ -140,7 +135,6 @@
 | main  | func_8002771C |       84 |          2 |        |                       |                                 |       |
 | main  | func_800B5D04 |       84 |          7 |        | 3 effect              |                                 |       |
 | main  | func_800CB708 |       85 |         12 |        | 5 misc                |                                 |       |
-| main  | func_80038378 |       85 |         16 |        | 8 player              | https://decomp.me/scratch/JSl39 | 1.0   |
 | main  | func_80014968 |       86 |         11 |        |                       |                                 |       |
 | main  | func_80013404 |       86 |         13 |        |                       | https://decomp.me/scratch/f04Zx | 1.0   |
 | main  | func_8002E698 |       86 |         16 |        | 10 engine             |                                 |       |
