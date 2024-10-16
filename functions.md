@@ -203,7 +203,6 @@
 | main  | func_80014514 |      165 |         12 |        |                       |                                 |       |
 | main  | func_80037708 |      165 |         25 |        | 8 player              |                                 |       |
 | main  | func_800142BC |      167 |         19 |        |                       | https://decomp.me/scratch/oybr7 | 0.428 |
-| main  | func_800D46F4 |      168 |         17 |        | 6 QuadObj             | https://decomp.me/scratch/Xm0P4 | 1.0   |
 | main  | func_80024920 |      170 |          8 |        | 6 QuadObj             |                                 |       |
 | main  | func_800CCA34 |      170 |         10 | Yes    | 5 misc                |                                 |       |
 | main  | func_8002A484 |      179 |         26 |        | 5 misc,6 QuadObj,7    | https://decomp.me/scratch/2VPOp | 0.803 |
