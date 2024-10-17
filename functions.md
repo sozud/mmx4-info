@@ -72,7 +72,7 @@
 | main  | func_800B2C8C |       55 |          5 |        | 5 misc                | https://decomp.me/scratch/hNb47 | 0.829 |
 | main  | func_80027850 |       55 |          9 |        | 8 player              | https://decomp.me/scratch/U7tI2 | 1.0   |
 | main  | func_80021C14 |       55 |         10 |        |                       | https://decomp.me/scratch/n5Cm9 | 0.974 |
-| main  | func_800292D0 |       56 |          6 |        |                       |                                 |       |
+| main  | func_800292D0 |       56 |          6 |        |                       | https://decomp.me/scratch/COZoP | 0.588 |
 | main  | func_8002D724 |       57 |          5 |        | 8 player              | https://decomp.me/scratch/9BxDr | 0.804 |
 | main  | func_80013DA8 |       57 |         13 |        |                       | https://decomp.me/scratch/uFiHC | 1.0   |
 | main  | func_800355C0 |       59 |          2 |        |                       | https://decomp.me/scratch/NuVOj | 1.0   |
@@ -151,7 +151,7 @@
 | main  | func_800D3AFC |       94 |          3 |        | 6 QuadObj             | https://decomp.me/scratch/WwLem | 0.91  |
 | main  | func_800C9EE8 |       94 |          9 |        | 5 misc                |                                 |       |
 | main  | func_80015C10 |       94 |         12 |        |                       |                                 |       |
-| main  | func_80033BC8 |       94 |         19 |        | 8 player              |                                 |       |
+| main  | func_80033BC8 |       94 |         19 |        | 8 player              | https://decomp.me/scratch/FOgDL | 1.0   |
 | main  | func_8002B810 |       95 |         19 |        |                       | https://decomp.me/scratch/WHFId | 0.677 |
 | main  | func_8002EDD4 |       95 |         19 |        | 10 engine             | https://decomp.me/scratch/wkVJC | 0.964 |
 | main  | func_800375B4 |       97 |         14 |        | 8 player              | https://decomp.me/scratch/6dj4q | 1.0   |
