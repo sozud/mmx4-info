@@ -1,7 +1,6 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | Objtype               | WIP                             | %     |
 |-------|---------------|----------|------------|--------|-----------------------|---------------------------------|-------|
 | main  | func_80028390 |       14 |          1 |        | 9 background          | https://decomp.me/scratch/PIveA | 1.0   |
-| main  | func_8002859C |       23 |          3 |        | 9 background          | https://decomp.me/scratch/HrU1m | 1.0   |
 | main  | func_80015DC8 |       24 |          2 |        | 5 misc,8 player       | https://decomp.me/scratch/s1cix | 1.0   |
 | main  | func_80015E0C |       25 |          2 |        |                       | https://decomp.me/scratch/GqeCn | 1.0   |
 | main  | func_800AE848 |       25 |          5 |        |                       | https://decomp.me/scratch/ov23Z | 1.0   |
@@ -14,7 +13,6 @@
 | main  | func_800127FC |       28 |          5 |        |                       | https://decomp.me/scratch/iVLcw | 1.0   |
 | main  | func_80035EA4 |       28 |          5 |        | 8 player              | https://decomp.me/scratch/vCrzS | 1.0   |
 | main  | func_8001E638 |       29 |          3 |        |                       | https://decomp.me/scratch/Jew9c | 1.0   |
-| main  | func_8002AB20 |       29 |          3 |        |                       | https://decomp.me/scratch/zbwIO | 1.0   |
 | main  | func_80021CC8 |       30 |          4 |        |                       | https://decomp.me/scratch/Sj7x6 | 1.0   |
 | main  | func_800164D8 |       31 |          2 |        |                       | https://decomp.me/scratch/5UTJ8 | 1.0   |
 | main  | func_8002938C |       31 |          3 |        |                       | https://decomp.me/scratch/Dnokk | 0.891 |
@@ -67,7 +65,6 @@
 | main  | func_800338CC |       52 |          8 |        | 8 player              | https://decomp.me/scratch/dnPoP | 1.0   |
 | main  | func_800335E4 |       52 |         11 |        | 8 player              | https://decomp.me/scratch/FNjrM | 1.0   |
 | main  | func_8001D6DC |       52 |         15 |        |                       | https://decomp.me/scratch/5VesI | 1.0   |
-| main  | func_8002F1B4 |       53 |          5 |        | 10 engine             | https://decomp.me/scratch/HXlEF | 1.0   |
 | main  | func_8002728C |       53 |          6 |        | 5 misc,8 player       | https://decomp.me/scratch/cnsL1 | 0.998 |
 | main  | func_80033EA4 |       54 |         12 |        | 8 player              | https://decomp.me/scratch/XwGP7 | 1.0   |
 | main  | func_800267D4 |       55 |          2 |        |                       | https://decomp.me/scratch/lt3of | 0.111 |
