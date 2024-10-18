@@ -103,7 +103,7 @@
 | main  | func_80029420 |       70 |         12 |        | 10 engine             | https://decomp.me/scratch/3rwVS | 1.0   |
 | main  | func_800296A8 |       72 |         10 |        | 10 engine             | https://decomp.me/scratch/2XP97 | 1.0   |
 | main  | func_8001D8DC |       73 |         13 |        |                       |                                 |       |
-| main  | func_8001D7D0 |       75 |          8 |        |                       |                                 |       |
+| main  | func_8001D7D0 |       75 |          8 |        |                       | https://decomp.me/scratch/Y0YLh | 0.84  |
 | main  | func_800168D8 |       75 |         15 |        |                       | https://decomp.me/scratch/diabL | 1.0   |
 | main  | func_8001FDBC |       75 |         15 |        |                       |                                 |       |
 | main  | func_800360B8 |       75 |         15 |        | 8 player              | https://decomp.me/scratch/Fa61Z | 1.0   |
