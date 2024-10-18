@@ -51,7 +51,6 @@
 | main  | func_8001D064 |       47 |          8 |        |                       | https://decomp.me/scratch/WS0Xv | 0.887 |
 | main  | func_800343A4 |       47 |         10 |        | 8 player              | https://decomp.me/scratch/Kql4R | 1.0   |
 | main  | func_80012560 |       48 |          3 |        |                       | https://decomp.me/scratch/dSjAq | 0.445 |
-| main  | func_80018E50 |       48 |         15 |        |                       | https://decomp.me/scratch/JcR9J | 1.0   |
 | main  | func_80029604 |       49 |          3 |        | 10 engine             | https://decomp.me/scratch/miBUB | 1.0   |
 | main  | func_8001D9D0 |       50 |          9 |        |                       | https://decomp.me/scratch/lGxEP | 1.0   |
 | main  | func_80037290 |       50 |         10 |        | 8 player              | https://decomp.me/scratch/yzLLA | 1.0   |
