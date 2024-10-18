@@ -100,8 +100,8 @@
 | main  | func_80024E70 |       68 |         12 |        |                       | https://decomp.me/scratch/6383h | 1.0   |
 | main  | func_8001E54C |       69 |          7 |        |                       |                                 |       |
 | main  | func_8001DE54 |       70 |          5 |        |                       |                                 |       |
-| main  | func_80029420 |       70 |         12 |        | 10 engine             |                                 |       |
-| main  | func_800296A8 |       72 |         10 |        | 10 engine             |                                 |       |
+| main  | func_80029420 |       70 |         12 |        | 10 engine             | https://decomp.me/scratch/3rwVS | 1.0   |
+| main  | func_800296A8 |       72 |         10 |        | 10 engine             | https://decomp.me/scratch/2XP97 | 1.0   |
 | main  | func_8001D8DC |       73 |         13 |        |                       |                                 |       |
 | main  | func_8001D7D0 |       75 |          8 |        |                       |                                 |       |
 | main  | func_800168D8 |       75 |         15 |        |                       | https://decomp.me/scratch/diabL | 1.0   |
