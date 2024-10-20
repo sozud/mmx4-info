@@ -1,6 +1,5 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | Objtype               | WIP                             | %     |
 |-------|---------------|----------|------------|--------|-----------------------|---------------------------------|-------|
-| main  | func_80028390 |       14 |          1 |        | 9 background          | https://decomp.me/scratch/PIveA | 1.0   |
 | main  | func_80015DC8 |       24 |          2 |        | 5 misc,8 player       | https://decomp.me/scratch/s1cix | 1.0   |
 | main  | func_80015E0C |       25 |          2 |        |                       | https://decomp.me/scratch/GqeCn | 1.0   |
 | main  | func_800AE848 |       25 |          5 |        |                       | https://decomp.me/scratch/ov23Z | 1.0   |
