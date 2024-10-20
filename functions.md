@@ -77,7 +77,7 @@
 | main  | func_8002D5E4 |       61 |         10 |        | 8 player              | https://decomp.me/scratch/ObI22 | 1.0   |
 | main  | func_80021158 |       61 |         23 |        | 10 engine             | https://decomp.me/scratch/o61g1 | 1.0   |
 | main  | func_80024260 |       62 |          4 |        |                       |                                 |       |
-| main  | func_8002D7E4 |       62 |          5 |        | 8 player              |                                 |       |
+| main  | func_8002D7E4 |       62 |          5 |        | 8 player              | https://decomp.me/scratch/GcYIr | 0.471 |
 | main  | func_80019228 |       62 |          8 |        |                       | https://decomp.me/scratch/tD09y | 1.0   |
 | main  | func_80038678 |       62 |         13 |        | 8 player              |                                 |       |
 | main  | func_80013890 |       63 |          9 |        |                       | https://decomp.me/scratch/s2hia | 1.0   |
