@@ -55,7 +55,6 @@
 | main  | func_800267D4 |       55 |          2 |        |                       | https://decomp.me/scratch/lt3of | 0.111 |
 | main  | func_8002E5E0 |       55 |          4 |        |                       | https://decomp.me/scratch/pSt0I | 0.652 |
 | main  | func_800B2C8C |       55 |          5 |        | 5 misc                | https://decomp.me/scratch/hNb47 | 0.829 |
-| main  | func_80021C14 |       55 |         10 |        |                       |                                 |       |
 | main  | func_800292D0 |       56 |          6 |        |                       | https://decomp.me/scratch/COZoP | 0.588 |
 | main  | func_8002D724 |       57 |          5 |        | 8 player              | https://decomp.me/scratch/9BxDr | 0.804 |
 | main  | func_80013DA8 |       57 |         13 |        |                       | https://decomp.me/scratch/uFiHC | 1.0   |
