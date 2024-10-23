@@ -102,7 +102,6 @@
 | main  | func_80021340 |       78 |         12 |        |                       | https://decomp.me/scratch/ubfAR | 0.97  |
 | main  | func_8002144C |       78 |         12 |        | 0 gameobj             | https://decomp.me/scratch/F9MQ5 | 0.967 |
 | main  | func_8002174C |       78 |         12 |        | 3 effect              |                                 |       |
-| main  | func_800CB27C |       80 |         13 |        | 5 misc                | https://decomp.me/scratch/srqS9 | 1.0   |
 | main  | func_80021558 |       81 |         12 |        |                       |                                 |       |
 | main  | func_80021858 |       81 |         12 |        | 3 effect,4 ,10 engine |                                 |       |
 | main  | func_80021A20 |       81 |         12 |        | 5 misc                |                                 |       |
