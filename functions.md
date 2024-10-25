@@ -141,7 +141,7 @@
 | main  | func_800CD530 |      120 |         25 |        | 5 misc                | https://decomp.me/scratch/TsKy5 | 0.972 |
 | main  | func_80049904 |      121 |         11 | Yes    | 0 gameobj             |                                 |       |
 | main  | func_80036F50 |      123 |         25 |        | 8 player              | https://decomp.me/scratch/doxjm | 0.813 |
-| main  | func_80035694 |      124 |         24 |        | 8 player              |                                 |       |
+| main  | func_80035694 |      124 |         24 |        | 8 player              | https://decomp.me/scratch/PJMPi | 1.0   |
 | main  | func_800D5D50 |      129 |         19 |        | 6 QuadObj             | https://decomp.me/scratch/xYGd6 | 0.544 |
 | main  | func_8002E420 |      133 |         22 | Yes    | 10 engine             |                                 |       |
 | main  | func_800BBA24 |      133 |         23 |        | 3 effect              | https://decomp.me/scratch/nMH2K | 1.0   |
