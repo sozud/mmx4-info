@@ -58,7 +58,6 @@
 | main  | func_8002D724 |       57 |          5 |        | 8 player              | https://decomp.me/scratch/9BxDr | 0.804 |
 | main  | func_80013DA8 |       57 |         13 |        |                       | https://decomp.me/scratch/uFiHC | 1.0   |
 | main  | func_800355C0 |       59 |          2 |        |                       | https://decomp.me/scratch/NuVOj | 1.0   |
-| main  | func_800CB634 |       59 |          2 |        | 5 misc                | https://decomp.me/scratch/Wrv7N | 0.996 |
 | main  | func_800311EC |       59 |          7 |        |                       | https://decomp.me/scratch/tmAhC | 0.96  |
 | main  | func_80033694 |       59 |         10 |        | 8 player              | https://decomp.me/scratch/gkaSs | 0.907 |
 | main  | func_800350A4 |       60 |          6 |        | 8 player              | https://decomp.me/scratch/dkhWm | 1.0   |
@@ -94,8 +93,8 @@
 | main  | func_80019100 |       77 |          9 |        |                       | https://decomp.me/scratch/KobUv | 0.919 |
 | main  | func_800261B4 |       78 |          9 |        |                       | https://decomp.me/scratch/0UCyE | 0.997 |
 | main  | func_80021234 |       78 |         12 |        | 1                     |                                 |       |
-| main  | func_80021340 |       78 |         12 |        |                       | https://decomp.me/scratch/ubfAR | 0.97  |
-| main  | func_8002144C |       78 |         12 |        | 0 gameobj             | https://decomp.me/scratch/F9MQ5 | 0.967 |
+| main  | func_80021340 |       78 |         12 |        |                       | https://decomp.me/scratch/T1Wfk | 1.0   |
+| main  | func_8002144C |       78 |         12 |        | 0 gameobj             | https://decomp.me/scratch/Wt4I4 | 1.0   |
 | main  | func_8002174C |       78 |         12 |        | 3 effect              |                                 |       |
 | main  | func_80021558 |       81 |         12 |        |                       |                                 |       |
 | main  | func_80021858 |       81 |         12 |        | 3 effect,4 ,10 engine |                                 |       |
