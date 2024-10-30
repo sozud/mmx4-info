@@ -94,7 +94,7 @@
 | main  | func_800136B0 |       91 |         14 |        |                       | https://decomp.me/scratch/OXGjn | 1.0   |
 | main  | func_80012600 |       91 |         16 |        | 4                     | https://decomp.me/scratch/F7UMs | 0.523 |
 | main  | func_800275DC |       93 |          8 |        |                       | https://decomp.me/scratch/tXFWa | 0.347 |
-| main  | func_800D3AFC |       94 |          3 |        | 6 QuadObj             | https://decomp.me/scratch/WwLem | 0.91  |
+| main  | func_800D3AFC |       94 |          3 |        | 6 QuadObj             | https://decomp.me/scratch/WwLem | 1.0   |
 | main  | func_800C9EE8 |       94 |          9 |        | 5 misc                | https://decomp.me/scratch/VtdDP | 1.0   |
 | main  | func_80015C10 |       94 |         12 |        |                       | https://decomp.me/scratch/Q5zvp | 1.0   |
 | main  | func_8002B810 |       95 |         19 |        |                       | https://decomp.me/scratch/WHFId | 0.677 |
@@ -122,7 +122,6 @@
 | main  | func_8002CF98 |      147 |         23 | Yes    | 8 player              | https://decomp.me/scratch/wIW0n | 0.731 |
 | main  | func_800262B8 |      148 |          9 |        |                       |                                 |       |
 | main  | func_80025588 |      154 |         17 |        |                       | https://decomp.me/scratch/7kdDB | 0.995 |
-| main  | func_800D6260 |      159 |         24 |        | 6 QuadObj             | https://decomp.me/scratch/D56XP | 1.0   |
 | main  | func_80026AA0 |      162 |         10 |        |                       |                                 |       |
 | main  | func_80025188 |      163 |          6 |        |                       |                                 |       |
 | main  | func_80013014 |      164 |         15 |        | 10 engine             |                                 |       |
@@ -147,7 +146,7 @@
 | main  | func_800182E8 |      205 |         21 |        |                       | https://decomp.me/scratch/5aIkz | 0.731 |
 | main  | func_80012A3C |      207 |         32 |        |                       |                                 |       |
 | main  | func_80018788 |      226 |         39 |        |                       | https://decomp.me/scratch/WDtQ3 | 0.749 |
-| main  | func_80014DC4 |      229 |         13 |        |                       |                                 |       |
+| main  | func_80014DC4 |      229 |         13 |        |                       | https://decomp.me/scratch/TcSWS | 0.801 |
 | main  | func_800D3C58 |      241 |         33 |        | 6 QuadObj             | https://decomp.me/scratch/1EbiN | 0.69  |
 | main  | func_80025DA0 |      244 |         34 |        |                       |                                 |       |
 | main  | func_80035240 |      246 |         26 |        | 9 background          |                                 |       |
