@@ -1,13 +1,8 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | Objtype               | WIP                             | %     |
 |-------|---------------|----------|------------|--------|-----------------------|---------------------------------|-------|
 | main  | func_80015DC8 |       24 |          2 |        | 5 misc,8 player       | https://decomp.me/scratch/s1cix | 1.0   |
-| main  | func_800AE848 |       25 |          5 |        |                       | https://decomp.me/scratch/ov23Z | 1.0   |
-| main  | func_80023CE0 |       26 |          3 |        |                       | https://decomp.me/scratch/Ve0mk | 1.0   |
-| main  | func_8001D77C |       27 |          5 |        |                       | https://decomp.me/scratch/Da1mv | 1.0   |
 | main  | func_80027A5C |       28 |          3 |        | 9 background          | https://decomp.me/scratch/v9H3P | 0.895 |
 | main  | func_80027AAC |       28 |          3 |        | 9 background          | https://decomp.me/scratch/ZQr7G | 0.9   |
-| main  | func_8001E638 |       29 |          3 |        |                       | https://decomp.me/scratch/1iqnl | 1.0   |
-| main  | func_800164D8 |       31 |          2 |        |                       | https://decomp.me/scratch/5UTJ8 | 1.0   |
 | main  | func_8002938C |       31 |          3 |        |                       | https://decomp.me/scratch/Dnokk | 0.891 |
 | main  | func_8003718C |       31 |          6 |        | 8 player              | https://decomp.me/scratch/Xn9HF | 0.993 |
 | main  | func_80012854 |       32 |          5 |        |                       | https://decomp.me/scratch/VMz2A | 0.852 |
