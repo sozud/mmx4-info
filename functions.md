@@ -146,7 +146,6 @@
 | main  | func_800182E8 |      205 |         21 |        |                       | https://decomp.me/scratch/5aIkz | 0.731 |
 | main  | func_80012A3C |      207 |         32 |        |                       |                                 |       |
 | main  | func_80018788 |      226 |         39 |        |                       | https://decomp.me/scratch/WDtQ3 | 0.749 |
-| main  | func_80014DC4 |      229 |         13 |        |                       | https://decomp.me/scratch/TcSWS | 1.0   |
 | main  | func_800D3C58 |      241 |         33 |        | 6 QuadObj             | https://decomp.me/scratch/1EbiN | 0.69  |
 | main  | func_80025DA0 |      244 |         34 |        |                       |                                 |       |
 | main  | func_80035240 |      246 |         26 |        | 9 background          |                                 |       |
