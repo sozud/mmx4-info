@@ -7,7 +7,7 @@
 | main  | func_8001D77C |       27 |          5 |        |                       | https://decomp.me/scratch/Da1mv | 1.0   |
 | main  | func_80027A5C |       28 |          3 |        | 9 background          | https://decomp.me/scratch/v9H3P | 0.895 |
 | main  | func_80027AAC |       28 |          3 |        | 9 background          | https://decomp.me/scratch/ZQr7G | 0.9   |
-| main  | func_8001E638 |       29 |          3 |        |                       | https://decomp.me/scratch/Jew9c | 1.0   |
+| main  | func_8001E638 |       29 |          3 |        |                       | https://decomp.me/scratch/1iqnl | 1.0   |
 | main  | func_800164D8 |       31 |          2 |        |                       | https://decomp.me/scratch/5UTJ8 | 1.0   |
 | main  | func_8002938C |       31 |          3 |        |                       | https://decomp.me/scratch/Dnokk | 0.891 |
 | main  | func_8003718C |       31 |          6 |        | 8 player              | https://decomp.me/scratch/Xn9HF | 0.993 |
@@ -146,7 +146,7 @@
 | main  | func_800182E8 |      205 |         21 |        |                       | https://decomp.me/scratch/5aIkz | 0.731 |
 | main  | func_80012A3C |      207 |         32 |        |                       |                                 |       |
 | main  | func_80018788 |      226 |         39 |        |                       | https://decomp.me/scratch/WDtQ3 | 0.749 |
-| main  | func_80014DC4 |      229 |         13 |        |                       | https://decomp.me/scratch/TcSWS | 0.936 |
+| main  | func_80014DC4 |      229 |         13 |        |                       | https://decomp.me/scratch/TcSWS | 1.0   |
 | main  | func_800D3C58 |      241 |         33 |        | 6 QuadObj             | https://decomp.me/scratch/1EbiN | 0.69  |
 | main  | func_80025DA0 |      244 |         34 |        |                       |                                 |       |
 | main  | func_80035240 |      246 |         26 |        | 9 background          |                                 |       |
