@@ -1,7 +1,6 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | Objtype               | WIP                             | %     |
 |-------|---------------|----------|------------|--------|-----------------------|---------------------------------|-------|
 | main  | func_80015DC8 |       24 |          2 |        | 5 misc,8 player       | https://decomp.me/scratch/s1cix | 1.0   |
-| main  | func_80015E0C |       25 |          2 |        |                       | https://decomp.me/scratch/GqeCn | 1.0   |
 | main  | func_800AE848 |       25 |          5 |        |                       | https://decomp.me/scratch/ov23Z | 1.0   |
 | main  | func_80023CE0 |       26 |          3 |        |                       | https://decomp.me/scratch/Ve0mk | 1.0   |
 | main  | func_8001D77C |       27 |          5 |        |                       | https://decomp.me/scratch/Da1mv | 1.0   |
@@ -25,7 +24,6 @@
 | main  | func_80035FC4 |       38 |          5 |        |                       | https://decomp.me/scratch/4PCQS | 1.0   |
 | main  | func_80027D40 |       39 |          4 |        | 8 player,9 background | https://decomp.me/scratch/hYw7b | 1.0   |
 | main  | func_800281E8 |       39 |          4 |        | 8 player,9 background | https://decomp.me/scratch/t99vF | 1.0   |
-| main  | func_80015E54 |       39 |          5 |        |                       | https://decomp.me/scratch/ATqsw | 1.0   |
 | main  | func_80014140 |       39 |          6 |        |                       | https://decomp.me/scratch/rdAbc | 1.0   |
 | main  | func_80012740 |       40 |          4 |        |                       | https://decomp.me/scratch/IG2w7 | 0.646 |
 | main  | func_800AE714 |       40 |          5 |        |                       | https://decomp.me/scratch/9vHIq | 1.0   |
