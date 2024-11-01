@@ -110,7 +110,7 @@
 | main  | func_8002F2A0 |      138 |         23 | Yes    | 10 engine             | https://decomp.me/scratch/TgRxf | 1.0   |
 | main  | func_80026894 |      140 |          4 |        |                       |                                 |       |
 | main  | func_8002CF98 |      147 |         23 | Yes    | 8 player              | https://decomp.me/scratch/wIW0n | 0.731 |
-| main  | func_800262B8 |      148 |          9 |        |                       |                                 |       |
+| main  | func_800262B8 |      148 |          9 |        |                       | https://decomp.me/scratch/mmGiD | 0.612 |
 | main  | func_80025588 |      154 |         17 |        |                       | https://decomp.me/scratch/7kdDB | 0.995 |
 | main  | func_80026AA0 |      162 |         10 |        |                       |                                 |       |
 | main  | func_80025188 |      163 |          6 |        |                       |                                 |       |
