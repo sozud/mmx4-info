@@ -9,9 +9,9 @@
 | main  | func_80028DB4 |       36 |          3 |        |                       | https://decomp.me/scratch/XoEMD | 0.979 |
 | main  | func_8002D6BC |       37 |          6 | Yes    | 8 player              | https://decomp.me/scratch/4Al32 | 1.0   |
 | main  | func_800241E8 |       38 |          3 |        |                       | https://decomp.me/scratch/ee1FF | 0.722 |
+| main  | func_80035FC4 |       38 |          5 |        |                       | https://decomp.me/scratch/4PCQS | 1.0   |
 | main  | func_80027AFC |       38 |          5 |        | 9 background          | https://decomp.me/scratch/h7nvM | 0.926 |
 | main  | func_80027B70 |       38 |          5 |        | 9 background          | https://decomp.me/scratch/nUKIp | 0.284 |
-| main  | func_80035FC4 |       38 |          5 |        |                       | https://decomp.me/scratch/4PCQS | 1.0   |
 | main  | func_80027D40 |       39 |          4 |        | 8 player,9 background | https://decomp.me/scratch/hYw7b | 1.0   |
 | main  | func_800281E8 |       39 |          4 |        | 8 player,9 background | https://decomp.me/scratch/t99vF | 1.0   |
 | main  | func_80014140 |       39 |          6 |        |                       | https://decomp.me/scratch/rdAbc | 1.0   |
@@ -85,7 +85,7 @@
 | main  | func_80015C10 |       94 |         12 |        |                       | https://decomp.me/scratch/Q5zvp | 1.0   |
 | main  | func_8002B810 |       95 |         19 |        |                       | https://decomp.me/scratch/6JCjy | 0.981 |
 | main  | func_8002EDD4 |       95 |         19 |        | 10 engine             | https://decomp.me/scratch/wkVJC | 0.964 |
-| main  | func_8001FC20 |       97 |         23 |        | 10 engine             | https://decomp.me/scratch/2HBRx | 0.83  |
+| main  | func_8001FC20 |       97 |         23 |        | 10 engine             | https://decomp.me/scratch/ZkesC | 0.926 |
 | main  | func_80014C70 |       98 |         18 |        |                       | https://decomp.me/scratch/V4OpH | 0.866 |
 | main  | func_80027BE4 |       99 |         13 |        | 9 background          | https://decomp.me/scratch/r9Ndb | 0.614 |
 | main  | func_80049AA0 |      101 |         20 |        | 0 gameobj             | https://decomp.me/scratch/OOusW | 1.0   |
