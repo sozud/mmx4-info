@@ -51,13 +51,11 @@
 | main  | func_8001DCCC |       63 |         12 |        |                       | https://decomp.me/scratch/IDYX0 | 1.0   |
 | main  | func_8001FF8C |       63 |         13 |        | 10 engine             | https://decomp.me/scratch/8kJEL | 1.0   |
 | main  | func_8001540C |       64 |          8 |        |                       | https://decomp.me/scratch/jzTmb | 0.653 |
-| main  | func_800297D8 |       66 |          8 |        | 10 engine             | https://decomp.me/scratch/BMTND | 1.0   |
 | main  | func_80015930 |       66 |         10 |        |                       | https://decomp.me/scratch/eCgU7 | 0.996 |
 | main  | func_800192F8 |       66 |         10 |        |                       | https://decomp.me/scratch/6o1Wq | 1.0   |
 | main  | func_800264D0 |       67 |          5 |        |                       | https://decomp.me/scratch/jxUjR | 0.728 |
 | main  | func_8001E54C |       69 |          7 |        |                       | https://decomp.me/scratch/ssJE0 | 1.0   |
 | main  | func_8001DE54 |       70 |          5 |        |                       | https://decomp.me/scratch/6VwZy | 0.916 |
-| main  | func_80029420 |       70 |         12 |        | 10 engine             | https://decomp.me/scratch/3rwVS | 1.0   |
 | main  | func_8001D8DC |       73 |         13 |        |                       | https://decomp.me/scratch/48UFS | 1.0   |
 | main  | func_8001D7D0 |       75 |          8 |        |                       | https://decomp.me/scratch/Y0YLh | 1.0   |
 | main  | func_800168D8 |       75 |         15 |        |                       | https://decomp.me/scratch/diabL | 1.0   |
