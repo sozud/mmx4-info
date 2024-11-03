@@ -74,7 +74,7 @@
 | main  | func_8001E708 |       89 |         12 |        |                       | https://decomp.me/scratch/GfMJA | 1.0   |
 | main  | func_80024F5C |       90 |         11 |        | 8 player              | https://decomp.me/scratch/06BK5 | 1.0   |
 | main  | func_8002EF14 |       90 |         15 | Yes    | 10 engine             | https://decomp.me/scratch/esQyP | 1.0   |
-| main  | func_80015ECC |       91 |          9 |        | 8 player              | https://decomp.me/scratch/rAJc4 | 0.444 |
+| main  | func_80015ECC |       91 |          9 |        | 8 player              | https://decomp.me/scratch/fD5hq | 0.971 |
 | main  | func_800136B0 |       91 |         14 |        |                       | https://decomp.me/scratch/OXGjn | 1.0   |
 | main  | func_80012600 |       91 |         16 |        | 4                     | https://decomp.me/scratch/F7UMs | 0.523 |
 | main  | func_800275DC |       93 |          8 |        |                       | https://decomp.me/scratch/tXFWa | 0.347 |
