@@ -47,7 +47,6 @@
 | main  | func_80019228 |       62 |          8 |        |                       | https://decomp.me/scratch/tD09y | 1.0   |
 | main  | func_80013890 |       63 |          9 |        |                       | https://decomp.me/scratch/s2hia | 1.0   |
 | main  | func_800CD2BC |       63 |          9 |        | 5 misc                | https://decomp.me/scratch/O9rX1 | 1.0   |
-| main  | func_80016FF4 |       63 |         12 |        |                       | https://decomp.me/scratch/Hz5cU | 0.88  |
 | main  | func_8001DCCC |       63 |         12 |        |                       | https://decomp.me/scratch/IDYX0 | 1.0   |
 | main  | func_8001540C |       64 |          8 |        |                       | https://decomp.me/scratch/jzTmb | 0.653 |
 | main  | func_80015930 |       66 |         10 |        |                       | https://decomp.me/scratch/eCgU7 | 0.996 |
