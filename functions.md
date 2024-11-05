@@ -8,7 +8,7 @@
 | main  | func_80012854 |       32 |          5 |        |                       | https://decomp.me/scratch/VMz2A | 0.852 |
 | main  | func_80028DB4 |       36 |          3 |        |                       | https://decomp.me/scratch/XoEMD | 0.979 |
 | main  | func_8002D6BC |       37 |          6 | Yes    | 8 player              | https://decomp.me/scratch/4Al32 | 1.0   |
-| main  | func_800241E8 |       38 |          3 |        |                       | https://decomp.me/scratch/ee1FF | 0.722 |
+| main  | func_800241E8 |       38 |          3 |        |                       | https://decomp.me/scratch/cCoh0 | 0.922 |
 | main  | func_80035FC4 |       38 |          5 |        |                       | https://decomp.me/scratch/4PCQS | 1.0   |
 | main  | func_80027AFC |       38 |          5 |        | 9 background          | https://decomp.me/scratch/h7nvM | 0.926 |
 | main  | func_80027B70 |       38 |          5 |        | 9 background          | https://decomp.me/scratch/nUKIp | 0.284 |
@@ -96,7 +96,6 @@
 | main  | func_80049904 |      121 |         11 | Yes    | 0 gameobj             | https://decomp.me/scratch/fs0kw | 1.0   |
 | main  | func_80036F50 |      123 |         25 |        | 8 player              | https://decomp.me/scratch/doxjm | 0.813 |
 | main  | func_8002E420 |      133 |         22 | Yes    | 10 engine             | https://decomp.me/scratch/pFVNG | 1.0   |
-| main  | func_800BBA24 |      133 |         23 |        | 3 effect              | https://decomp.me/scratch/nMH2K | 1.0   |
 | main  | func_80014A90 |      135 |         25 |        |                       | https://decomp.me/scratch/baFWb | 0.905 |
 | main  | func_8002F2A0 |      138 |         23 | Yes    | 10 engine             | https://decomp.me/scratch/TgRxf | 1.0   |
 | main  | func_80026894 |      140 |          4 |        |                       |                                 |       |
