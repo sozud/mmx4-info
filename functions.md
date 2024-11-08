@@ -105,7 +105,6 @@
 | main  | func_80026AA0 |      162 |         10 |        |                       |                                 |       |
 | main  | func_80025188 |      163 |          6 |        |                       |                                 |       |
 | main  | func_80013014 |      164 |         15 |        | 10 engine             |                                 |       |
-| main  | func_80094F74 |      164 |         21 |        | 8 player              | https://decomp.me/scratch/AC49a | 1.0   |
 | main  | func_80014514 |      165 |         12 |        |                       |                                 |       |
 | main  | func_80037708 |      165 |         25 |        | 8 player              | https://decomp.me/scratch/eyxos | 1.0   |
 | main  | func_800142BC |      167 |         19 |        |                       | https://decomp.me/scratch/oybr7 | 0.428 |
