@@ -13,7 +13,7 @@
 | main  | func_8002D41C |       40 |          7 | Yes    | 8 player           | https://decomp.me/scratch/18Bqj | 1.0   |
 | main  | func_800B5E2C |       41 |          4 |        | 3 effect           | https://decomp.me/scratch/a8K40 | 1.0   |
 | main  | func_80016E84 |       41 |          7 |        |                    | https://decomp.me/scratch/OgtDH | 1.0   |
-| main  | func_80028F58 |       43 |          3 |        |                    | https://decomp.me/scratch/rH3T3 | 0.877 |
+| main  | func_80028F58 |       43 |          3 |        |                    | https://decomp.me/scratch/39ThD | 0.989 |
 | main  | func_8001FEC0 |       45 |          8 |        |                    | https://decomp.me/scratch/D3QpL | 1.0   |
 | main  | func_80026118 |       47 |          4 |        |                    | https://decomp.me/scratch/3DbPS | 0.796 |
 | main  | func_80012560 |       48 |          3 |        |                    | https://decomp.me/scratch/dSjAq | 0.445 |
@@ -45,7 +45,7 @@
 | main  | func_80012454 |       76 |         18 |        |                    | https://decomp.me/scratch/BhfqV | 1.0   |
 | main  | func_80019100 |       77 |          9 |        |                    | https://decomp.me/scratch/KobUv | 0.919 |
 | main  | func_800261B4 |       78 |          9 |        |                    | https://decomp.me/scratch/0UCyE | 0.997 |
-| main  | func_8002771C |       84 |          2 |        |                    | https://decomp.me/scratch/1t5RU | 0.997 |
+| main  | func_8002771C |       84 |          2 |        |                    | https://decomp.me/scratch/QD6gR | 0.997 |
 | main  | func_800B5D04 |       84 |          7 |        | 3 effect           | https://decomp.me/scratch/XIkdr | 0.662 |
 | main  | func_800CB708 |       85 |         12 |        | 5 misc             | https://decomp.me/scratch/jbQlY | 0.853 |
 | main  | func_80014968 |       86 |         11 |        |                    | https://decomp.me/scratch/5QEfh | 0.926 |
@@ -86,7 +86,7 @@
 | main  | func_80025588 |      154 |         17 |        |                    | https://decomp.me/scratch/7kdDB | 0.995 |
 | main  | func_80026AA0 |      162 |         10 |        |                    |                                 |       |
 | main  | func_80025188 |      163 |          6 |        |                    |                                 |       |
-| main  | func_80013014 |      164 |         15 |        | 10 engine          | https://decomp.me/scratch/sPU1a | 0.895 |
+| main  | func_80013014 |      164 |         15 |        | 10 engine          | https://decomp.me/scratch/KsqKl | 0.901 |
 | main  | func_80014514 |      165 |         12 |        |                    |                                 |       |
 | main  | func_80037708 |      165 |         25 |        | 8 player           | https://decomp.me/scratch/eyxos | 1.0   |
 | main  | func_800142BC |      167 |         19 |        |                    | https://decomp.me/scratch/oybr7 | 0.428 |
