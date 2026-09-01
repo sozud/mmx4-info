@@ -5,7 +5,7 @@
 | main  | func_80027AFC |       38 |          5 |        | 9 background       | https://decomp.me/scratch/hRWIh | 1     |
 | main  | func_800E9040 |       41 |          2 |        |                    |                                 |       |
 | main  | func_8002D6BC |       54 |          6 | Yes    | 8 player           | https://decomp.me/scratch/4Al32 | 1     |
-| main  | func_8002E5E0 |       55 |          4 |        |                    | https://decomp.me/scratch/pSt0I | 0.652 |
+| main  | func_8002E5E0 |       55 |          4 |        |                    | https://decomp.me/scratch/uiIpW | 0.972 |
 | main  | func_800292D0 |       56 |          6 |        |                    | https://decomp.me/scratch/COZoP | 0.73  |
 | main  | func_8002D724 |       57 |          5 |        | 8 player           | https://decomp.me/scratch/9BxDr | 0.804 |
 | main  | func_800355C0 |       59 |          2 |        |                    | https://decomp.me/scratch/NuVOj | 1     |
