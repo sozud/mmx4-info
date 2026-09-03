@@ -6,7 +6,7 @@
 | main  | func_8002E5E0 |       55 |          4 |        |                    | https://decomp.me/scratch/uiIpW | 1     |
 | main  | func_800292D0 |       56 |          6 |        |                    | https://decomp.me/scratch/2xG9m | 1     |
 | main  | func_8002D724 |       57 |          5 |        | 8 player           | https://decomp.me/scratch/9BxDr | 0.804 |
-| main  | func_80024260 |       62 |          4 |        |                    | https://decomp.me/scratch/73riQ | 0.568 |
+| main  | func_80024260 |       62 |          4 |        |                    | https://decomp.me/scratch/4eW86 | 1     |
 | main  | func_8002D7E4 |       62 |          5 |        | 8 player           | https://decomp.me/scratch/GcYIr | 0.471 |
 | main  | func_8001540C |       64 |          8 |        |                    | https://decomp.me/scratch/jzTmb | 0.653 |
 | main  | func_80015930 |       66 |         10 |        |                    | https://decomp.me/scratch/5U2zD | 1     |
