@@ -1,15 +1,11 @@
 | Ovl   | Function                                                    |   Length |   Branches | Jtbl   | Objtype            | WIP                             |     % |
 |-------|-------------------------------------------------------------|----------|------------|--------|--------------------|---------------------------------|-------|
 | main  | func_8002938C                                               |       31 |          3 |        |                    | https://decomp.me/scratch/Jfqoz | 1     |
-| main  | func_800241E8                                               |       38 |          3 |        |                    | https://decomp.me/scratch/NyzhI | 1     |
 | main  | func_800E9040                                               |       41 |          2 |        |                    |                                 |       |
-| main  | func_8002E5E0                                               |       55 |          4 |        |                    | https://decomp.me/scratch/uiIpW | 1     |
-| main  | func_800292D0                                               |       56 |          6 |        |                    | https://decomp.me/scratch/2xG9m | 1     |
-| main  | func_8002D724                                               |       57 |          5 |        | 8 player           | https://decomp.me/scratch/9BxDr | 0.804 |
+| main  | func_8002D724                                               |       57 |          5 |        | 8 player           | https://decomp.me/scratch/M5cpN | 0.804 |
 | main  | func_80024260                                               |       62 |          4 |        |                    | https://decomp.me/scratch/4eW86 | 1     |
 | main  | func_8002D7E4                                               |       62 |          5 |        | 8 player           | https://decomp.me/scratch/GcYIr | 0.471 |
 | main  | func_8001540C                                               |       64 |          8 |        |                    | https://decomp.me/scratch/jzTmb | 0.653 |
-| main  | func_80015930                                               |       66 |         10 |        |                    | https://decomp.me/scratch/5U2zD | 1     |
 | main  | func_800264D0                                               |       67 |          5 |        |                    | https://decomp.me/scratch/NfibK | 0.789 |
 |       | asm/us/main/nonmatchings/effects/effect_03/func_800B5D04.s  |       84 |          7 |        | 3 effect           |                                 |       |
 |       | asm/us/main/nonmatchings/misc/misc_19/func_800CB708.s       |       85 |         12 |        | 5 misc             |                                 |       |
@@ -24,7 +20,6 @@
 | main  | func_80036F50                                               |      123 |         25 |        | 8 player           | https://decomp.me/scratch/9Hp8E | 0.867 |
 | main  | func_80026894                                               |      140 |          4 |        |                    |                                 |       |
 | main  | func_800262B8                                               |      148 |          9 |        |                    | https://decomp.me/scratch/mmGiD | 0.612 |
-| main  | func_80025588                                               |      154 |         17 |        |                    | https://decomp.me/scratch/7kdDB | 0.995 |
 | main  | func_80026AA0                                               |      162 |         10 |        |                    |                                 |       |
 | main  | func_80025188                                               |      163 |          6 |        |                    |                                 |       |
 | main  | func_80013014                                               |      164 |         15 |        | 10 engine          | https://decomp.me/scratch/KsqKl | 0.901 |
@@ -37,7 +32,6 @@
 | main  | func_80018000                                               |      195 |         19 |        |                    |                                 |       |
 | main  | func_800154E8                                               |      195 |         20 |        |                    |                                 |       |
 | main  | func_80018B88                                               |      196 |         21 |        |                    | https://decomp.me/scratch/9oQNk | 0.593 |
-|       | asm/us/main/nonmatchings/quads/title_quad/func_800D7194.s   |      199 |         19 |        | 6 QuadObj          |                                 |       |
 | main  | func_80028FEC                                               |      203 |         28 |        |                    | https://decomp.me/scratch/rv6cq | 0.549 |
 | main  | func_800182E8                                               |      205 |         21 |        |                    | https://decomp.me/scratch/5aIkz | 0.731 |
 | main  | func_8001663C                                               |      210 |         21 | Yes    |                    | https://decomp.me/scratch/pM43U | 0.846 |
