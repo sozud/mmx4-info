@@ -39,7 +39,6 @@
 | main  | func_80018788 |      226 |         39 |        |                    | https://decomp.me/scratch/WDtQ3 | 0.736 |
 | main  | func_800D3C58 |      241 |         33 |        | 6 QuadObj          | https://decomp.me/scratch/1EbiN | 0.69  |
 | main  | func_80025DA0 |      244 |         34 |        |                    | https://decomp.me/scratch/dlW51 | 0.539 |
-| main  | func_8002328C |      256 |         28 |        |                    | https://decomp.me/scratch/c6btE | 0.766 |
 | main  | func_80028690 |      263 |         31 |        | 9 background       | https://decomp.me/scratch/EeDyg | 0.933 |
 | main  | func_8002217C |      403 |         47 |        |                    | https://decomp.me/scratch/zdmUH | 0.9   |
 | main  | func_80024334 |      411 |         35 |        | 5 misc,8 player    | https://decomp.me/scratch/7Cchf | 0.975 |
