@@ -1,6 +1,11 @@
+Failed to download the zip file: Status code 522
+Failed to download the zip file: Status code 522
+Failed to download the zip file: Status code 522
+Failed to download the zip file: Status code 522
+Failed to download the zip file: Status code 522
 | Ovl   | Function      |   Length |   Branches | Jtbl   | Objtype         | WIP                             |     % |
 |-------|---------------|----------|------------|--------|-----------------|---------------------------------|-------|
-| main  | func_8002938C |       31 |          3 |        |                 | https://decomp.me/scratch/Dnokk | 0.891 |
+| main  | func_8002938C |       31 |          3 |        |                 | https://decomp.me/scratch/lZjqB | 0.667 |
 | main  | func_800E9040 |       41 |          2 |        |                 | https://decomp.me/scratch/7KPAq | 0.119 |
 | main  | func_8002D724 |       57 |          5 |        | 8 player        | https://decomp.me/scratch/M5cpN | 0.804 |
 | main  | func_80024260 |       62 |          4 |        |                 | https://decomp.me/scratch/7hiwo | 0.865 |
@@ -14,9 +19,9 @@
 | main  | func_800253F0 |      113 |         11 |        | 8 player        | https://decomp.me/scratch/LXAao | 0.89  |
 | main  | func_80029A48 |      116 |         22 |        | 10 engine       | https://decomp.me/scratch/fcOsf | 0.891 |
 | main  | func_80036F50 |      123 |         25 |        | 8 player        | https://decomp.me/scratch/9Hp8E | 0.867 |
-| main  | func_80026894 |      140 |          4 |        |                 | https://decomp.me/scratch/IBE0L | 0.91  |
-| main  | func_800262B8 |      148 |          9 |        |                 | https://decomp.me/scratch/mV6Fp | 0.91  |
-| main  | func_80026AA0 |      162 |         10 |        |                 | https://decomp.me/scratch/WzkX3 | 0.706 |
+| main  | func_80026894 |      140 |          4 |        |                 |                                 |       |
+| main  | func_800262B8 |      148 |          9 |        |                 | https://decomp.me/scratch/mmGiD | 0.612 |
+| main  | func_80026AA0 |      162 |         10 |        |                 |                                 |       |
 | main  | func_80025188 |      163 |          6 |        |                 | https://decomp.me/scratch/pLCBI | 0.511 |
 | main  | func_80013014 |      164 |         15 |        | 10 engine       | https://decomp.me/scratch/KsqKl | 0.901 |
 | main  | func_80024920 |      170 |          8 |        | 6 QuadObj       | https://decomp.me/scratch/sE9A1 | 0.977 |
