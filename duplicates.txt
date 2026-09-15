@@ -195,55 +195,6 @@
 | 1.00 | false    | CdDataSync                          | 8          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdDataSync.s 
 | 1.00 | false    | CdFlush                             | 8          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdFlush.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80042120                       | 20         | asm/us/main/matchings/23C14/func_80042120.s 
-| 1.00 | true     | func_80043340                       | 20         | asm/us/main/matchings/23C14/func_80043340.s 
-| 1.00 | true     | func_80046B30                       | 20         | asm/us/main/matchings/23C14/func_80046B30.s 
-| 1.00 | true     | func_800C4E78                       | 20         | asm/us/main/matchings/items/item_20/func_800C4E78.s 
-| 1.00 | true     | func_800D9218                       | 20         | asm/us/main/matchings/layers/layer_02/func_800D9218.s 
-| 1.00 | true     | func_8004A0AC                       | 20         | asm/us/main/matchings/mains/main_10/func_8004A0AC.s 
-| 1.00 | true     | func_8004C734                       | 20         | asm/us/main/matchings/mains/main_13/func_8004C734.s 
-| 1.00 | true     | func_8004E890                       | 20         | asm/us/main/matchings/mains/main_16/func_8004E890.s 
-| 1.00 | true     | func_8004FF90                       | 20         | asm/us/main/matchings/mains/main_17/func_8004FF90.s 
-| 0.91 | true     | func_80054C50                       | 22         | asm/us/main/matchings/mains/main_21/func_80054C50.s 
-| 1.00 | true     | func_80056738                       | 20         | asm/us/main/matchings/mains/main_23/func_80056738.s 
-| 1.00 | true     | func_800586F0                       | 20         | asm/us/main/matchings/mains/main_27/func_800586F0.s 
-| 1.00 | true     | func_8005E570                       | 20         | asm/us/main/matchings/mains/main_34/func_8005E570.s 
-| 1.00 | true     | func_8005EC58                       | 20         | asm/us/main/matchings/mains/main_35/func_8005EC58.s 
-| 1.00 | true     | func_8005F9A4                       | 20         | asm/us/main/matchings/mains/main_36/func_8005F9A4.s 
-| 1.00 | true     | func_80064AE8                       | 20         | asm/us/main/matchings/mains/main_43/func_80064AE8.s 
-| 1.00 | true     | func_80067860                       | 20         | asm/us/main/matchings/mains/main_48/func_80067860.s 
-| 1.00 | true     | func_80067CB0                       | 20         | asm/us/main/matchings/mains/main_48/func_80067CB0.s 
-| 1.00 | true     | func_800684F8                       | 20         | asm/us/main/matchings/mains/main_49/func_800684F8.s 
-| 1.00 | true     | func_8006A50C                       | 20         | asm/us/main/matchings/mains/main_52/func_8006A50C.s 
-| 1.00 | true     | func_80070CDC                       | 20         | asm/us/main/matchings/mains/main_56/func_80070CDC.s 
-| 0.91 | true     | func_80071468                       | 22         | asm/us/main/matchings/mains/main_56/func_80071468.s 
-| 1.00 | true     | func_80072CC4                       | 20         | asm/us/main/matchings/mains/main_57/func_80072CC4.s 
-| 1.00 | true     | func_8007872C                       | 20         | asm/us/main/matchings/mains/main_61/func_8007872C.s 
-| 0.91 | true     | func_80087414                       | 22         | asm/us/main/matchings/mains/main_69/func_80087414.s 
-| 0.91 | true     | func_80087928                       | 22         | asm/us/main/matchings/mains/main_69/func_80087928.s 
-| 1.00 | true     | func_80087B98                       | 20         | asm/us/main/matchings/mains/main_69/func_80087B98.s 
-| 0.91 | true     | func_80088584                       | 22         | asm/us/main/matchings/mains/main_69/func_80088584.s 
-| 1.00 | true     | func_800CB22C                       | 20         | asm/us/main/matchings/misc/ready_text/func_800CB22C.s 
-| 0.91 | true     | func_800D7AF8                       | 22         | asm/us/main/matchings/quads/quad_14/func_800D7AF8.s 
-| 1.00 | true     | func_800D83DC                       | 20         | asm/us/main/matchings/quads/quad_16/func_800D83DC.s 
-| 1.00 | true     | func_800D8578                       | 20         | asm/us/main/matchings/quads/quad_16/func_800D8578.s 
-| 1.00 | true     | func_8009CC64                       | 20         | asm/us/main/matchings/shots/shot_19/func_8009CC64.s 
-| 0.91 | true     | func_800A7E40                       | 22         | asm/us/main/matchings/shots/shot_45/func_800A7E40.s 
-| 1.00 | true     | func_800A829C                       | 20         | asm/us/main/matchings/shots/shot_45/func_800A829C.s 
-| 0.91 | true     | func_800A836C                       | 22         | asm/us/main/matchings/shots/shot_45/func_800A836C.s 
-| 1.00 | true     | func_800ADE04                       | 20         | asm/us/main/matchings/shots/shot_55/func_800ADE04.s 
-| 0.91 | true     | func_800B5280                       | 22         | asm/us/main/matchings/visuals/visual_32/func_800B5280.s 
-| 1.00 | true     | func_8009372C                       | 20         | asm/us/main/matchings/weapons/weapon_10/func_8009372C.s 
-| 1.00 | true     | func_80093A5C                       | 20         | asm/us/main/matchings/weapons/weapon_10/func_80093A5C.s 
-| 0.91 | false    | func_80042E18                       | 22         | asm/us/main/nonmatchings/23C14/func_80042E18.s 
-| 1.00 | false    | func_8007C7D4                       | 20         | asm/us/main/nonmatchings/mains/main_64/func_8007C7D4.s 
-| 1.00 | false    | func_800862A4                       | 20         | asm/us/main/nonmatchings/mains/main_69/func_800862A4.s 
-| 1.00 | false    | func_80086BB0                       | 20         | asm/us/main/nonmatchings/mains/main_69/func_80086BB0.s 
-| 1.00 | false    | func_80086F28                       | 20         | asm/us/main/nonmatchings/mains/main_69/func_80086F28.s 
-| 1.00 | false    | func_8008BE74                       | 20         | asm/us/main/nonmatchings/mains/main_73/func_8008BE74.s 
-| 1.00 | false    | func_800D1F24                       | 20         | asm/us/main/nonmatchings/misc/misc_51/func_800D1F24.s 
-| 1.00 | false    | func_800D25AC                       | 20         | asm/us/main/nonmatchings/misc/misc_52/func_800D25AC.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | dmy_SsContBankChange                | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsContBankChange.s 
 | 1.00 | false    | dmy_SsContDamper                    | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsContDamper.s 
 | 1.00 | false    | dmy_SsContDataEntry                 | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsContDataEntry.s 
@@ -282,60 +233,6 @@
 | 1.00 | false    | dmy_SsSetPitchBend                  | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsSetPitchBend.s 
 | 1.00 | false    | dmy_SsSetProgramChange              | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsSetProgramChange.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8007E8C0                       | 22         | asm/us/main/matchings/mains/main_65/func_8007E8C0.s 
-| 1.00 | true     | func_8007EA3C                       | 22         | asm/us/main/matchings/mains/main_65/func_8007EA3C.s 
-| 1.00 | true     | func_8007EC1C                       | 22         | asm/us/main/matchings/mains/main_65/func_8007EC1C.s 
-| 1.00 | true     | func_8007EDC0                       | 22         | asm/us/main/matchings/mains/main_65/func_8007EDC0.s 
-| 1.00 | true     | func_8007F05C                       | 22         | asm/us/main/matchings/mains/main_65/func_8007F05C.s 
-| 1.00 | true     | func_8007F360                       | 22         | asm/us/main/matchings/mains/main_65/func_8007F360.s 
-| 1.00 | true     | func_8007F50C                       | 22         | asm/us/main/matchings/mains/main_65/func_8007F50C.s 
-| 1.00 | true     | func_8007FA4C                       | 22         | asm/us/main/matchings/mains/main_65/func_8007FA4C.s 
-| 1.00 | true     | func_8007FCC4                       | 22         | asm/us/main/matchings/mains/main_65/func_8007FCC4.s 
-| 1.00 | true     | func_8008DEC4                       | 22         | asm/us/main/matchings/mains/main_74/func_8008DEC4.s 
-| 1.00 | true     | func_8008E18C                       | 22         | asm/us/main/matchings/mains/main_74/func_8008E18C.s 
-| 1.00 | true     | func_8008E404                       | 22         | asm/us/main/matchings/mains/main_74/func_8008E404.s 
-| 1.00 | true     | func_8008E67C                       | 22         | asm/us/main/matchings/mains/main_74/func_8008E67C.s 
-| 1.00 | true     | func_800CD6D8                       | 22         | asm/us/main/matchings/misc/select_a_character/func_800CD6D8.s 
-| 0.95 | true     | func_800D5CF8                       | 22         | asm/us/main/matchings/quads/ready_line/func_800D5CF8.s 
-| 1.00 | true     | func_800A5D20                       | 22         | asm/us/main/matchings/shots/shot_41/func_800A5D20.s 
-| 1.00 | true     | func_800AAFF8                       | 22         | asm/us/main/matchings/shots/shot_53/func_800AAFF8.s 
-| 1.00 | true     | func_800AB32C                       | 22         | asm/us/main/matchings/shots/shot_53/func_800AB32C.s 
-| 1.00 | true     | func_800AB4C0                       | 22         | asm/us/main/matchings/shots/shot_53/func_800AB4C0.s 
-| 1.00 | true     | func_800AB66C                       | 22         | asm/us/main/matchings/shots/shot_53/func_800AB66C.s 
-| 1.00 | true     | func_800AB768                       | 22         | asm/us/main/matchings/shots/shot_53/func_800AB768.s 
-| 1.00 | true     | func_800AB868                       | 22         | asm/us/main/matchings/shots/shot_53/func_800AB868.s 
-| 1.00 | true     | func_800AC364                       | 22         | asm/us/main/matchings/shots/shot_54/func_800AC364.s 
-| 1.00 | true     | func_800AC4F8                       | 22         | asm/us/main/matchings/shots/shot_54/func_800AC4F8.s 
-| 1.00 | true     | func_800AD868                       | 22         | asm/us/main/matchings/shots/shot_55/func_800AD868.s 
-| 1.00 | true     | func_800ADA0C                       | 22         | asm/us/main/matchings/shots/shot_55/func_800ADA0C.s 
-| 0.92 | false    | func_800C39AC                       | 24         | asm/us/main/nonmatchings/items/item_14/func_800C39AC.s 
-| 1.00 | false    | func_80088BE8                       | 22         | asm/us/main/nonmatchings/mains/main_70/func_80088BE8.s 
-| 0.95 | false    | func_800C9CB0                       | 22         | asm/us/main/nonmatchings/misc/misc_08/func_800C9CB0.s 
-| 1.00 | false    | func_800CF7CC                       | 22         | asm/us/main/nonmatchings/misc/misc_39/func_800CF7CC.s 
-| 1.00 | false    | func_800D04D0                       | 22         | asm/us/main/nonmatchings/misc/misc_43/func_800D04D0.s 
-| 1.00 | false    | func_800D2FC4                       | 22         | asm/us/main/nonmatchings/misc/misc_53/func_800D2FC4.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_800C28E8                       | 12         | asm/us/main/matchings/items/item_10/func_800C28E8.s 
-| 1.00 | true     | func_8004A5B0                       | 12         | asm/us/main/matchings/mains/main_10/func_8004A5B0.s 
-| 1.00 | true     | func_8004A6E8                       | 12         | asm/us/main/matchings/mains/main_10/func_8004A6E8.s 
-| 1.00 | true     | func_800630AC                       | 12         | asm/us/main/matchings/mains/main_42/func_800630AC.s 
-| 1.00 | true     | func_80068108                       | 12         | asm/us/main/matchings/mains/main_48/func_80068108.s 
-| 1.00 | true     | func_8006F83C                       | 12         | asm/us/main/matchings/mains/main_55/func_8006F83C.s 
-| 1.00 | true     | func_800A5318                       | 12         | asm/us/main/matchings/shots/shot_39/func_800A5318.s 
-| 1.00 | true     | func_800A7E10                       | 12         | asm/us/main/matchings/shots/shot_45/func_800A7E10.s 
-| 1.00 | true     | func_800A826C                       | 12         | asm/us/main/matchings/shots/shot_45/func_800A826C.s 
-| 1.00 | true     | func_800A94A4                       | 12         | asm/us/main/matchings/shots/shot_46/func_800A94A4.s 
-| 1.00 | true     | func_800A9FD0                       | 12         | asm/us/main/matchings/shots/shot_49/func_800A9FD0.s 
-| 1.00 | true     | func_800AA000                       | 12         | asm/us/main/matchings/shots/shot_49/func_800AA000.s 
-| 1.00 | false    | func_80044B78                       | 12         | asm/us/main/nonmatchings/23C14/func_80044B78.s 
-| 1.00 | false    | func_80046104                       | 12         | asm/us/main/nonmatchings/23C14/func_80046104.s 
-| 1.00 | false    | func_80046610                       | 12         | asm/us/main/nonmatchings/23C14/func_80046610.s 
-| 1.00 | false    | func_8004D69C                       | 12         | asm/us/main/nonmatchings/mains/main_14/func_8004D69C.s 
-| 1.00 | false    | func_8005CE50                       | 12         | asm/us/main/nonmatchings/mains/main_32/func_8005CE50.s 
-| 1.00 | false    | func_8005CF30                       | 12         | asm/us/main/nonmatchings/mains/main_32/func_8005CF30.s 
-| 1.00 | false    | func_80061D90                       | 12         | asm/us/main/nonmatchings/mains/main_39/func_80061D90.s 
-| 1.00 | false    | func_800D1D58                       | 12         | asm/us/main/nonmatchings/misc/misc_50/func_800D1D58.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | func_800672D8                       | 5          | asm/us/main/matchings/mains/main_47/func_800672D8.s 
 | 1.00 | false    | SetLineF2                           | 5          | asm/us/main/nonmatchings/D9840/SetLineF2.s 
 | 1.00 | false    | SetLineG2                           | 5          | asm/us/main/nonmatchings/D9840/SetLineG2.s 
@@ -354,45 +251,6 @@
 | 1.00 | false    | SetTile1                            | 5          | asm/us/main/nonmatchings/D9840/SetTile1.s 
 | 1.00 | false    | SetTile16                           | 5          | asm/us/main/nonmatchings/D9840/SetTile16.s 
 | 1.00 | false    | SetTile8                            | 5          | asm/us/main/nonmatchings/D9840/SetTile8.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_80023684                       | 5          | asm/us/main/matchings/323C/func_80023684.s 
-| 1.00 | true     | func_800B7304                       | 5          | asm/us/main/matchings/effects/effect_08/func_800B7304.s 
-| 1.00 | true     | func_800B96CC                       | 5          | asm/us/main/matchings/effects/effect_18/func_800B96CC.s 
-| 1.00 | true     | func_800B9DB8                       | 5          | asm/us/main/matchings/effects/effect_20/func_800B9DB8.s 
-| 1.00 | true     | func_800BA808                       | 5          | asm/us/main/matchings/effects/effect_22/func_800BA808.s 
-| 1.00 | true     | func_800C34D4                       | 5          | asm/us/main/matchings/items/item_12/func_800C34D4.s 
-| 1.00 | true     | func_800C3A0C                       | 5          | asm/us/main/matchings/items/item_14/func_800C3A0C.s 
-| 1.00 | true     | func_800D8820                       | 5          | asm/us/main/matchings/layers/layer_00/func_800D8820.s 
-| 1.00 | true     | func_800D945C                       | 5          | asm/us/main/matchings/layers/layer_02/func_800D945C.s 
-| 1.00 | true     | func_800DA1A0                       | 5          | asm/us/main/matchings/layers/layer_04/func_800DA1A0.s 
-| 1.00 | true     | func_800DA204                       | 5          | asm/us/main/matchings/layers/layer_04/func_800DA204.s 
-| 1.00 | true     | func_800DA4D8                       | 5          | asm/us/main/matchings/layers/layer_05/func_800DA4D8.s 
-| 1.00 | true     | func_800DA53C                       | 5          | asm/us/main/matchings/layers/layer_05/func_800DA53C.s 
-| 1.00 | true     | func_800DA5A0                       | 5          | asm/us/main/matchings/layers/layer_05/func_800DA5A0.s 
-| 1.00 | true     | func_80068060                       | 5          | asm/us/main/matchings/mains/main_48/func_80068060.s 
-| 1.00 | false    | func_8004ACDC                       | 5          | asm/us/main/nonmatchings/mains/main_11/func_8004ACDC.s 
-| 1.00 | false    | func_80086488                       | 5          | asm/us/main/nonmatchings/mains/main_69/func_80086488.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_80051F68                       | 11         | asm/us/main/matchings/mains/main_18/func_80051F68.s 
-| 1.00 | true     | func_800521B0                       | 11         | asm/us/main/matchings/mains/main_18/func_800521B0.s 
-| 1.00 | true     | func_80070CB0                       | 11         | asm/us/main/matchings/mains/main_56/func_80070CB0.s 
-| 1.00 | true     | func_80073E10                       | 11         | asm/us/main/matchings/mains/main_57/func_80073E10.s 
-| 0.92 | true     | func_800A833C                       | 12         | asm/us/main/matchings/shots/shot_45/func_800A833C.s 
-| 0.91 | false    | func_800C7830                       | 11         | asm/us/main/nonmatchings/items/item_27/func_800C7830.s 
-| 1.00 | false    | func_80073BDC                       | 11         | asm/us/main/nonmatchings/mains/main_57/func_80073BDC.s 
-| 0.91 | false    | func_800805D8                       | 11         | asm/us/main/nonmatchings/mains/main_65/func_800805D8.s 
-| 0.92 | false    | func_80083544                       | 12         | asm/us/main/nonmatchings/mains/main_68/func_80083544.s 
-| 0.91 | false    | func_80083E44                       | 11         | asm/us/main/nonmatchings/mains/main_68/func_80083E44.s 
--------------------------------------------------------------------------------
-| 0.90 | true     | func_80032B04                       | 19         | asm/us/main/matchings/21AB4/func_80032B04.s 
-| 0.90 | true     | func_80039700                       | 19         | asm/us/main/matchings/23C14/func_80039700.s 
-| 0.90 | true     | func_8003AAE8                       | 19         | asm/us/main/matchings/23C14/func_8003AAE8.s 
-| 0.90 | true     | func_8003AE08                       | 19         | asm/us/main/matchings/23C14/func_8003AE08.s 
-| 1.00 | true     | func_8001FAFC                       | 21         | asm/us/main/matchings/323C/func_8001FAFC.s 
-| 0.90 | true     | func_8005CB08                       | 19         | asm/us/main/matchings/mains/main_32/func_8005CB08.s 
-| 0.90 | true     | func_8007720C                       | 19         | asm/us/main/matchings/mains/main_60/func_8007720C.s 
-| 1.00 | true     | func_800B3508                       | 21         | asm/us/main/matchings/visuals/visual_23/func_800B3508.s 
-| 0.90 | false    | func_800C9C64                       | 19         | asm/us/main/nonmatchings/misc/misc_08/func_800C9C64.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | PlayCapcomLogo                      | 10         | asm/us/main/matchings/323C/PlayCapcomLogo.s 
 | 1.00 | true     | func_80020368                       | 10         | asm/us/main/matchings/323C/func_80020368.s 
@@ -420,11 +278,6 @@
 | 1.00 | false    | func_80078EB0                       | 61         | asm/us/main/nonmatchings/mains/main_61/func_80078EB0.s 
 | 0.92 | false    | func_8008654C                       | 61         | asm/us/main/nonmatchings/mains/main_69/func_8008654C.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80082E30                       | 22         | asm/us/main/matchings/mains/main_67/func_80082E30.s 
-| 0.95 | false    | func_8006A1B4                       | 21         | asm/us/main/nonmatchings/mains/main_51/func_8006A1B4.s 
-| 0.95 | false    | func_80082C70                       | 21         | asm/us/main/nonmatchings/mains/main_67/func_80082C70.s 
-| 0.95 | false    | func_80082D48                       | 21         | asm/us/main/nonmatchings/mains/main_67/func_80082D48.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | CdReadCallback                      | 6          | asm/us/main/matchings/psxsdk/libgs/gs_101/CdReadCallback.s 
 | 1.00 | true     | CdReadyCallback                     | 6          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdReadyCallback.s 
 | 1.00 | true     | CdSyncCallback                      | 6          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSyncCallback.s 
@@ -440,16 +293,6 @@
 | 1.00 | false    | SetLineG3                           | 8          | asm/us/main/nonmatchings/D9840/SetLineG3.s 
 | 1.00 | false    | SetLineG4                           | 8          | asm/us/main/nonmatchings/D9840/SetLineG4.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_800490D4                       | 58         | asm/us/main/nonmatchings/mains/main_09/func_800490D4.s 
-| 0.95 | false    | func_80071F5C                       | 56         | asm/us/main/nonmatchings/mains/main_56/func_80071F5C.s 
-| 0.95 | false    | func_800852C4                       | 56         | asm/us/main/nonmatchings/mains/main_68/func_800852C4.s 
-| 0.93 | false    | func_800914EC                       | 54         | asm/us/main/nonmatchings/mains/main_75/func_800914EC.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8006135C                       | 50         | asm/us/main/nonmatchings/mains/main_38/func_8006135C.s 
-| 0.96 | false    | func_80061424                       | 49         | asm/us/main/nonmatchings/mains/main_38/func_80061424.s 
-| 0.94 | false    | func_80074D10                       | 51         | asm/us/main/nonmatchings/mains/main_58/func_80074D10.s 
-| 0.94 | false    | func_80082F20                       | 51         | asm/us/main/nonmatchings/mains/main_67/func_80082F20.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | func_8006C170                       | 66         | asm/us/main/nonmatchings/mains/main_54/func_8006C170.s 
 | 1.00 | false    | func_800727C0                       | 66         | asm/us/main/nonmatchings/mains/main_57/func_800727C0.s 
 | 1.00 | false    | func_800757F4                       | 66         | asm/us/main/nonmatchings/mains/main_60/func_800757F4.s 
@@ -459,18 +302,6 @@
 | 0.98 | false    | func_800A2F2C                       | 57         | asm/us/main/nonmatchings/shots/shot_35/func_800A2F2C.s 
 | 0.95 | false    | func_800A33A0                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A33A0.s 
 | 0.95 | false    | func_800A366C                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A366C.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_800522C8                       | 23         | asm/us/main/matchings/mains/main_18/func_800522C8.s 
-| 0.91 | false    | func_80060FF8                       | 21         | asm/us/main/nonmatchings/mains/main_38/func_80060FF8.s 
-| 0.91 | false    | func_800749B8                       | 21         | asm/us/main/nonmatchings/mains/main_58/func_800749B8.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8004D444                       | 15         | asm/us/main/nonmatchings/mains/main_14/func_8004D444.s 
-| 1.00 | false    | func_80055640                       | 15         | asm/us/main/nonmatchings/mains/main_22/func_80055640.s 
-| 1.00 | false    | func_80055910                       | 15         | asm/us/main/nonmatchings/mains/main_22/func_80055910.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
@@ -488,6 +319,9 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/D9840/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/D9840/ClearImage2.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
+| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8005A6C0                       | 36         | asm/us/main/matchings/mains/main_29/func_8005A6C0.s 
 | 0.95 | false    | func_8006185C                       | 38         | asm/us/main/nonmatchings/mains/main_39/func_8006185C.s 
