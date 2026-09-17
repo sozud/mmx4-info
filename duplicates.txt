@@ -303,17 +303,9 @@
 | 0.95 | false    | func_800A33A0                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A33A0.s 
 | 0.95 | false    | func_800A366C                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A366C.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80094A78                       | 43         | asm/us/main/nonmatchings/weapons/weapon_03/func_80094A78.s 
-| 0.95 | false    | func_800969D8                       | 43         | asm/us/main/nonmatchings/weapons/weapon_15/func_800969D8.s 
-| 1.00 | false    | func_80097384                       | 43         | asm/us/main/nonmatchings/weapons/weapon_16/func_80097384.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/1A5BC/func_8002C2EC.s 
 | 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/1A5BC/func_8002C26C.s 
@@ -324,14 +316,17 @@
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/D9840/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/D9840/ClearImage2.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
+| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | func_8005A6C0                       | 36         | asm/us/main/matchings/mains/main_29/func_8005A6C0.s 
 | 0.95 | false    | func_8006185C                       | 38         | asm/us/main/nonmatchings/mains/main_39/func_8006185C.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8005D148                       | 43         | asm/us/main/matchings/mains/main_32/func_8005D148.s 
 | 0.91 | false    | func_8004FC80                       | 46         | asm/us/main/nonmatchings/mains/main_16/func_8004FC80.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8006A450                       | 47         | asm/us/main/matchings/mains/main_51/func_8006A450.s 
-| 0.91 | false    | func_800830D0                       | 47         | asm/us/main/nonmatchings/mains/main_67/func_800830D0.s 
+| 1.00 | true     | func_8007D234                       | 48         | asm/us/main/matchings/mains/main_64/func_8007D234.s 
+| 0.94 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | SsSepSetVol                         | 14         | asm/us/main/matchings/psxsdk/libsnd/sstick/SsSepSetVol.s 
 | 1.00 | false    | _SsSndSetVol                        | 14         | asm/us/main/nonmatchings/psxsdk/libsnd/sstick/_SsSndSetVol.s 
@@ -434,9 +429,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_800739D4                       | 75         | asm/us/main/nonmatchings/mains/main_57/func_800739D4.s 
 | 0.96 | false    | func_80073CA4                       | 78         | asm/us/main/nonmatchings/mains/main_57/func_80073CA4.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
-| 0.94 | false    | func_8007D234                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D234.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_80080370                       | 76         | asm/us/main/nonmatchings/mains/main_65/func_80080370.s 
 | 0.97 | false    | func_800804A0                       | 78         | asm/us/main/nonmatchings/mains/main_65/func_800804A0.s 
