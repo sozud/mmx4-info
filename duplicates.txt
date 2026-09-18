@@ -328,9 +328,6 @@
 | 1.00 | true     | func_80088AD0                       | 52         | asm/us/main/matchings/mains/main_69/func_80088AD0.s 
 | 1.00 | false    | func_800D18C0                       | 52         | asm/us/main/nonmatchings/misc/misc_46/func_800D18C0.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8008B7D4                       | 49         | asm/us/main/matchings/mains/main_72/func_8008B7D4.s 
-| 0.94 | false    | func_8008B270                       | 51         | asm/us/main/nonmatchings/mains/main_72/func_8008B270.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | SsSepSetVol                         | 14         | asm/us/main/matchings/psxsdk/libsnd/sstick/SsSepSetVol.s 
 | 1.00 | false    | _SsSndSetVol                        | 14         | asm/us/main/nonmatchings/psxsdk/libsnd/sstick/_SsSndSetVol.s 
 -------------------------------------------------------------------------------
