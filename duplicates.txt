@@ -303,6 +303,10 @@
 | 0.95 | false    | func_800A33A0                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A33A0.s 
 | 0.95 | false    | func_800A366C                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A366C.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
+| 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
+| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
@@ -315,9 +319,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/D9840/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/D9840/ClearImage2.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8005D148                       | 43         | asm/us/main/matchings/mains/main_32/func_8005D148.s 
 | 0.91 | false    | func_8004FC80                       | 46         | asm/us/main/nonmatchings/mains/main_16/func_8004FC80.s 
@@ -456,21 +457,3 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | CdControl                           | 78         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdControl.s 
 | 0.95 | false    | CdControlF                          | 75         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdControlF.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_800D4DE0                       | 105        | asm/us/main/nonmatchings/quads/quad_02/func_800D4DE0.s 
-| 0.99 | false    | func_800D4FA0                       | 105        | asm/us/main/nonmatchings/quads/quad_02/func_800D4FA0.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_800D57A8                       | 99         | asm/us/main/nonmatchings/quads/quad_05/func_800D57A8.s 
-| 1.00 | false    | func_800D4024                       | 99         | asm/us/main/nonmatchings/quads/search_light/func_800D4024.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_800AE4F0                       | 41         | asm/us/main/nonmatchings/shots/shot_57/func_800AE4F0.s 
-| 0.90 | false    | func_800AE594                       | 42         | asm/us/main/nonmatchings/shots/shot_57/func_800AE594.s 
--------------------------------------------------------------------------------
-| 0.92 | false    | func_800C5D44                       | 112        | asm/us/main/nonmatchings/items/item_23/func_800C5D44.s 
-| 1.00 | false    | func_800B4274                       | 119        | asm/us/main/nonmatchings/visuals/visual_29/func_800B4274.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80092314                       | 61         | asm/us/main/nonmatchings/weapons/weapon_00/func_80092314.s 
-| 0.90 | false    | func_80092828                       | 60         | asm/us/main/nonmatchings/weapons/weapon_19/func_80092828.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80093014                       | 71         | asm/us/main/nonmatchings/weapons/weapon_01/func_80093014.s 
-| 0.94 | false    | func_80093610                       | 71         | asm/us/main/nonmatchings/weapons/weapon_10/func_80093610.s 
