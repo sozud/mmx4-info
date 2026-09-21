@@ -284,9 +284,9 @@
 | 1.00 | false    | CdSetDebug                          | 6          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdSetDebug.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_800A2B8C                       | 57         | asm/us/main/matchings/shots/shot_35/func_800A2B8C.s 
+| 0.95 | true     | func_800A366C                       | 59         | asm/us/main/matchings/shots/shot_35/func_800A366C.s 
 | 0.98 | false    | func_800A2F2C                       | 57         | asm/us/main/nonmatchings/shots/shot_35/func_800A2F2C.s 
 | 0.95 | false    | func_800A33A0                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A33A0.s 
-| 0.95 | false    | func_800A366C                       | 59         | asm/us/main/nonmatchings/shots/shot_35/func_800A366C.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | D_80010090                          | 0          | asm/us/main/nonmatchings/323C/D_80010090.s 
 | 1.00 | false    | D_80010094                          | 0          | asm/us/main/nonmatchings/323C/D_80010094.s 
@@ -307,6 +307,10 @@
 | 0.91 | true     | func_80064F24                       | 45         | asm/us/main/matchings/mains/main_43/func_80064F24.s 
 | 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/23C14/func_8003D7E4.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
+| 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
+| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
@@ -322,9 +326,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_80056AC4                       | 57         | asm/us/main/matchings/mains/main_24/func_80056AC4.s 
 | 0.91 | false    | func_8006A638                       | 53         | asm/us/main/nonmatchings/mains/main_52/func_8006A638.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8005D148                       | 43         | asm/us/main/matchings/mains/main_32/func_8005D148.s 
 | 0.91 | false    | func_8004FC80                       | 46         | asm/us/main/nonmatchings/mains/main_16/func_8004FC80.s 
