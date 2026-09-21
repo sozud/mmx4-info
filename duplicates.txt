@@ -314,6 +314,9 @@
 | 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/1A5BC/func_8002C2EC.s 
 | 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/1A5BC/func_8002C26C.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/23C14/func_8003D6EC.s 
+| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/23C14/func_8003D7E4.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | func_800190F0                       | 4          | asm/us/main/matchings/323C/func_800190F0.s 
 | 1.00 | false    | CD_set_test_parmnum                 | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_101/CD_set_test_parmnum.s 
 -------------------------------------------------------------------------------
@@ -343,12 +346,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_80030DF8                       | 58         | asm/us/main/nonmatchings/1FD10/func_80030DF8.s 
 | 0.95 | false    | func_80030EC8                       | 58         | asm/us/main/nonmatchings/1FD10/func_80030EC8.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_800332C0                       | 42         | asm/us/main/nonmatchings/21AB4/func_800332C0.s 
-| 0.93 | false    | func_80033368                       | 43         | asm/us/main/nonmatchings/21AB4/func_80033368.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8003D6EC                       | 45         | asm/us/main/nonmatchings/23C14/func_8003D6EC.s 
-| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/23C14/func_8003D7E4.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_800466A8                       | 53         | asm/us/main/nonmatchings/23C14/func_800466A8.s 
 | 1.00 | false    | func_800468CC                       | 53         | asm/us/main/nonmatchings/23C14/func_800468CC.s 
