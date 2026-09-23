@@ -266,10 +266,10 @@
 | 1.00 | false    | StopCallback                        | 12         | asm/us/main/nonmatchings/psxsdk/libetc/intr/StopCallback.s 
 | 1.00 | false    | VSyncCallbacks                      | 12         | asm/us/main/nonmatchings/psxsdk/libetc/intr/VSyncCallbacks.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_8006C07C                       | 61         | asm/us/main/matchings/mains/main_54/func_8006C07C.s 
+| 1.00 | true     | func_800726CC                       | 61         | asm/us/main/matchings/mains/main_57/func_800726CC.s 
+| 1.00 | true     | func_80075700                       | 61         | asm/us/main/matchings/mains/main_60/func_80075700.s 
 | 1.00 | true     | func_80078EB0                       | 61         | asm/us/main/matchings/mains/main_61/func_80078EB0.s 
-| 1.00 | false    | func_8006C07C                       | 61         | asm/us/main/nonmatchings/mains/main_54/func_8006C07C.s 
-| 1.00 | false    | func_800726CC                       | 61         | asm/us/main/nonmatchings/mains/main_57/func_800726CC.s 
-| 1.00 | false    | func_80075700                       | 61         | asm/us/main/nonmatchings/mains/main_60/func_80075700.s 
 | 0.92 | false    | func_8008654C                       | 61         | asm/us/main/nonmatchings/mains/main_69/func_8008654C.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | GetGraphType                        | 4          | asm/us/main/matchings/D9840/GetGraphType.s 
