@@ -298,9 +298,9 @@
 | 1.00 | false    | SetLineG3                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG3.s 
 | 1.00 | false    | SetLineG4                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG4.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
+| 0.91 | true     | web_spider_spawn_web_piece          | 45         | asm/us/main/matchings/mains/main_43/web_spider_spawn_web_piece.s 
+| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
+| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
@@ -312,11 +312,11 @@
 | 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/collision/func_8002C2EC.s 
 | 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/collision/func_8002C26C.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
+| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | func_8007D234                       | 48         | asm/us/main/matchings/mains/main_64/func_8007D234.s 
 | 0.94 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
-| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/psxsdk/libgpu/sys/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/ClearImage2.s 
@@ -335,9 +335,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_800DA984                       | 111        | asm/us/main/nonmatchings/layers/layer_07/func_800DA984.s 
 | 0.95 | false    | func_800DABE4                       | 111        | asm/us/main/nonmatchings/layers/layer_07/func_800DABE4.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8001A178                       | 100        | asm/us/main/nonmatchings/menu/func_8001A178.s 
-| 1.00 | false    | func_8001A308                       | 100        | asm/us/main/nonmatchings/menu/func_8001A308.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_80030DF8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030DF8.s 
 | 0.95 | false    | func_80030EC8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030EC8.s 
