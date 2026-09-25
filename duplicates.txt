@@ -1,10 +1,5 @@
 | %    | Decomp?  | Name                                | # of insns | Asm Path 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_800397E8                       | 8          | asm/us/main/matchings/23C14/func_800397E8.s 
-| 1.00 | true     | func_80042CC4                       | 8          | asm/us/main/matchings/23C14/func_80042CC4.s 
-| 1.00 | true     | func_800448C4                       | 8          | asm/us/main/matchings/23C14/func_800448C4.s 
-| 1.00 | true     | func_800204AC                       | 8          | asm/us/main/matchings/323C/func_800204AC.s 
-| 1.00 | true     | DecDCTout                           | 8          | asm/us/main/matchings/D9840/DecDCTout.s 
 | 1.00 | true     | func_800B6060                       | 8          | asm/us/main/matchings/effects/effect_04/func_800B6060.s 
 | 1.00 | true     | func_800B8470                       | 8          | asm/us/main/matchings/effects/effect_12/func_800B8470.s 
 | 1.00 | true     | func_800B8610                       | 8          | asm/us/main/matchings/effects/effect_13/func_800B8610.s 
@@ -19,6 +14,7 @@
 | 1.00 | true     | func_800BDF20                       | 8          | asm/us/main/matchings/effects/effect_39/func_800BDF20.s 
 | 1.00 | true     | func_800BE0DC                       | 8          | asm/us/main/matchings/effects/effect_40/func_800BE0DC.s 
 | 1.00 | true     | func_800B6C74                       | 8          | asm/us/main/matchings/effects/search_light_maker/func_800B6C74.s 
+| 1.00 | true     | func_800204AC                       | 8          | asm/us/main/matchings/engine/func_800204AC.s 
 | 1.00 | true     | func_800BEB94                       | 8          | asm/us/main/matchings/items/item_00/func_800BEB94.s 
 | 1.00 | true     | func_800BF5EC                       | 8          | asm/us/main/matchings/items/item_01/func_800BF5EC.s 
 | 1.00 | true     | func_800BFBB0                       | 8          | asm/us/main/matchings/items/item_02/func_800BFBB0.s 
@@ -42,6 +38,8 @@
 | 1.00 | true     | func_800DA140                       | 8          | asm/us/main/matchings/layers/layer_04/func_800DA140.s 
 | 1.00 | true     | func_800DA478                       | 8          | asm/us/main/matchings/layers/layer_05/func_800DA478.s 
 | 1.00 | true     | func_800DA964                       | 8          | asm/us/main/matchings/layers/layer_07/func_800DA964.s 
+| 1.00 | true     | func_80042CC4                       | 8          | asm/us/main/matchings/mains/main_02/func_80042CC4.s 
+| 1.00 | true     | func_800448C4                       | 8          | asm/us/main/matchings/mains/main_04/func_800448C4.s 
 | 1.00 | true     | func_8004AE00                       | 8          | asm/us/main/matchings/mains/main_11/func_8004AE00.s 
 | 1.00 | true     | func_8004E810                       | 8          | asm/us/main/matchings/mains/main_15/func_8004E810.s 
 | 1.00 | true     | func_80053D04                       | 8          | asm/us/main/matchings/mains/main_19/func_80053D04.s 
@@ -103,8 +101,10 @@
 | 1.00 | true     | func_800D34F0                       | 8          | asm/us/main/matchings/misc/misc_57/func_800D34F0.s 
 | 1.00 | true     | func_800CB614                       | 8          | asm/us/main/matchings/misc/ready_text/func_800CB614.s 
 | 1.00 | true     | func_800CD730                       | 8          | asm/us/main/matchings/misc/select_a_character/func_800CD730.s 
+| 1.00 | true     | func_800397E8                       | 8          | asm/us/main/matchings/player/func_800397E8.s 
 | 1.00 | true     | CdReady                             | 8          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdReady.s 
 | 1.00 | true     | CdSync                              | 8          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSync.s 
+| 1.00 | true     | DecDCTout                           | 8          | asm/us/main/matchings/psxsdk/libpress/libpress/DecDCTout.s 
 | 1.00 | true     | func_800D46D4                       | 8          | asm/us/main/matchings/quads/quad_01/func_800D46D4.s 
 | 1.00 | true     | func_800D5210                       | 8          | asm/us/main/matchings/quads/quad_03/func_800D5210.s 
 | 1.00 | true     | func_800D54E0                       | 8          | asm/us/main/matchings/quads/quad_04/func_800D54E0.s 
@@ -234,30 +234,30 @@
 | 1.00 | false    | dmy_SsSetProgramChange              | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsSetProgramChange.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_800672D8                       | 5          | asm/us/main/matchings/mains/main_47/func_800672D8.s 
-| 1.00 | false    | SetLineF2                           | 5          | asm/us/main/nonmatchings/D9840/SetLineF2.s 
-| 1.00 | false    | SetLineG2                           | 5          | asm/us/main/nonmatchings/D9840/SetLineG2.s 
-| 1.00 | false    | SetPolyF3                           | 5          | asm/us/main/nonmatchings/D9840/SetPolyF3.s 
-| 1.00 | false    | SetPolyF4                           | 5          | asm/us/main/nonmatchings/D9840/SetPolyF4.s 
-| 1.00 | false    | SetPolyFT3                          | 5          | asm/us/main/nonmatchings/D9840/SetPolyFT3.s 
-| 1.00 | false    | SetPolyFT4                          | 5          | asm/us/main/nonmatchings/D9840/SetPolyFT4.s 
-| 1.00 | false    | SetPolyG3                           | 5          | asm/us/main/nonmatchings/D9840/SetPolyG3.s 
-| 1.00 | false    | SetPolyG4                           | 5          | asm/us/main/nonmatchings/D9840/SetPolyG4.s 
-| 1.00 | false    | SetPolyGT3                          | 5          | asm/us/main/nonmatchings/D9840/SetPolyGT3.s 
-| 1.00 | false    | SetPolyGT4                          | 5          | asm/us/main/nonmatchings/D9840/SetPolyGT4.s 
-| 1.00 | false    | SetSprt                             | 5          | asm/us/main/nonmatchings/D9840/SetSprt.s 
-| 1.00 | false    | SetSprt16                           | 5          | asm/us/main/nonmatchings/D9840/SetSprt16.s 
-| 1.00 | false    | SetSprt8                            | 5          | asm/us/main/nonmatchings/D9840/SetSprt8.s 
-| 1.00 | false    | SetTile                             | 5          | asm/us/main/nonmatchings/D9840/SetTile.s 
-| 1.00 | false    | SetTile1                            | 5          | asm/us/main/nonmatchings/D9840/SetTile1.s 
-| 1.00 | false    | SetTile16                           | 5          | asm/us/main/nonmatchings/D9840/SetTile16.s 
-| 1.00 | false    | SetTile8                            | 5          | asm/us/main/nonmatchings/D9840/SetTile8.s 
+| 1.00 | false    | SetLineF2                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineF2.s 
+| 1.00 | false    | SetLineG2                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG2.s 
+| 1.00 | false    | SetPolyF3                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyF3.s 
+| 1.00 | false    | SetPolyF4                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyF4.s 
+| 1.00 | false    | SetPolyFT3                          | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyFT3.s 
+| 1.00 | false    | SetPolyFT4                          | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyFT4.s 
+| 1.00 | false    | SetPolyG3                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyG3.s 
+| 1.00 | false    | SetPolyG4                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyG4.s 
+| 1.00 | false    | SetPolyGT3                          | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyGT3.s 
+| 1.00 | false    | SetPolyGT4                          | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetPolyGT4.s 
+| 1.00 | false    | SetSprt                             | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetSprt.s 
+| 1.00 | false    | SetSprt16                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetSprt16.s 
+| 1.00 | false    | SetSprt8                            | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetSprt8.s 
+| 1.00 | false    | SetTile                             | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile.s 
+| 1.00 | false    | SetTile1                            | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile1.s 
+| 1.00 | false    | SetTile16                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile16.s 
+| 1.00 | false    | SetTile8                            | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile8.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | PlayCapcomLogo                      | 10         | asm/us/main/matchings/323C/PlayCapcomLogo.s 
-| 1.00 | true     | func_80020368                       | 10         | asm/us/main/matchings/323C/func_80020368.s 
-| 1.00 | true     | func_80023D68                       | 10         | asm/us/main/matchings/323C/func_80023D68.s 
-| 1.00 | true     | func_80023D90                       | 10         | asm/us/main/matchings/323C/func_80023D90.s 
-| 0.90 | false    | DecDCTinCallback                    | 9          | asm/us/main/nonmatchings/D9840/DecDCTinCallback.s 
-| 0.90 | false    | _addque                             | 9          | asm/us/main/nonmatchings/D9840/_addque.s 
+| 1.00 | true     | func_80023D68                       | 10         | asm/us/main/matchings/125BC/func_80023D68.s 
+| 1.00 | true     | func_80023D90                       | 10         | asm/us/main/matchings/125BC/func_80023D90.s 
+| 1.00 | true     | func_80020368                       | 10         | asm/us/main/matchings/engine/func_80020368.s 
+| 1.00 | true     | PlayCapcomLogo                      | 10         | asm/us/main/matchings/game_info/PlayCapcomLogo.s 
+| 0.90 | false    | _addque                             | 9          | asm/us/main/nonmatchings/psxsdk/libgpu/sys/_addque.s 
+| 0.90 | false    | DecDCTinCallback                    | 9          | asm/us/main/nonmatchings/psxsdk/libpress/libpress/DecDCTinCallback.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | InterruptCallback                   | 12         | asm/us/main/matchings/psxsdk/libetc/intr/InterruptCallback.s 
 | 1.00 | true     | ResetCallback                       | 12         | asm/us/main/matchings/psxsdk/libetc/intr/ResetCallback.s 
@@ -272,9 +272,9 @@
 | 1.00 | true     | func_80078EB0                       | 61         | asm/us/main/matchings/mains/main_61/func_80078EB0.s 
 | 0.92 | false    | func_8008654C                       | 61         | asm/us/main/nonmatchings/mains/main_69/func_8008654C.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | GetGraphType                        | 4          | asm/us/main/matchings/D9840/GetGraphType.s 
+| 1.00 | true     | GetGraphType                        | 4          | asm/us/main/matchings/psxsdk/libgpu/sys/GetGraphType.s 
 | 1.00 | true     | CdLastCom                           | 4          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdLastCom.s 
-| 1.00 | false    | GetGraphDebug                       | 4          | asm/us/main/nonmatchings/D9840/GetGraphDebug.s 
+| 1.00 | false    | GetGraphDebug                       | 4          | asm/us/main/nonmatchings/psxsdk/libgpu/sys/GetGraphDebug.s 
 | 1.00 | false    | CdMode                              | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdMode.s 
 | 1.00 | false    | CdStatus                            | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdStatus.s 
 -------------------------------------------------------------------------------
@@ -283,24 +283,20 @@
 | 1.00 | true     | CdSyncCallback                      | 6          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSyncCallback.s 
 | 1.00 | false    | CdSetDebug                          | 6          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdSetDebug.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | D_80010090                          | 0          | asm/us/main/nonmatchings/323C/D_80010090.s 
-| 1.00 | false    | D_80010094                          | 0          | asm/us/main/nonmatchings/323C/D_80010094.s 
-| 1.00 | false    | D_800100A8                          | 0          | asm/us/main/nonmatchings/323C/D_800100A8.s 
-| 1.00 | false    | D_800100C0                          | 0          | asm/us/main/nonmatchings/323C/D_800100C0.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | SetLineF3                           | 8          | asm/us/main/nonmatchings/D9840/SetLineF3.s 
-| 1.00 | false    | SetLineF4                           | 8          | asm/us/main/nonmatchings/D9840/SetLineF4.s 
-| 1.00 | false    | SetLineG3                           | 8          | asm/us/main/nonmatchings/D9840/SetLineG3.s 
-| 1.00 | false    | SetLineG4                           | 8          | asm/us/main/nonmatchings/D9840/SetLineG4.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | func_8006C170                       | 66         | asm/us/main/nonmatchings/mains/main_54/func_8006C170.s 
 | 1.00 | false    | func_800727C0                       | 66         | asm/us/main/nonmatchings/mains/main_57/func_800727C0.s 
 | 1.00 | false    | func_800757F4                       | 66         | asm/us/main/nonmatchings/mains/main_60/func_800757F4.s 
 | 1.00 | false    | func_80078FA4                       | 66         | asm/us/main/nonmatchings/mains/main_61/func_80078FA4.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/23C14/func_8003D6EC.s 
-| 0.91 | true     | web_spider_spawn_web_piece          | 45         | asm/us/main/matchings/mains/main_43/web_spider_spawn_web_piece.s 
-| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/23C14/func_8003D7E4.s 
+| 1.00 | false    | D_80010094                          | 0          | asm/us/main/nonmatchings/memcard/D_80010094.s 
+| 1.00 | false    | D_800100A8                          | 0          | asm/us/main/nonmatchings/memcard/D_800100A8.s 
+| 1.00 | false    | D_800100C0                          | 0          | asm/us/main/nonmatchings/memcard/D_800100C0.s 
+| 1.00 | false    | D_80010090                          | 0          | asm/us/main/nonmatchings/menu/D_80010090.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | SetLineF3                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineF3.s 
+| 1.00 | false    | SetLineF4                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineF4.s 
+| 1.00 | false    | SetLineG3                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG3.s 
+| 1.00 | false    | SetLineG4                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
 | 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
@@ -310,17 +306,20 @@
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/1A5BC/func_8002C2EC.s 
-| 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/1A5BC/func_8002C26C.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | func_800190F0                       | 4          | asm/us/main/matchings/323C/func_800190F0.s 
 | 1.00 | false    | CD_set_test_parmnum                 | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_101/CD_set_test_parmnum.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/D9840/ClearImage.s 
-| 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/D9840/ClearImage2.s 
+| 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/collision/func_8002C2EC.s 
+| 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/collision/func_8002C26C.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8007D234                       | 48         | asm/us/main/matchings/mains/main_64/func_8007D234.s 
 | 0.94 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
+| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/psxsdk/libgpu/sys/ClearImage.s 
+| 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/ClearImage2.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | SsSepSetVol                         | 14         | asm/us/main/matchings/psxsdk/libsnd/sstick/SsSepSetVol.s 
 | 1.00 | false    | _SsSndSetVol                        | 14         | asm/us/main/nonmatchings/psxsdk/libsnd/sstick/_SsSndSetVol.s 
@@ -331,53 +330,53 @@
 | 1.00 | true     | func_800B55AC                       | 74         | asm/us/main/matchings/visuals/visual_34/func_800B55AC.s 
 | 1.00 | false    | func_800CDCFC                       | 74         | asm/us/main/nonmatchings/misc/misc_30/func_800CDCFC.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_80030DF8                       | 58         | asm/us/main/nonmatchings/1FD10/func_80030DF8.s 
-| 0.95 | false    | func_80030EC8                       | 58         | asm/us/main/nonmatchings/1FD10/func_80030EC8.s 
--------------------------------------------------------------------------------
+| 1.00 | false    | func_80024260                       | 53         | asm/us/main/nonmatchings/125BC/func_80024260.s 
 | 1.00 | false    | func_80017F2C                       | 53         | asm/us/main/nonmatchings/323C/func_80017F2C.s 
-| 1.00 | false    | func_80024260                       | 53         | asm/us/main/nonmatchings/323C/func_80024260.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8001A178                       | 100        | asm/us/main/nonmatchings/323C/func_8001A178.s 
-| 1.00 | false    | func_8001A308                       | 100        | asm/us/main/nonmatchings/323C/func_8001A308.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | AddPrim                             | 15         | asm/us/main/nonmatchings/D9840/AddPrim.s 
-| 1.00 | false    | AddPrims                            | 15         | asm/us/main/nonmatchings/D9840/AddPrims.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | DecDCTinSync                        | 15         | asm/us/main/nonmatchings/D9840/DecDCTinSync.s 
-| 1.00 | false    | DecDCToutSync                       | 15         | asm/us/main/nonmatchings/D9840/DecDCToutSync.s 
--------------------------------------------------------------------------------
-| 0.93 | false    | DrawOTag                            | 29         | asm/us/main/nonmatchings/D9840/DrawOTag.s 
-| 1.00 | false    | DrawSync                            | 27         | asm/us/main/nonmatchings/D9840/DrawSync.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | GetDispEnv                          | 14         | asm/us/main/nonmatchings/D9840/GetDispEnv.s 
-| 1.00 | false    | GetDrawEnv                          | 14         | asm/us/main/nonmatchings/D9840/GetDrawEnv.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | LoadClut                            | 26         | asm/us/main/nonmatchings/D9840/LoadClut.s 
-| 1.00 | false    | LoadClut2                           | 26         | asm/us/main/nonmatchings/D9840/LoadClut2.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | LoadImage                           | 25         | asm/us/main/nonmatchings/D9840/LoadImage.s 
-| 1.00 | false    | StoreImage                          | 25         | asm/us/main/nonmatchings/D9840/StoreImage.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | MDEC_in                             | 37         | asm/us/main/nonmatchings/D9840/MDEC_in.s 
-| 0.95 | false    | MDEC_out                            | 36         | asm/us/main/nonmatchings/D9840/MDEC_out.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | MDEC_in_sync                        | 38         | asm/us/main/nonmatchings/D9840/MDEC_in_sync.s 
-| 1.00 | false    | MDEC_out_sync                       | 38         | asm/us/main/nonmatchings/D9840/MDEC_out_sync.s 
--------------------------------------------------------------------------------
-| 0.90 | false    | DrawOTagEnv                         | 71         | asm/us/main/nonmatchings/D9840/DrawOTagEnv.s 
-| 1.00 | false    | PutDrawEnv                          | 65         | asm/us/main/nonmatchings/D9840/PutDrawEnv.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | SetSemiTrans                        | 10         | asm/us/main/nonmatchings/D9840/SetSemiTrans.s 
-| 1.00 | false    | SetShadeTex                         | 10         | asm/us/main/nonmatchings/D9840/SetShadeTex.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | MDEC_status                         | 6          | asm/us/main/nonmatchings/D9840/MDEC_status.s 
-| 1.00 | false    | _status                             | 6          | asm/us/main/nonmatchings/D9840/_status.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_800DA984                       | 111        | asm/us/main/nonmatchings/layers/layer_07/func_800DA984.s 
 | 0.95 | false    | func_800DABE4                       | 111        | asm/us/main/nonmatchings/layers/layer_07/func_800DABE4.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | func_8001A178                       | 100        | asm/us/main/nonmatchings/menu/func_8001A178.s 
+| 1.00 | false    | func_8001A308                       | 100        | asm/us/main/nonmatchings/menu/func_8001A308.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | func_80030DF8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030DF8.s 
+| 0.95 | false    | func_80030EC8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030EC8.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | LoadClut                            | 26         | asm/us/main/nonmatchings/psxsdk/libgpu/ext/LoadClut.s 
+| 1.00 | false    | LoadClut2                           | 26         | asm/us/main/nonmatchings/psxsdk/libgpu/ext/LoadClut2.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | AddPrim                             | 15         | asm/us/main/nonmatchings/psxsdk/libgpu/prim/AddPrim.s 
+| 1.00 | false    | AddPrims                            | 15         | asm/us/main/nonmatchings/psxsdk/libgpu/prim/AddPrims.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | SetSemiTrans                        | 10         | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetSemiTrans.s 
+| 1.00 | false    | SetShadeTex                         | 10         | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetShadeTex.s 
+-------------------------------------------------------------------------------
+| 0.93 | false    | DrawOTag                            | 29         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/DrawOTag.s 
+| 1.00 | false    | DrawSync                            | 27         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/DrawSync.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | GetDispEnv                          | 14         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/GetDispEnv.s 
+| 1.00 | false    | GetDrawEnv                          | 14         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/GetDrawEnv.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | LoadImage                           | 25         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/LoadImage.s 
+| 1.00 | false    | StoreImage                          | 25         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/StoreImage.s 
+-------------------------------------------------------------------------------
+| 0.90 | false    | DrawOTagEnv                         | 71         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/DrawOTagEnv.s 
+| 1.00 | false    | PutDrawEnv                          | 65         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/PutDrawEnv.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | _status                             | 6          | asm/us/main/nonmatchings/psxsdk/libgpu/sys/_status.s 
+| 1.00 | false    | MDEC_status                         | 6          | asm/us/main/nonmatchings/psxsdk/libpress/libpress/MDEC_status.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | CdComstr                            | 13         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdComstr.s 
 | 1.00 | false    | CdIntstr                            | 13         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdIntstr.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | CdControl                           | 78         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdControl.s 
 | 0.95 | false    | CdControlF                          | 75         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdControlF.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | DecDCTinSync                        | 15         | asm/us/main/nonmatchings/psxsdk/libpress/libpress/DecDCTinSync.s 
+| 1.00 | false    | DecDCToutSync                       | 15         | asm/us/main/nonmatchings/psxsdk/libpress/libpress/DecDCToutSync.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | MDEC_in                             | 37         | asm/us/main/nonmatchings/psxsdk/libpress/libpress/MDEC_in.s 
+| 0.95 | false    | MDEC_out                            | 36         | asm/us/main/nonmatchings/psxsdk/libpress/libpress/MDEC_out.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | MDEC_in_sync                        | 38         | asm/us/main/nonmatchings/psxsdk/libpress/libpress/MDEC_in_sync.s 
+| 1.00 | false    | MDEC_out_sync                       | 38         | asm/us/main/nonmatchings/psxsdk/libpress/libpress/MDEC_out_sync.s 
