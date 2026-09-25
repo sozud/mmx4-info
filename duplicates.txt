@@ -302,10 +302,6 @@
 | 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
 | 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
 -------------------------------------------------------------------------------
-| 0.91 | true     | web_spider_spawn_web_piece          | 45         | asm/us/main/matchings/mains/main_43/web_spider_spawn_web_piece.s 
-| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
-| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
@@ -318,6 +314,9 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8007D234                       | 48         | asm/us/main/matchings/mains/main_64/func_8007D234.s 
 | 0.94 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
+| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/psxsdk/libgpu/sys/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/ClearImage2.s 
