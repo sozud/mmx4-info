@@ -298,10 +298,6 @@
 | 1.00 | false    | SetLineG3                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG3.s 
 | 1.00 | false    | SetLineG4                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG4.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.91 | true     | func_8005EF40                       | 11         | asm/us/main/matchings/mains/main_35/func_8005EF40.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
@@ -311,6 +307,9 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/collision/func_8002C2EC.s 
 | 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/collision/func_8002C26C.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
+| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8007D234                       | 48         | asm/us/main/matchings/mains/main_64/func_8007D234.s 
 | 0.94 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
