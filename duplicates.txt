@@ -277,11 +277,6 @@
 | 1.00 | true     | CdSyncCallback                      | 6          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSyncCallback.s 
 | 1.00 | false    | CdSetDebug                          | 6          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdSetDebug.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_8006C170                       | 66         | asm/us/main/nonmatchings/mains/main_54/func_8006C170.s 
-| 1.00 | false    | func_800727C0                       | 66         | asm/us/main/nonmatchings/mains/main_57/func_800727C0.s 
-| 1.00 | false    | func_800757F4                       | 66         | asm/us/main/nonmatchings/mains/main_60/func_800757F4.s 
-| 1.00 | false    | func_80078FA4                       | 66         | asm/us/main/nonmatchings/mains/main_61/func_80078FA4.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | D_80010094                          | 0          | asm/us/main/nonmatchings/memcard/D_80010094.s 
 | 1.00 | false    | D_800100A8                          | 0          | asm/us/main/nonmatchings/memcard/D_800100A8.s 
 | 1.00 | false    | D_800100C0                          | 0          | asm/us/main/nonmatchings/memcard/D_800100C0.s 
@@ -307,12 +302,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | _spu_FsetDelayW                     | 11         | asm/us/main/matchings/psxsdk/libspu/s_crwa/_spu_FsetDelayW.s 
 | 1.00 | false    | _spu_FsetDelayR                     | 11         | asm/us/main/nonmatchings/psxsdk/libspu/s_crwa/_spu_FsetDelayR.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80024260                       | 53         | asm/us/main/nonmatchings/125BC/func_80024260.s 
-| 1.00 | false    | func_80017F2C                       | 53         | asm/us/main/nonmatchings/323C/func_80017F2C.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80030DF8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030DF8.s 
-| 0.95 | false    | func_80030EC8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030EC8.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | LoadClut                            | 26         | asm/us/main/nonmatchings/psxsdk/libgpu/ext/LoadClut.s 
 | 1.00 | false    | LoadClut2                           | 26         | asm/us/main/nonmatchings/psxsdk/libgpu/ext/LoadClut2.s 

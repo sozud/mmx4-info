@@ -3,7 +3,6 @@
 | main   | func_8002938C |       31 |          3 |        |                 | https://decomp.me/scratch/Dnokk | 0.891 |
 | libgte | func_800E9040 |       41 |          2 |        |                 | https://decomp.me/scratch/7KPAq | 0.119 |
 | main   | func_8002D724 |       57 |          5 |        | 8 player        | https://decomp.me/scratch/M5cpN | 0.804 |
-| main   | func_80024260 |       62 |          4 |        |                 | https://decomp.me/scratch/7hiwo | 0.865 |
 | main   | func_8002D7E4 |       62 |          5 |        | 8 player        | https://decomp.me/scratch/GcYIr | 0.471 |
 | main   | func_8001540C |       64 |          8 |        |                 | https://decomp.me/scratch/jzTmb | 0.653 |
 | main   | func_800B5D04 |       84 |          7 |        | 3 effect        | https://decomp.me/scratch/XIkdr | 0.662 |
