@@ -266,12 +266,6 @@
 | 1.00 | false    | StopCallback                        | 12         | asm/us/main/nonmatchings/psxsdk/libetc/intr/StopCallback.s 
 | 1.00 | false    | VSyncCallbacks                      | 12         | asm/us/main/nonmatchings/psxsdk/libetc/intr/VSyncCallbacks.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8006C07C                       | 61         | asm/us/main/matchings/mains/main_54/func_8006C07C.s 
-| 1.00 | true     | func_800726CC                       | 61         | asm/us/main/matchings/mains/main_57/func_800726CC.s 
-| 1.00 | true     | func_80075700                       | 61         | asm/us/main/matchings/mains/main_60/func_80075700.s 
-| 1.00 | true     | func_80078EB0                       | 61         | asm/us/main/matchings/mains/main_61/func_80078EB0.s 
-| 0.92 | false    | func_8008654C                       | 61         | asm/us/main/nonmatchings/mains/main_69/func_8008654C.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | GetGraphType                        | 4          | asm/us/main/matchings/psxsdk/libgpu/sys/GetGraphType.s 
 | 1.00 | true     | CdLastCom                           | 4          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdLastCom.s 
 | 1.00 | false    | GetGraphDebug                       | 4          | asm/us/main/nonmatchings/psxsdk/libgpu/sys/GetGraphDebug.s 
@@ -305,18 +299,6 @@
 | 1.00 | true     | func_800190F0                       | 4          | asm/us/main/matchings/323C/func_800190F0.s 
 | 1.00 | false    | CD_set_test_parmnum                 | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_101/CD_set_test_parmnum.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8002C2EC                       | 32         | asm/us/main/matchings/collision/func_8002C2EC.s 
-| 1.00 | false    | func_8002C26C                       | 32         | asm/us/main/nonmatchings/collision/func_8002C26C.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_80056BA8                       | 10         | asm/us/main/matchings/mains/main_24/func_80056BA8.s 
-| 0.90 | false    | func_800618F4                       | 9          | asm/us/main/nonmatchings/mains/main_39/func_800618F4.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_8007D234                       | 48         | asm/us/main/matchings/mains/main_64/func_8007D234.s 
-| 0.94 | false    | func_8007D174                       | 48         | asm/us/main/nonmatchings/mains/main_64/func_8007D174.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
-| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/psxsdk/libgpu/sys/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/ClearImage2.s 
 -------------------------------------------------------------------------------
@@ -326,14 +308,8 @@
 | 1.00 | true     | _spu_FsetDelayW                     | 11         | asm/us/main/matchings/psxsdk/libspu/s_crwa/_spu_FsetDelayW.s 
 | 1.00 | false    | _spu_FsetDelayR                     | 11         | asm/us/main/nonmatchings/psxsdk/libspu/s_crwa/_spu_FsetDelayR.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_800B55AC                       | 74         | asm/us/main/matchings/visuals/visual_34/func_800B55AC.s 
-| 1.00 | false    | func_800CDCFC                       | 74         | asm/us/main/nonmatchings/misc/misc_30/func_800CDCFC.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | func_80024260                       | 53         | asm/us/main/nonmatchings/125BC/func_80024260.s 
 | 1.00 | false    | func_80017F2C                       | 53         | asm/us/main/nonmatchings/323C/func_80017F2C.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_800DA984                       | 111        | asm/us/main/nonmatchings/layers/layer_07/func_800DA984.s 
-| 0.95 | false    | func_800DABE4                       | 111        | asm/us/main/nonmatchings/layers/layer_07/func_800DABE4.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_80030DF8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030DF8.s 
 | 0.95 | false    | func_80030EC8                       | 58         | asm/us/main/nonmatchings/pause_menu/func_80030EC8.s 
