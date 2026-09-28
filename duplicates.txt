@@ -101,7 +101,7 @@
 | 1.00 | true     | func_800D34F0                       | 8          | asm/us/main/matchings/misc/misc_57/func_800D34F0.s 
 | 1.00 | true     | func_800CB614                       | 8          | asm/us/main/matchings/misc/ready_text/func_800CB614.s 
 | 1.00 | true     | func_800CD730                       | 8          | asm/us/main/matchings/misc/select_a_character/func_800CD730.s 
-| 1.00 | true     | func_800397E8                       | 8          | asm/us/main/matchings/player/func_800397E8.s 
+| 1.00 | true     | player_rising_fire_charged_peak     | 8          | asm/us/main/matchings/player/player_rising_fire_charged_peak.s 
 | 1.00 | true     | CdReady                             | 8          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdReady.s 
 | 1.00 | true     | CdSync                              | 8          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSync.s 
 | 1.00 | true     | DecDCTout                           | 8          | asm/us/main/matchings/psxsdk/libpress/libpress/DecDCTout.s 
