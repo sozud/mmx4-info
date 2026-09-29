@@ -5,7 +5,7 @@
 | main   | func_8002D724 |       57 |          5 |        | 8 player        | https://decomp.me/scratch/M5cpN | 0.804 |
 | main   | func_8002D7E4 |       62 |          5 |        | 8 player        | https://decomp.me/scratch/GcYIr | 0.471 |
 | main   | func_8001540C |       64 |          8 |        |                 | https://decomp.me/scratch/jzTmb | 0.653 |
-| main   | func_800B5D04 |       84 |          7 |        | 3 effect        | https://decomp.me/scratch/XIkdr | 0.662 |
+| main   | func_800B5D04 |       84 |          7 |        | 3 effect        |                                 |       |
 | main   | func_80028E24 |       89 |          9 |        | 6 QuadObj       | https://decomp.me/scratch/sFeaU | 0.63  |
 | main   | func_80012328 |       89 |         11 |        |                 | https://decomp.me/scratch/93Orx | 0.928 |
 | main   | func_800275DC |       93 |          8 |        |                 | https://decomp.me/scratch/4VF6X | 1     |
