@@ -25,7 +25,7 @@
 | main   | func_80018B88 |      196 |         21 |        |                 | https://decomp.me/scratch/9oQNk | 0.593 |
 | main   | func_80028FEC |      203 |         28 |        |                 | https://decomp.me/scratch/rv6cq | 0.549 |
 | main   | func_800182E8 |      205 |         21 |        |                 | https://decomp.me/scratch/5aIkz | 0.731 |
-| main   | func_8001663C |      210 |         21 | Yes    |                 | https://decomp.me/scratch/nk2Sy | 0.892 |
+| main   | func_8001663C |      211 |         21 | Yes    |                 | https://decomp.me/scratch/nk2Sy | 0.892 |
 | main   | func_80018788 |      226 |         39 |        |                 | https://decomp.me/scratch/WDtQ3 | 0.736 |
 | main   | func_800D3C58 |      241 |         33 |        | 6 QuadObj       | https://decomp.me/scratch/1EbiN | 0.69  |
 | main   | func_80028690 |      263 |         31 |        | 9 background    | https://decomp.me/scratch/EeDyg | 0.933 |

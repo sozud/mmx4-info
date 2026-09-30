@@ -1,5 +1,6 @@
 | %    | Decomp?  | Name                                | # of insns | Asm Path 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_800204AC                       | 8          | asm/us/main/matchings/10CA4/func_800204AC.s 
 | 1.00 | true     | stage_music_despawn                 | 8          | asm/us/main/matchings/effects/effect_04_stage_music/stage_music_despawn.s 
 | 1.00 | true     | search_light_maker_main             | 8          | asm/us/main/matchings/effects/effect_07_search_light_maker/search_light_maker_main.s 
 | 1.00 | true     | enemy_spawner_despawn               | 8          | asm/us/main/matchings/effects/effect_12_enemy_spawner/enemy_spawner_despawn.s 
@@ -14,7 +15,6 @@
 | 1.00 | true     | cyberspace_trial_despawn            | 8          | asm/us/main/matchings/effects/effect_38_cyberspace_trial/cyberspace_trial_despawn.s 
 | 1.00 | true     | tile_strip_anim_main                | 8          | asm/us/main/matchings/effects/effect_39_tile_strip_anim/tile_strip_anim_main.s 
 | 1.00 | true     | tile_loop_anim_main                 | 8          | asm/us/main/matchings/effects/effect_40_tile_loop_anim/tile_loop_anim_main.s 
-| 1.00 | true     | func_800204AC                       | 8          | asm/us/main/matchings/engine/func_800204AC.s 
 | 1.00 | true     | func_800BEB94                       | 8          | asm/us/main/matchings/items/item_00_breakable_wall/func_800BEB94.s 
 | 1.00 | true     | func_800BF5EC                       | 8          | asm/us/main/matchings/items/item_01_stage_block/func_800BF5EC.s 
 | 1.00 | true     | pickup_despawn                      | 8          | asm/us/main/matchings/items/item_02_pickup/pickup_despawn.s 
@@ -101,7 +101,7 @@
 | 1.00 | true     | capsule_part_despawn                | 8          | asm/us/main/matchings/misc/misc_51_capsule_part/capsule_part_despawn.s 
 | 1.00 | true     | func_800D330C                       | 8          | asm/us/main/matchings/misc/misc_55_sigma_final_fx/func_800D330C.s 
 | 1.00 | true     | falling_piece_despawn               | 8          | asm/us/main/matchings/misc/misc_57_falling_piece/falling_piece_despawn.s 
-| 1.00 | true     | player_rising_fire_charged_peak     | 8          | asm/us/main/matchings/player/player_rising_fire_charged_peak.s 
+| 1.00 | true     | player_rising_fire_charged_peak     | 8          | asm/us/main/matchings/player_special/player_rising_fire_charged_peak.s 
 | 1.00 | true     | CdReady                             | 8          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdReady.s 
 | 1.00 | true     | CdSync                              | 8          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSync.s 
 | 1.00 | true     | DecDCTout                           | 8          | asm/us/main/matchings/psxsdk/libpress/libpress/DecDCTout.s 
@@ -110,8 +110,8 @@
 | 1.00 | true     | boss_death_shard_despawn            | 8          | asm/us/main/matchings/quads/quad_04_boss_death_shard/boss_death_shard_despawn.s 
 | 1.00 | true     | web_piece_quad_despawn              | 8          | asm/us/main/matchings/quads/quad_05_web_piece_quad/web_piece_quad_despawn.s 
 | 1.00 | true     | light_ray_despawn                   | 8          | asm/us/main/matchings/quads/quad_06_light_ray/light_ray_despawn.s 
-| 1.00 | true     | flash_band_despawn                  | 8          | asm/us/main/matchings/quads/quad_07_ready_line/flash_band_despawn.s 
 | 1.00 | true     | ready_line_despawn                  | 8          | asm/us/main/matchings/quads/quad_07_ready_line/ready_line_despawn.s 
+| 1.00 | true     | flash_band_despawn                  | 8          | asm/us/main/matchings/quads/quad_08_flash_band/flash_band_despawn.s 
 | 1.00 | true     | title_quad_despawn                  | 8          | asm/us/main/matchings/quads/quad_11_title_quad/title_quad_despawn.s 
 | 1.00 | true     | title_facet_despawn                 | 8          | asm/us/main/matchings/quads/quad_12_title_facet/title_facet_despawn.s 
 | 1.00 | true     | colonel_beam_despawn                | 8          | asm/us/main/matchings/quads/quad_14_colonel_beam/colonel_beam_despawn.s 
@@ -252,9 +252,9 @@
 | 1.00 | false    | SetTile16                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile16.s 
 | 1.00 | false    | SetTile8                            | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile8.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_80020368                       | 10         | asm/us/main/matchings/102FC/func_80020368.s 
 | 1.00 | true     | func_80023D68                       | 10         | asm/us/main/matchings/125BC/func_80023D68.s 
 | 1.00 | true     | func_80023D90                       | 10         | asm/us/main/matchings/125BC/func_80023D90.s 
-| 1.00 | true     | func_80020368                       | 10         | asm/us/main/matchings/engine/func_80020368.s 
 | 1.00 | true     | PlayCapcomLogo                      | 10         | asm/us/main/matchings/game_info/PlayCapcomLogo.s 
 | 0.90 | false    | _addque                             | 9          | asm/us/main/nonmatchings/psxsdk/libgpu/sys/_addque.s 
 | 0.90 | false    | DecDCTinCallback                    | 9          | asm/us/main/nonmatchings/psxsdk/libpress/libpress/DecDCTinCallback.s 
@@ -291,7 +291,7 @@
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
 | 1.00 | false    | def_cbsync                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbsync.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_800190F0                       | 4          | asm/us/main/matchings/323C/func_800190F0.s 
+| 1.00 | true     | func_800190F0                       | 4          | asm/us/main/matchings/55C4/func_800190F0.s 
 | 1.00 | false    | CD_set_test_parmnum                 | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_101/CD_set_test_parmnum.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/psxsdk/libgpu/sys/ClearImage.s 
