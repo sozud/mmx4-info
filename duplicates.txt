@@ -712,38 +712,6 @@
 | 1.00 | false    | dmy_SsSetPitchBend                  | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsSetPitchBend.s 
 | 1.00 | false    | dmy_SsSetProgramChange              | 16         | asm/us/main/nonmatchings/psxsdk/libsnd/dmyprint/dmy_SsSetProgramChange.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | breakable_wall_update               | 18         | asm/us/main/matchings/items/item_00_breakable_wall/breakable_wall_update.s 
-| 1.00 | true     | stage_block_update                  | 18         | asm/us/main/matchings/items/item_01_stage_block/stage_block_update.s 
-| 1.00 | true     | falling_pillar_update               | 18         | asm/us/main/matchings/items/item_03_falling_pillar/falling_pillar_update.s 
-| 1.00 | true     | destructible_core_update            | 18         | asm/us/main/matchings/items/item_04_destructible_core/destructible_core_update.s 
-| 1.00 | true     | moving_lift_update                  | 18         | asm/us/main/matchings/items/item_05_moving_lift/moving_lift_update.s 
-| 1.00 | true     | gate_core_update                    | 18         | asm/us/main/matchings/items/item_06_gate_core/gate_core_update.s 
-| 1.00 | true     | moving_block_update                 | 18         | asm/us/main/matchings/items/item_09_moving_block/moving_block_update.s 
-| 1.00 | true     | spark_machine_update                | 18         | asm/us/main/matchings/items/item_10_spark_machine/spark_machine_update.s 
-| 1.00 | true     | big_elevator_update                 | 18         | asm/us/main/matchings/items/item_14_big_elevator/big_elevator_update.s 
-| 1.00 | true     | rising_slab_update                  | 18         | asm/us/main/matchings/items/item_15_rising_slab/rising_slab_update.s 
-| 1.00 | true     | drop_pillar_update                  | 18         | asm/us/main/matchings/items/item_18_drop_pillar/drop_pillar_update.s 
-| 1.00 | true     | hopper_switch_update                | 18         | asm/us/main/matchings/items/item_21_hopper_switch/hopper_switch_update.s 
-| 1.00 | true     | breakable_panel_update              | 18         | asm/us/main/matchings/items/item_24_breakable_panel/breakable_panel_update.s 
-| 1.00 | true     | latcher_update                      | 18         | asm/us/main/matchings/mains/main_36_latcher/latcher_update.s 
-| 1.00 | true     | storm_owl_update                    | 18         | asm/us/main/matchings/mains/main_60_storm_owl/storm_owl_update.s 
-| 1.00 | true     | colonel_update                      | 18         | asm/us/main/matchings/mains/main_69_colonel/colonel_update.s 
-| 1.00 | true     | drone_pod_update                    | 18         | asm/us/main/matchings/mains/main_70_drone_pod/drone_pod_update.s 
-| 1.00 | true     | general_update                      | 18         | asm/us/main/matchings/mains/main_75_general/general_update.s 
-| 1.00 | true     | static_sprite_update                | 18         | asm/us/main/matchings/misc/misc_00_static_sprite/static_sprite_update.s 
-| 1.00 | true     | blink_marker_update                 | 18         | asm/us/main/matchings/misc/misc_11_blink_marker/blink_marker_update.s 
-| 1.00 | true     | scroll_prop_update                  | 18         | asm/us/main/matchings/misc/misc_20_scroll_prop/scroll_prop_update.s 
-| 1.00 | true     | enemy_hatch_update                  | 18         | asm/us/main/matchings/misc/misc_24_enemy_hatch/enemy_hatch_update.s 
-| 1.00 | true     | cyberspace_warp_update              | 18         | asm/us/main/matchings/misc/misc_33_cyberspace_warp/cyberspace_warp_update.s 
-| 1.00 | true     | cyberspace_guide_update             | 18         | asm/us/main/matchings/misc/misc_34_cyberspace_guide/cyberspace_guide_update.s 
-| 1.00 | true     | item_sparkle_update                 | 18         | asm/us/main/matchings/misc/misc_36_item_sparkle/item_sparkle_update.s 
-| 1.00 | true     | menu_icon_update                    | 18         | asm/us/main/matchings/misc/misc_42_menu_icon/menu_icon_update.s 
-| 1.00 | true     | capsule_part_update                 | 18         | asm/us/main/matchings/misc/misc_51_capsule_part/capsule_part_update.s 
-| 1.00 | true     | depth_charge_update                 | 18         | asm/us/main/matchings/shots/shot_17_depth_charge/depth_charge_update.s 
-| 1.00 | true     | walrus_ice_ball                     | 18         | asm/us/main/matchings/shots/shot_35_walrus_ice/walrus_ice_ball.s 
-| 1.00 | true     | walrus_ice_shard                    | 18         | asm/us/main/matchings/shots/shot_35_walrus_ice/walrus_ice_shard.s 
-| 1.00 | false    | gunship_destroyed                   | 18         | asm/us/main/nonmatchings/mains/main_67_gunship/gunship_destroyed.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | train_boss_armor_start_idle         | 5          | asm/us/main/matchings/mains/main_47_train_boss_armor/train_boss_armor_start_idle.s 
 | 1.00 | false    | SetLineF2                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineF2.s 
 | 1.00 | false    | SetLineG2                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG2.s 
@@ -763,15 +731,6 @@
 | 1.00 | false    | SetTile16                           | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile16.s 
 | 1.00 | false    | SetTile8                            | 5          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetTile8.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_80027E28                       | 8          | asm/us/main/nonmatchings/background/func_80027E28.s 
-| 1.00 | false    | func_80027E48                       | 8          | asm/us/main/nonmatchings/background/func_80027E48.s 
-| 1.00 | false    | func_80027EE8                       | 8          | asm/us/main/nonmatchings/background/func_80027EE8.s 
-| 1.00 | false    | func_80027F08                       | 8          | asm/us/main/nonmatchings/background/func_80027F08.s 
-| 1.00 | false    | func_800282D0                       | 8          | asm/us/main/nonmatchings/background/func_800282D0.s 
-| 1.00 | false    | func_800282F0                       | 8          | asm/us/main/nonmatchings/background/func_800282F0.s 
-| 1.00 | false    | func_80028390                       | 8          | asm/us/main/nonmatchings/background/func_80028390.s 
-| 1.00 | false    | func_800283B0                       | 8          | asm/us/main/nonmatchings/background/func_800283B0.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | func_80027E90                       | 11         | asm/us/main/nonmatchings/background/func_80027E90.s 
 | 1.00 | false    | func_80027EBC                       | 11         | asm/us/main/nonmatchings/background/func_80027EBC.s 
 | 1.00 | false    | func_80027F50                       | 11         | asm/us/main/nonmatchings/background/func_80027F50.s 
@@ -781,18 +740,10 @@
 | 1.00 | false    | func_800283F8                       | 11         | asm/us/main/nonmatchings/background/func_800283F8.s 
 | 1.00 | false    | func_80028424                       | 11         | asm/us/main/nonmatchings/background/func_80028424.s 
 -------------------------------------------------------------------------------
-| 0.91 | true     | func_80020AC8                       | 21         | asm/us/main/matchings/11184/func_80020AC8.s 
-| 0.91 | true     | func_80020D98                       | 21         | asm/us/main/matchings/11184/func_80020D98.s 
-| 0.91 | true     | func_80021104                       | 21         | asm/us/main/matchings/11184/func_80021104.s 
-| 1.00 | true     | func_8001EC34                       | 23         | asm/us/main/matchings/E47C/func_8001EC34.s 
-| 1.00 | true     | func_8001F0BC                       | 23         | asm/us/main/matchings/E47C/func_8001F0BC.s 
-| 1.00 | true     | engine_state_1                      | 23         | asm/us/main/matchings/character_select/engine_state_1.s 
-| 0.91 | false    | func_80023A54                       | 21         | asm/us/main/nonmatchings/13A8C/func_80023A54.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | func_80020368                       | 10         | asm/us/main/matchings/102FC/func_80020368.s 
 | 1.00 | true     | func_80023D68                       | 10         | asm/us/main/matchings/144A4/func_80023D68.s 
 | 1.00 | true     | func_80023D90                       | 10         | asm/us/main/matchings/144A4/func_80023D90.s 
-| 1.00 | false    | PlayCapcomLogo                      | 10         | asm/us/main/nonmatchings/game_info/PlayCapcomLogo.s 
+| 1.00 | true     | PlayCapcomLogo                      | 10         | asm/us/main/matchings/game_info/PlayCapcomLogo.s 
 | 0.90 | false    | _addque                             | 9          | asm/us/main/nonmatchings/psxsdk/libgpu/sys/_addque.s 
 | 0.90 | false    | DecDCTinCallback                    | 9          | asm/us/main/nonmatchings/psxsdk/libpress/libpress/DecDCTinCallback.s 
 -------------------------------------------------------------------------------
@@ -806,8 +757,8 @@
 | 1.00 | true     | slash_beast_death_blink             | 61         | asm/us/main/matchings/mains/main_54_slash_beast/slash_beast_death_blink.s 
 | 1.00 | true     | frost_walrus_death_explode          | 61         | asm/us/main/matchings/mains/main_57_frost_walrus/frost_walrus_death_explode.s 
 | 1.00 | true     | storm_owl_death_explode             | 61         | asm/us/main/matchings/mains/main_60_storm_owl/storm_owl_death_explode.s 
+| 0.92 | true     | colonel_defeat_blink                | 61         | asm/us/main/matchings/mains/main_69_colonel/colonel_defeat_blink.s 
 | 1.00 | false    | split_mushroom_death_explode        | 61         | asm/us/main/nonmatchings/mains/main_61_split_mushroom/split_mushroom_death_explode.s 
-| 0.92 | false    | colonel_defeat_blink                | 61         | asm/us/main/nonmatchings/mains/main_69_colonel/colonel_defeat_blink.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | GetGraphType                        | 4          | asm/us/main/matchings/psxsdk/libgpu/sys/GetGraphType.s 
 | 1.00 | true     | CdLastCom                           | 4          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdLastCom.s 
@@ -820,11 +771,6 @@
 | 1.00 | true     | CdSyncCallback                      | 6          | asm/us/main/matchings/psxsdk/libgs/gs_125/CdSyncCallback.s 
 | 1.00 | false    | CdSetDebug                          | 6          | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/CdSetDebug.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | eregion_death_blink                 | 58         | asm/us/main/nonmatchings/mains/main_08_eregion/eregion_death_blink.s 
-| 0.95 | false    | jet_stingray_death_explode          | 56         | asm/us/main/nonmatchings/mains/main_56_jet_stingray/jet_stingray_death_explode.s 
-| 0.95 | false    | sigma_death_blink                   | 56         | asm/us/main/nonmatchings/mains/main_68_sigma/sigma_death_blink.s 
-| 0.93 | false    | general_death_blink                 | 54         | asm/us/main/nonmatchings/mains/main_75_general/general_death_blink.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | D_80010094                          | 0          | asm/us/main/nonmatchings/memcard/D_80010094.s 
 | 1.00 | false    | D_800100A8                          | 0          | asm/us/main/nonmatchings/memcard/D_800100A8.s 
 | 1.00 | false    | D_800100C0                          | 0          | asm/us/main/nonmatchings/memcard/D_800100C0.s 
@@ -835,21 +781,17 @@
 | 1.00 | false    | SetLineG3                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG3.s 
 | 1.00 | false    | SetLineG4                           | 8          | asm/us/main/nonmatchings/psxsdk/libgpu/prim/SetLineG4.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_80020808                       | 33         | asm/us/main/nonmatchings/10CA4/func_80020808.s 
-| 1.00 | false    | func_80020984                       | 33         | asm/us/main/nonmatchings/11184/func_80020984.s 
-| 1.00 | false    | func_80020CB8                       | 33         | asm/us/main/nonmatchings/11184/func_80020CB8.s 
+| 1.00 | true     | frost_walrus_choose_script          | 47         | asm/us/main/matchings/mains/main_57_frost_walrus/frost_walrus_choose_script.s 
+| 0.92 | false    | jet_stingray_choose_pattern         | 51         | asm/us/main/nonmatchings/mains/main_56_jet_stingray/jet_stingray_choose_pattern.s 
+| 0.94 | false    | storm_owl_choose_pattern            | 50         | asm/us/main/nonmatchings/mains/main_60_storm_owl/storm_owl_choose_pattern.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | web_spider_death_explode            | 55         | asm/us/main/nonmatchings/mains/main_43_web_spider/web_spider_death_explode.s 
-| 0.91 | false    | cyber_peacock_death_explode         | 55         | asm/us/main/nonmatchings/mains/main_64_cyber_peacock/cyber_peacock_death_explode.s 
-| 0.91 | false    | double_death_blink                  | 55         | asm/us/main/nonmatchings/mains/main_73_double/double_death_blink.s 
+| 0.91 | true     | web_spider_spawn_web_piece          | 45         | asm/us/main/matchings/mains/main_43_web_spider/web_spider_spawn_web_piece.s 
+| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
+| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | jet_stingray_at_target              | 38         | asm/us/main/nonmatchings/mains/main_56_jet_stingray/jet_stingray_at_target.s 
 | 0.92 | false    | gunship_is_within                   | 35         | asm/us/main/nonmatchings/mains/main_67_gunship/gunship_is_within.s 
 | 0.92 | false    | sigma_shot_at_position              | 35         | asm/us/main/nonmatchings/shots/shot_46_sigma_shot/sigma_shot_at_position.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | jet_stingray_choose_pattern         | 51         | asm/us/main/nonmatchings/mains/main_56_jet_stingray/jet_stingray_choose_pattern.s 
-| 0.92 | false    | frost_walrus_choose_script          | 47         | asm/us/main/nonmatchings/mains/main_57_frost_walrus/frost_walrus_choose_script.s 
-| 0.98 | false    | storm_owl_choose_pattern            | 50         | asm/us/main/nonmatchings/mains/main_60_storm_owl/storm_owl_choose_pattern.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | def_cbread                          | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbread.s 
 | 1.00 | false    | def_cbready                         | 10         | asm/us/main/nonmatchings/psxsdk/libgs/gs_125/def_cbready.s 
@@ -858,26 +800,8 @@
 | 1.00 | true     | func_800190F0                       | 4          | asm/us/main/matchings/55C4/func_800190F0.s 
 | 1.00 | false    | CD_set_test_parmnum                 | 4          | asm/us/main/nonmatchings/psxsdk/libgs/gs_101/CD_set_test_parmnum.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | fortress_collapse_flash_white       | 38         | asm/us/main/matchings/effects/effect_28_fortress_collapse/fortress_collapse_flash_white.s 
-| 0.95 | false    | fortress_collapse_flash_red         | 36         | asm/us/main/nonmatchings/effects/effect_28_fortress_collapse/fortress_collapse_flash_red.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | fortress_collapse_spawn_random_explosion | 94         | asm/us/main/matchings/effects/effect_28_fortress_collapse/fortress_collapse_spawn_random_explosion.s 
-| 0.99 | false    | drone_pod_random_explosion          | 94         | asm/us/main/nonmatchings/mains/main_70_drone_pod/drone_pod_random_explosion.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | train_scroll_player_at_lock         | 16         | asm/us/main/matchings/layers/layer_00_train_scroll/train_scroll_player_at_lock.s 
-| 1.00 | false    | train_tunnel_player_at_lock         | 16         | asm/us/main/nonmatchings/layers/layer_02_train_tunnel/train_tunnel_player_at_lock.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | colonel_intro_hall_portrait_player  | 31         | asm/us/main/matchings/mains/main_69_colonel/colonel_intro_hall_portrait_player.s 
-| 0.94 | false    | func_8001DF7C                       | 33         | asm/us/main/nonmatchings/E47C/func_8001DF7C.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_8003D6EC                       | 45         | asm/us/main/matchings/mech/func_8003D6EC.s 
-| 0.92 | false    | func_8003D7E4                       | 49         | asm/us/main/nonmatchings/mech/func_8003D7E4.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | explosion_puff_animate              | 38         | asm/us/main/matchings/misc/misc_23_explosion_puff/explosion_puff_animate.s 
-| 1.00 | false    | dust_puff_main                      | 38         | asm/us/main/nonmatchings/visuals/visual_09_dust_puff/dust_puff_main.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | player_check_walk                   | 30         | asm/us/main/matchings/player_check/player_check_walk.s 
-| 0.93 | false    | player_check_walk_start             | 30         | asm/us/main/nonmatchings/player_check/player_check_walk_start.s 
+| 1.00 | true     | bg_wind_gust_fast                   | 121        | asm/us/main/matchings/effects/effect_09_bg_wind/bg_wind_gust_fast.s 
+| 1.00 | false    | bg_wind_gust_medium                 | 121        | asm/us/main/nonmatchings/effects/effect_09_bg_wind/bg_wind_gust_medium.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | ClearImage                          | 37         | asm/us/main/matchings/psxsdk/libgpu/sys/ClearImage.s 
 | 0.95 | false    | ClearImage2                         | 39         | asm/us/main/nonmatchings/psxsdk/libgpu/sys/ClearImage2.s 
@@ -888,47 +812,14 @@
 | 1.00 | true     | _spu_FsetDelayW                     | 11         | asm/us/main/matchings/psxsdk/libspu/s_crwa/_spu_FsetDelayW.s 
 | 1.00 | false    | _spu_FsetDelayR                     | 11         | asm/us/main/nonmatchings/psxsdk/libspu/s_crwa/_spu_FsetDelayR.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | water_wake_player_moving            | 18         | asm/us/main/matchings/visuals/visual_07_water_wake/water_wake_player_moving.s 
-| 1.00 | false    | water_wake_player_idle              | 18         | asm/us/main/nonmatchings/visuals/visual_07_water_wake/water_wake_player_idle.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80020638                       | 38         | asm/us/main/nonmatchings/10CA4/func_80020638.s 
-| 0.97 | false    | func_80020B8C                       | 38         | asm/us/main/nonmatchings/11184/func_80020B8C.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_800129A4                       | 19         | asm/us/main/nonmatchings/2824/func_800129A4.s 
-| 1.00 | false    | func_800129F0                       | 19         | asm/us/main/nonmatchings/2824/func_800129F0.s 
--------------------------------------------------------------------------------
 | 0.95 | false    | apply_tile_effect                   | 111        | asm/us/main/nonmatchings/CB184/apply_tile_effect.s 
 | 1.00 | false    | refresh_visible_tile_effect         | 111        | asm/us/main/nonmatchings/CB184/refresh_visible_tile_effect.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_80027DC0                       | 12         | asm/us/main/nonmatchings/background/func_80027DC0.s 
 | 1.00 | false    | func_80028268                       | 12         | asm/us/main/nonmatchings/background/func_80028268.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | bg_wind_gust_fast                   | 121        | asm/us/main/nonmatchings/effects/effect_09_bg_wind/bg_wind_gust_fast.s 
-| 1.00 | false    | bg_wind_gust_medium                 | 121        | asm/us/main/nonmatchings/effects/effect_09_bg_wind/bg_wind_gust_medium.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | tile_anim_trigger_step              | 34         | asm/us/main/nonmatchings/effects/effect_29_tile_anim_trigger/tile_anim_trigger_step.s 
-| 0.94 | false    | tile_loop_anim_step                 | 34         | asm/us/main/nonmatchings/effects/effect_40_tile_loop_anim/tile_loop_anim_step.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | robot_bee_drop                      | 37         | asm/us/main/nonmatchings/mains/main_05_robot_bee/robot_bee_drop.s 
-| 1.00 | false    | robot_bee_sting                     | 37         | asm/us/main/nonmatchings/mains/main_05_robot_bee/robot_bee_sting.s 
--------------------------------------------------------------------------------
-| 0.94 | false    | unused_ride_armor_rapid_fire        | 49         | asm/us/main/nonmatchings/mains/main_72_unused_ride_armor/unused_ride_armor_rapid_fire.s 
-| 1.00 | false    | unused_ride_armor_shoot             | 51         | asm/us/main/nonmatchings/mains/main_72_unused_ride_armor/unused_ride_armor_shoot.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | sigma_final_hide_lower_wait         | 53         | asm/us/main/nonmatchings/mains/main_74_sigma_final/sigma_final_hide_lower_wait.s 
 | 1.00 | false    | sigma_final_hide_upper_wait         | 53         | asm/us/main/nonmatchings/mains/main_74_sigma_final/sigma_final_hide_upper_wait.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8001A178                       | 100        | asm/us/main/nonmatchings/menu/func_8001A178.s 
-| 1.00 | false    | func_8001A308                       | 100        | asm/us/main/nonmatchings/menu/func_8001A308.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | vent_spawn_mixed_puffs              | 73         | asm/us/main/nonmatchings/misc/misc_15_vent/vent_spawn_mixed_puffs.s 
-| 0.90 | false    | vent_spawn_puffs                    | 66         | asm/us/main/nonmatchings/misc/misc_15_vent/vent_spawn_puffs.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_8002B3C0                       | 36         | asm/us/main/nonmatchings/objects/func_8002B3C0.s 
-| 1.00 | false    | is_on_screen                        | 36         | asm/us/main/nonmatchings/objects/is_on_screen.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | player_spawn_visual                 | 31         | asm/us/main/nonmatchings/player_common/player_spawn_visual.s 
-| 1.00 | false    | player_spawn_weapon                 | 31         | asm/us/main/nonmatchings/player_common/player_spawn_weapon.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | LoadClut                            | 26         | asm/us/main/nonmatchings/psxsdk/libgpu/ext/LoadClut.s 
 | 1.00 | false    | LoadClut2                           | 26         | asm/us/main/nonmatchings/psxsdk/libgpu/ext/LoadClut2.s 
