@@ -26,7 +26,6 @@
 | main   | func_80015C10 |       94 |         12 |        |                 | https://decomp.me/scratch/Q5zvp | 1     |
 | main   | func_8001326C |      110 |          5 |        |                 | https://decomp.me/scratch/DnXxU | 1     |
 | main   | func_800253F0 |      113 |         11 |        | 8 player        | https://decomp.me/scratch/LXAao | 0.89  |
-| main   | func_80029A48 |      116 |         22 |        | 10 engine       | https://decomp.me/scratch/fcOsf | 0.891 |
 | main   | func_80036F50 |      123 |         25 |        | 8 player        | https://decomp.me/scratch/9Hp8E | 0.867 |
 | main   | func_80026894 |      140 |          4 |        |                 | https://decomp.me/scratch/IBE0L | 0.91  |
 | main   | func_800262B8 |      148 |          9 |        |                 | https://decomp.me/scratch/mV6Fp | 0.91  |
