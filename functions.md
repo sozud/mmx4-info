@@ -13,9 +13,7 @@
 | main   | func_80012560 |       48 |          3 |        |                 | https://decomp.me/scratch/TvFsD | 0.751 |
 | main   | func_80013968 |       53 |         10 |        |                 | https://decomp.me/scratch/4giHQ | 1     |
 | main   | func_800267D4 |       55 |          2 |        |                 | https://decomp.me/scratch/lt3of | 0.111 |
-| main   | func_8002D724 |       57 |          5 |        | 8 player        | https://decomp.me/scratch/M5cpN | 0.804 |
 | main   | func_80013DA8 |       57 |         13 |        |                 | https://decomp.me/scratch/5XK9v | 1     |
-| main   | func_8002D7E4 |       62 |          5 |        | 8 player        | https://decomp.me/scratch/GcYIr | 0.471 |
 | main   | func_8001540C |       64 |          8 |        |                 | https://decomp.me/scratch/jzTmb | 0.653 |
 | main   | func_800B5D04 |       84 |          7 |        | 3 effect        |                                 |       |
 | main   | func_80013404 |       86 |         13 |        |                 |                                 |       |
