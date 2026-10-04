@@ -93,7 +93,7 @@
 | main  | func_8001D064                      |       47 |          8 |        |                 | https://decomp.me/scratch/zYLBF | 1     |
 | main  | func_800D2094                      |       47 |          8 |        |                 |                                 |       |
 | main  | func_800B913C                      |       48 |          2 |        |                 | https://decomp.me/scratch/LdN11 | 1     |
-| main  | func_80012560                      |       48 |          3 |        |                 | https://decomp.me/scratch/TvFsD | 0.751 |
+| main  | func_80012560                      |       48 |          3 |        |                 | https://decomp.me/scratch/lYj7l | 1     |
 | main  | func_8001FA24                      |       48 |          4 |        |                 |                                 |       |
 | main  | func_8007FAA4                      |       48 |          4 |        |                 |                                 |       |
 | main  | func_800A1BEC                      |       48 |          6 |        |                 |                                 |       |
@@ -673,7 +673,6 @@
 | main  | func_8006C378                      |      169 |         19 | Yes    |                 |                                 |       |
 | main  | func_800C63BC                      |      169 |         24 |        |                 | https://decomp.me/scratch/nDI9R | 0.932 |
 | main  | func_800BFCC0                      |      169 |         25 |        |                 |                                 |       |
-| main  | func_80024920                      |      170 |          8 |        | 6 QuadObj       | https://decomp.me/scratch/sE9A1 | 0.977 |
 | main  | func_800480D0                      |      170 |         35 |        |                 |                                 |       |
 | main  | func_800D7468                      |      171 |         16 |        |                 | https://decomp.me/scratch/oTr9v | 0.955 |
 | main  | func_8004BCFC                      |      171 |         29 |        |                 |                                 |       |
@@ -718,7 +717,6 @@
 | main  | func_80050874                      |      191 |         27 | Yes    |                 |                                 |       |
 | main  | func_8006BD1C                      |      191 |         35 |        |                 |                                 |       |
 | main  | func_800200D4                      |      191 |         36 |        |                 |                                 |       |
-| main  | func_80024B9C                      |      192 |          8 |        | 6 QuadObj       | https://decomp.me/scratch/WO9F5 | 0.851 |
 | main  | func_80066F1C                      |      192 |         19 |        |                 |                                 |       |
 | main  | func_8001ABDC                      |      192 |         35 |        |                 | https://decomp.me/scratch/9jZEy | 0.495 |
 | main  | func_8003BB20                      |      193 |         26 | Yes    |                 |                                 |       |
@@ -769,7 +767,6 @@
 | main  | func_800B8114                      |      241 |         39 |        |                 |                                 |       |
 | main  | func_8002D9BC                      |      241 |         43 |        |                 | https://decomp.me/scratch/10O6D | 0.644 |
 | main  | func_8002FD70                      |      243 |         39 |        |                 |                                 |       |
-| main  | func_80025DA0                      |      244 |         34 |        |                 | https://decomp.me/scratch/dlW51 | 0.539 |
 | main  | func_80075320                      |      246 |         42 | Yes    |                 |                                 |       |
 | main  | func_800A0C4C                      |      248 |         46 |        |                 |                                 |       |
 | main  | func_800A068C                      |      249 |         43 |        |                 |                                 |       |
