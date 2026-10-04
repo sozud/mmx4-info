@@ -55,7 +55,6 @@
 | main  | func_8009B6B8                      |       37 |          2 |        |                 |                                 |       |
 | main  | func_8009BA6C                      |       37 |          2 |        |                 |                                 |       |
 | main  | train_boss_arm_destroyed           |       37 |          4 |        |                 |                                 |       |
-| main  | player_set_charge_flash            |       37 |          8 |        |                 |                                 |       |
 | main  | sigma_sequencer_fx_wait_parts      |       38 |          4 |        |                 |                                 |       |
 | main  | robot_bee_sting_brake              |       38 |          4 |        |                 |                                 |       |
 | main  | func_80040248                      |       38 |          4 |        |                 |                                 |       |
@@ -114,7 +113,6 @@
 | main  | func_800ACF60                      |       51 |          6 |        |                 |                                 |       |
 | main  | func_800AA68C                      |       51 |          7 |        |                 |                                 |       |
 | main  | func_800CF660                      |       51 |          8 |        |                 |                                 |       |
-| main  | colonel_intro_port_pose            |       51 |          9 |        |                 |                                 |       |
 | main  | wave_rider_jet_main                |       51 |          9 |        |                 |                                 |       |
 | main  | spiderling_run                     |       51 |         10 |        |                 |                                 |       |
 | main  | colonel_shot_incoming              |       51 |         10 |        |                 |                                 |       |
@@ -208,7 +206,6 @@
 | main  | select_char_character_shoot        |       63 |          9 |        |                 |                                 |       |
 | main  | func_80088EA4                      |       63 |         10 |        |                 |                                 |       |
 | main  | decompress_gfx                     |       63 |         12 |        |                 |                                 |       |
-| main  | caterkiller_lunge_end              |       63 |         12 |        |                 |                                 |       |
 | main  | func_80033FF0                      |       63 |         13 |        |                 |                                 |       |
 | main  | func_800DADA0                      |       64 |          2 |        |                 |                                 |       |
 | main  | spawner_pod_init                   |       64 |          2 |        |                 |                                 |       |
