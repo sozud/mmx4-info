@@ -542,6 +542,7 @@
 | main  | func_800BB364                      |      116 |         12 |        |                 | https://decomp.me/scratch/XBuHr | 1     |
 | main  | func_800C842C                      |      116 |         14 |        |                 |                                 |       |
 | main  | func_8004E300                      |      116 |         20 |        |                 |                                 |       |
+| main  | func_80029A48                      |      116 |         22 |        | 10 engine       | https://decomp.me/scratch/fcOsf | 0.891 |
 | main  | func_800D52F4                      |      117 |          7 |        |                 |                                 |       |
 | main  | func_80097430                      |      117 |         10 |        |                 |                                 |       |
 | main  | ready_line_converge_vertex         |      117 |         15 |        |                 |                                 |       |
@@ -616,6 +617,7 @@
 | main  | func_80019D04                      |      138 |         23 |        |                 | https://decomp.me/scratch/tdSio | 1     |
 | main  | func_8002BB80                      |      138 |         24 |        |                 |                                 |       |
 | main  | func_8004C394                      |      138 |         24 |        |                 |                                 |       |
+| main  | func_80029BD8                      |      138 |         27 |        |                 |                                 |       |
 | main  | func_8008CD80                      |      138 |         30 |        |                 |                                 |       |
 | main  | func_80064154                      |      139 |         23 |        |                 |                                 |       |
 | main  | func_80026894                      |      140 |          4 |        |                 | https://decomp.me/scratch/IBE0L | 0.91  |
