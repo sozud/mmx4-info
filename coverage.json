@@ -1,34 +1,34 @@
 {
   "schema_version": 1,
-  "created": "2026-10-08T17:45:46.414640+00:00",
-  "revision": "862693b63bd568ba1920647597045c0e0c58541a",
-  "binary_sha256": "7ee869867fef2a4b42199ec47c008fe3a3ae402ba10d9fec86e40ad7cc3f4650",
+  "created": "2026-10-10T16:30:46.740478+00:00",
+  "revision": "fff95bea6f68af9e1bcb9275b9f6ec4662315334",
+  "binary_sha256": "f3108359128ab189bb49297f73beb17f6884b2ada9960c5ccf06254e7249084d",
   "manifest_sha256": "b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/37818468777",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/38067671441",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 42154,
-      "count": 55913
+      "covered": 58388,
+      "count": 77768
     },
     "functions": {
-      "covered": 2439,
-      "count": 3202
+      "covered": 3799,
+      "count": 4935
     },
     "regions": {
-      "covered": 21398,
-      "count": 28225
+      "covered": 29835,
+      "count": 39446
     },
     "branches": {
-      "covered": 12667,
-      "count": 18380
+      "covered": 16945,
+      "count": 24484
     }
   },
   "files": [
@@ -111,8 +111,8 @@
     {
       "file": "src/main/128C4.c",
       "lines": {
-        "covered": 227,
-        "count": 365
+        "covered": 221,
+        "count": 353
       },
       "functions": {
         "covered": 1,
@@ -131,57 +131,57 @@
       "file": "src/main/13A8C.c",
       "lines": {
         "covered": 122,
-        "count": 266
+        "count": 280
       },
       "functions": {
         "covered": 1,
-        "count": 11
+        "count": 12
       },
       "regions": {
         "covered": 49,
-        "count": 108
+        "count": 115
       },
       "branches": {
         "covered": 34,
-        "count": 76
+        "count": 80
       }
     },
     {
       "file": "src/main/144A4.c",
       "lines": {
-        "covered": 121,
-        "count": 128
+        "covered": 133,
+        "count": 140
       },
       "functions": {
-        "covered": 5,
-        "count": 6
+        "covered": 6,
+        "count": 7
       },
       "regions": {
-        "covered": 90,
-        "count": 93
+        "covered": 99,
+        "count": 102
       },
       "branches": {
-        "covered": 50,
-        "count": 52
+        "covered": 54,
+        "count": 56
       }
     },
     {
       "file": "src/main/14A60.c",
       "lines": {
-        "covered": 179,
-        "count": 198
+        "covered": 238,
+        "count": 263
       },
       "functions": {
-        "covered": 7,
-        "count": 8
+        "covered": 8,
+        "count": 9
       },
       "regions": {
-        "covered": 107,
-        "count": 128
+        "covered": 140,
+        "count": 172
       },
       "branches": {
-        "covered": 39,
-        "count": 52
+        "covered": 57,
+        "count": 80
       }
     },
     {
@@ -206,20 +206,20 @@
     {
       "file": "src/main/195B4.c",
       "lines": {
-        "covered": 18,
-        "count": 18
+        "covered": 43,
+        "count": 43
       },
       "functions": {
-        "covered": 3,
-        "count": 3
-      },
-      "regions": {
         "covered": 5,
         "count": 5
       },
+      "regions": {
+        "covered": 20,
+        "count": 20
+      },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 10,
+        "count": 12
       }
     },
     {
@@ -244,20 +244,20 @@
     {
       "file": "src/main/1CF60.c",
       "lines": {
-        "covered": 405,
-        "count": 409
+        "covered": 448,
+        "count": 452
       },
       "functions": {
-        "covered": 23,
-        "count": 23
+        "covered": 28,
+        "count": 28
       },
       "regions": {
-        "covered": 239,
-        "count": 242
+        "covered": 267,
+        "count": 270
       },
       "branches": {
-        "covered": 259,
-        "count": 282
+        "covered": 281,
+        "count": 304
       }
     },
     {
@@ -282,20 +282,20 @@
     {
       "file": "src/main/1EC20.c",
       "lines": {
-        "covered": 231,
-        "count": 363
+        "covered": 343,
+        "count": 578
       },
       "functions": {
-        "covered": 10,
-        "count": 12
+        "covered": 13,
+        "count": 16
       },
       "regions": {
-        "covered": 143,
-        "count": 216
+        "covered": 178,
+        "count": 306
       },
       "branches": {
-        "covered": 85,
-        "count": 166
+        "covered": 128,
+        "count": 262
       }
     },
     {
@@ -396,115 +396,115 @@
     {
       "file": "src/main/55C4.c",
       "lines": {
-        "covered": 624,
-        "count": 985
+        "covered": 657,
+        "count": 1026
       },
       "functions": {
-        "covered": 35,
-        "count": 52
+        "covered": 39,
+        "count": 58
       },
       "regions": {
-        "covered": 276,
-        "count": 450
+        "covered": 295,
+        "count": 471
       },
       "branches": {
-        "covered": 160,
-        "count": 308
+        "covered": 172,
+        "count": 320
       }
     },
     {
       "file": "src/main/CB184.c",
       "lines": {
-        "covered": 39,
-        "count": 39
+        "covered": 68,
+        "count": 68
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 27,
-        "count": 27
+        "covered": 44,
+        "count": 44
       },
       "branches": {
-        "covered": 14,
-        "count": 14
+        "covered": 22,
+        "count": 22
       }
     },
     {
       "file": "src/main/E47C.c",
       "lines": {
         "covered": 36,
-        "count": 493
+        "count": 571
       },
       "functions": {
         "covered": 2,
-        "count": 28
+        "count": 31
       },
       "regions": {
         "covered": 14,
-        "count": 177
+        "count": 215
       },
       "branches": {
         "covered": 6,
-        "count": 112
+        "count": 136
       }
     },
     {
       "file": "src/main/afterimage.c",
       "lines": {
-        "covered": 28,
-        "count": 28
+        "covered": 90,
+        "count": 90
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 11,
-        "count": 11
+        "covered": 40,
+        "count": 40
       },
       "branches": {
-        "covered": 6,
-        "count": 6
+        "covered": 23,
+        "count": 24
       }
     },
     {
       "file": "src/main/background.c",
       "lines": {
-        "covered": 300,
-        "count": 385
+        "covered": 351,
+        "count": 446
       },
       "functions": {
-        "covered": 31,
-        "count": 43
+        "covered": 38,
+        "count": 52
       },
       "regions": {
-        "covered": 100,
-        "count": 112
+        "covered": 121,
+        "count": 135
       },
       "branches": {
-        "covered": 59,
-        "count": 60
+        "covered": 71,
+        "count": 72
       }
     },
     {
       "file": "src/main/bike.c",
       "lines": {
-        "covered": 277,
-        "count": 339
+        "covered": 324,
+        "count": 395
       },
       "functions": {
-        "covered": 18,
-        "count": 21
+        "covered": 20,
+        "count": 23
       },
       "regions": {
-        "covered": 147,
-        "count": 189
+        "covered": 172,
+        "count": 218
       },
       "branches": {
-        "covered": 76,
-        "count": 112
+        "covered": 90,
+        "count": 130
       }
     },
     {
@@ -587,15 +587,15 @@
       "file": "src/main/effects/effect_01_tile_animator.c",
       "lines": {
         "covered": 0,
-        "count": 12
+        "count": 17
       },
       "functions": {
         "covered": 0,
-        "count": 2
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 6
+        "count": 7
       },
       "branches": {
         "covered": 0,
@@ -643,16 +643,16 @@
     {
       "file": "src/main/effects/effect_04_stage_music.c",
       "lines": {
-        "covered": 31,
-        "count": 38
+        "covered": 40,
+        "count": 47
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 25,
-        "count": 31
+        "covered": 28,
+        "count": 34
       },
       "branches": {
         "covered": 23,
@@ -719,39 +719,39 @@
     {
       "file": "src/main/effects/effect_08_bg_zone_controller.c",
       "lines": {
-        "covered": 81,
-        "count": 81
+        "covered": 149,
+        "count": 153
       },
       "functions": {
-        "covered": 13,
-        "count": 13
+        "covered": 20,
+        "count": 20
       },
       "regions": {
-        "covered": 41,
-        "count": 41
+        "covered": 73,
+        "count": 75
       },
       "branches": {
-        "covered": 22,
-        "count": 22
+        "covered": 42,
+        "count": 44
       }
     },
     {
       "file": "src/main/effects/effect_09_bg_wind.c",
       "lines": {
-        "covered": 100,
-        "count": 100
+        "covered": 215,
+        "count": 215
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 9,
+        "count": 9
       },
       "regions": {
-        "covered": 55,
-        "count": 55
+        "covered": 114,
+        "count": 114
       },
       "branches": {
-        "covered": 34,
-        "count": 34
+        "covered": 67,
+        "count": 68
       }
     },
     {
@@ -776,73 +776,73 @@
     {
       "file": "src/main/effects/effect_12_enemy_spawner.c",
       "lines": {
-        "covered": 6,
-        "count": 6
+        "covered": 97,
+        "count": 97
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 3,
-        "count": 3
+        "covered": 49,
+        "count": 49
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 36,
+        "count": 38
       }
     },
     {
       "file": "src/main/effects/effect_13_edge_spawner.c",
       "lines": {
-        "covered": 19,
-        "count": 41
+        "covered": 37,
+        "count": 61
       },
       "functions": {
-        "covered": 3,
-        "count": 4
+        "covered": 5,
+        "count": 6
       },
       "regions": {
-        "covered": 14,
-        "count": 32
+        "covered": 21,
+        "count": 40
       },
       "branches": {
-        "covered": 9,
-        "count": 24
+        "covered": 10,
+        "count": 26
       }
     },
     {
       "file": "src/main/effects/effect_14_item_scatter.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 30,
+        "count": 30
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 11,
+        "count": 11
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 4,
+        "count": 6
       }
     },
     {
       "file": "src/main/effects/effect_15_bg_zone_controller_b.c",
       "lines": {
-        "covered": 84,
-        "count": 84
+        "covered": 107,
+        "count": 107
       },
       "functions": {
-        "covered": 17,
-        "count": 17
+        "covered": 22,
+        "count": 22
       },
       "regions": {
-        "covered": 35,
-        "count": 35
+        "covered": 40,
+        "count": 40
       },
       "branches": {
         "covered": 12,
@@ -852,20 +852,20 @@
     {
       "file": "src/main/effects/effect_16_autoscroll_segment.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 32,
+        "count": 32
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 7,
+        "count": 7
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 2,
+        "count": 2
       }
     },
     {
@@ -891,15 +891,15 @@
       "file": "src/main/effects/effect_18_world_flip.c",
       "lines": {
         "covered": 0,
-        "count": 44
+        "count": 47
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 4
       },
       "regions": {
         "covered": 0,
-        "count": 39
+        "count": 40
       },
       "branches": {
         "covered": 0,
@@ -909,168 +909,168 @@
     {
       "file": "src/main/effects/effect_19_bg_zone_controller_c.c",
       "lines": {
-        "covered": 28,
-        "count": 28
+        "covered": 79,
+        "count": 79
       },
       "functions": {
-        "covered": 7,
-        "count": 7
+        "covered": 14,
+        "count": 14
       },
       "regions": {
-        "covered": 10,
-        "count": 10
+        "covered": 32,
+        "count": 32
       },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 12,
+        "count": 12
       }
     },
     {
       "file": "src/main/effects/effect_20_bg_zone_controller_d.c",
       "lines": {
-        "covered": 42,
-        "count": 57
+        "covered": 71,
+        "count": 86
       },
       "functions": {
-        "covered": 9,
-        "count": 12
+        "covered": 12,
+        "count": 15
       },
       "regions": {
-        "covered": 20,
-        "count": 26
+        "covered": 32,
+        "count": 38
       },
       "branches": {
-        "covered": 7,
-        "count": 10
+        "covered": 13,
+        "count": 16
       }
     },
     {
       "file": "src/main/effects/effect_21_crumble_sequencer.c",
       "lines": {
-        "covered": 54,
-        "count": 54
+        "covered": 79,
+        "count": 79
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 21,
-        "count": 21
+        "covered": 31,
+        "count": 31
       },
       "branches": {
-        "covered": 17,
-        "count": 20
+        "covered": 30,
+        "count": 34
       }
     },
     {
       "file": "src/main/effects/effect_22_bg_zone_controller_e.c",
       "lines": {
-        "covered": 39,
-        "count": 54
+        "covered": 128,
+        "count": 147
       },
       "functions": {
-        "covered": 7,
-        "count": 10
+        "covered": 17,
+        "count": 20
       },
       "regions": {
-        "covered": 21,
-        "count": 27
+        "covered": 61,
+        "count": 69
       },
       "branches": {
-        "covered": 10,
-        "count": 12
+        "covered": 32,
+        "count": 36
       }
     },
     {
       "file": "src/main/effects/effect_23_tile_flicker.c",
       "lines": {
-        "covered": 15,
-        "count": 15
+        "covered": 37,
+        "count": 37
       },
       "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
         "covered": 4,
         "count": 4
       },
+      "regions": {
+        "covered": 16,
+        "count": 16
+      },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 8,
+        "count": 8
       }
     },
     {
       "file": "src/main/effects/effect_24_boss_warning.c",
       "lines": {
-        "covered": 14,
-        "count": 14
+        "covered": 66,
+        "count": 66
       },
       "functions": {
-        "covered": 3,
-        "count": 3
-      },
-      "regions": {
         "covered": 7,
         "count": 7
       },
+      "regions": {
+        "covered": 28,
+        "count": 29
+      },
       "branches": {
-        "covered": 4,
-        "count": 4
+        "covered": 15,
+        "count": 20
       }
     },
     {
       "file": "src/main/effects/effect_25_bg_zone_controller_f.c",
       "lines": {
-        "covered": 26,
-        "count": 26
+        "covered": 79,
+        "count": 79
       },
       "functions": {
-        "covered": 5,
-        "count": 5
-      },
-      "regions": {
         "covered": 14,
         "count": 14
       },
+      "regions": {
+        "covered": 32,
+        "count": 32
+      },
       "branches": {
-        "covered": 6,
-        "count": 6
+        "covered": 12,
+        "count": 12
       }
     },
     {
       "file": "src/main/effects/effect_26_boss_death_fx.c",
       "lines": {
-        "covered": 62,
-        "count": 62
+        "covered": 125,
+        "count": 125
       },
       "functions": {
-        "covered": 5,
-        "count": 5
+        "covered": 9,
+        "count": 9
       },
       "regions": {
-        "covered": 23,
-        "count": 23
+        "covered": 43,
+        "count": 43
       },
       "branches": {
-        "covered": 15,
-        "count": 16
+        "covered": 25,
+        "count": 30
       }
     },
     {
       "file": "src/main/effects/effect_27_teleport_intro.c",
       "lines": {
         "covered": 75,
-        "count": 75
+        "count": 78
       },
       "functions": {
         "covered": 3,
-        "count": 3
+        "count": 4
       },
       "regions": {
         "covered": 27,
-        "count": 27
+        "count": 29
       },
       "branches": {
         "covered": 24,
@@ -1080,58 +1080,58 @@
     {
       "file": "src/main/effects/effect_28_fortress_collapse.c",
       "lines": {
-        "covered": 26,
-        "count": 26
+        "covered": 89,
+        "count": 92
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 6,
+        "count": 7
       },
       "regions": {
-        "covered": 9,
-        "count": 9
+        "covered": 24,
+        "count": 26
       },
       "branches": {
-        "covered": 11,
-        "count": 12
+        "covered": 19,
+        "count": 20
       }
     },
     {
       "file": "src/main/effects/effect_29_tile_anim_trigger.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 34,
+        "count": 34
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 14,
+        "count": 14
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 6,
+        "count": 6
       }
     },
     {
       "file": "src/main/effects/effect_30_qux_spawner.c",
       "lines": {
-        "covered": 25,
-        "count": 25
+        "covered": 52,
+        "count": 52
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 9,
-        "count": 9
+        "covered": 19,
+        "count": 19
       },
       "branches": {
-        "covered": 6,
-        "count": 6
+        "covered": 10,
+        "count": 12
       }
     },
     {
@@ -1156,20 +1156,20 @@
     {
       "file": "src/main/effects/effect_32_proximity_door.c",
       "lines": {
-        "covered": 39,
-        "count": 39
+        "covered": 52,
+        "count": 52
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 20,
-        "count": 20
+        "covered": 30,
+        "count": 30
       },
       "branches": {
-        "covered": 12,
-        "count": 14
+        "covered": 18,
+        "count": 20
       }
     },
     {
@@ -1194,20 +1194,20 @@
     {
       "file": "src/main/effects/effect_34_rock_drop_sequence.c",
       "lines": {
+        "covered": 58,
+        "count": 58
+      },
+      "functions": {
         "covered": 5,
         "count": 5
       },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
       "regions": {
-        "covered": 2,
-        "count": 2
+        "covered": 25,
+        "count": 25
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 14,
+        "count": 16
       }
     },
     {
@@ -1233,190 +1233,190 @@
       "file": "src/main/effects/effect_36_stage_exit_fade.c",
       "lines": {
         "covered": 0,
-        "count": 3
+        "count": 42
       },
       "functions": {
         "covered": 0,
-        "count": 1
+        "count": 5
       },
       "regions": {
         "covered": 0,
-        "count": 1
+        "count": 17
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 10
       }
     },
     {
       "file": "src/main/effects/effect_37_alarm_flash.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 67,
+        "count": 70
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 5,
+        "count": 6
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 23,
+        "count": 25
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 12,
+        "count": 14
       }
     },
     {
       "file": "src/main/effects/effect_38_cyberspace_trial.c",
       "lines": {
-        "covered": 80,
-        "count": 137
+        "covered": 165,
+        "count": 229
       },
       "functions": {
-        "covered": 7,
-        "count": 8
+        "covered": 13,
+        "count": 14
       },
       "regions": {
-        "covered": 40,
-        "count": 66
+        "covered": 89,
+        "count": 118
       },
       "branches": {
-        "covered": 30,
-        "count": 60
+        "covered": 65,
+        "count": 100
       }
     },
     {
       "file": "src/main/effects/effect_39_tile_strip_anim.c",
       "lines": {
+        "covered": 48,
+        "count": 48
+      },
+      "functions": {
+        "covered": 5,
+        "count": 5
+      },
+      "regions": {
         "covered": 15,
         "count": 15
       },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 4,
-        "count": 4
-      },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 8,
+        "count": 8
       }
     },
     {
       "file": "src/main/effects/effect_40_tile_loop_anim.c",
       "lines": {
         "covered": 0,
-        "count": 3
+        "count": 29
       },
       "functions": {
         "covered": 0,
-        "count": 1
+        "count": 4
       },
       "regions": {
         "covered": 0,
-        "count": 1
+        "count": 6
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 2
       }
     },
     {
       "file": "src/main/effects/effect_41_tile_blink_anim.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 34,
+        "count": 34
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 12,
+        "count": 12
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 4,
+        "count": 4
       }
     },
     {
       "file": "src/main/effects/effect_42_sigma_sequencer_fx.c",
       "lines": {
-        "covered": 21,
-        "count": 21
+        "covered": 61,
+        "count": 61
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 7,
-        "count": 7
+        "covered": 25,
+        "count": 25
       },
       "branches": {
-        "covered": 6,
-        "count": 8
+        "covered": 16,
+        "count": 20
       }
     },
     {
       "file": "src/main/effects/effect_43_sigma_collapse.c",
       "lines": {
-        "covered": 23,
-        "count": 28
+        "covered": 36,
+        "count": 57
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 5,
+        "count": 8
       },
       "regions": {
-        "covered": 10,
-        "count": 11
+        "covered": 15,
+        "count": 23
       },
       "branches": {
-        "covered": 5,
-        "count": 6
+        "covered": 6,
+        "count": 12
       }
     },
     {
       "file": "src/main/effects/effect_44_stage_dialogue_trigger.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 29,
+        "count": 34
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 14,
+        "count": 17
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 8,
+        "count": 10
       }
     },
     {
       "file": "src/main/engine.c",
       "lines": {
-        "covered": 63,
-        "count": 75
+        "covered": 100,
+        "count": 114
       },
       "functions": {
-        "covered": 8,
-        "count": 10
+        "covered": 12,
+        "count": 14
       },
       "regions": {
-        "covered": 24,
-        "count": 31
+        "covered": 37,
+        "count": 45
       },
       "branches": {
-        "covered": 10,
-        "count": 14
+        "covered": 17,
+        "count": 22
       }
     },
     {
@@ -1441,96 +1441,96 @@
     {
       "file": "src/main/items/item_00_breakable_wall.c",
       "lines": {
-        "covered": 8,
-        "count": 8
+        "covered": 21,
+        "count": 21
       },
       "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
         "covered": 3,
         "count": 3
       },
+      "regions": {
+        "covered": 9,
+        "count": 9
+      },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 3,
+        "count": 4
       }
     },
     {
       "file": "src/main/items/item_01_stage_block.c",
       "lines": {
-        "covered": 42,
-        "count": 42
+        "covered": 78,
+        "count": 78
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 7,
+        "count": 7
       },
       "regions": {
-        "covered": 28,
-        "count": 28
+        "covered": 48,
+        "count": 48
       },
       "branches": {
-        "covered": 18,
-        "count": 18
+        "covered": 32,
+        "count": 32
       }
     },
     {
       "file": "src/main/items/item_02_pickup.c",
       "lines": {
+        "covered": 109,
+        "count": 112
+      },
+      "functions": {
+        "covered": 6,
+        "count": 6
+      },
+      "regions": {
         "covered": 52,
         "count": 54
       },
-      "functions": {
-        "covered": 3,
-        "count": 3
-      },
-      "regions": {
-        "covered": 19,
-        "count": 20
-      },
       "branches": {
-        "covered": 12,
-        "count": 14
+        "covered": 33,
+        "count": 36
       }
     },
     {
       "file": "src/main/items/item_03_falling_pillar.c",
       "lines": {
-        "covered": 5,
-        "count": 37
+        "covered": 11,
+        "count": 58
       },
       "functions": {
-        "covered": 1,
-        "count": 2
+        "covered": 2,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 27
+        "covered": 4,
+        "count": 37
       },
       "branches": {
-        "covered": 0,
-        "count": 22
+        "covered": 1,
+        "count": 28
       }
     },
     {
       "file": "src/main/items/item_04_destructible_core.c",
       "lines": {
-        "covered": 22,
-        "count": 22
+        "covered": 113,
+        "count": 122
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 10,
-        "count": 10
+        "covered": 70,
+        "count": 74
       },
       "branches": {
-        "covered": 4,
-        "count": 4
+        "covered": 57,
+        "count": 62
       }
     },
     {
@@ -1555,149 +1555,168 @@
     {
       "file": "src/main/items/item_06_gate_core.c",
       "lines": {
-        "covered": 51,
-        "count": 53
+        "covered": 80,
+        "count": 82
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 15,
-        "count": 16
+        "covered": 29,
+        "count": 30
       },
       "branches": {
-        "covered": 7,
-        "count": 8
+        "covered": 13,
+        "count": 14
       }
     },
     {
       "file": "src/main/items/item_07_rising_platform.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 52,
+        "count": 52
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 28,
+        "count": 28
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 9,
+        "count": 10
       }
     },
     {
       "file": "src/main/items/item_08_boss_door.c",
       "lines": {
-        "covered": 37,
-        "count": 39
+        "covered": 54,
+        "count": 60
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 13,
-        "count": 14
+        "covered": 23,
+        "count": 25
       },
       "branches": {
-        "covered": 5,
-        "count": 6
+        "covered": 9,
+        "count": 12
       }
     },
     {
       "file": "src/main/items/item_09_moving_block.c",
       "lines": {
-        "covered": 9,
-        "count": 9
+        "covered": 34,
+        "count": 34
       },
       "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
         "covered": 3,
         "count": 3
       },
+      "regions": {
+        "covered": 9,
+        "count": 9
+      },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 1,
+        "count": 2
       }
     },
     {
       "file": "src/main/items/item_10_spark_machine.c",
       "lines": {
         "covered": 0,
-        "count": 5
+        "count": 91
       },
       "functions": {
         "covered": 0,
-        "count": 1
+        "count": 7
       },
       "regions": {
         "covered": 0,
-        "count": 1
+        "count": 29
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 14
       }
     },
     {
       "file": "src/main/items/item_11_teleporter.c",
       "lines": {
-        "covered": 35,
-        "count": 38
+        "covered": 133,
+        "count": 142
       },
       "functions": {
-        "covered": 4,
-        "count": 5
+        "covered": 12,
+        "count": 13
       },
       "regions": {
-        "covered": 13,
-        "count": 15
+        "covered": 43,
+        "count": 48
       },
       "branches": {
-        "covered": 4,
-        "count": 4
+        "covered": 17,
+        "count": 22
       }
     },
     {
       "file": "src/main/items/item_12_crusher_wall.c",
       "lines": {
-        "covered": 30,
-        "count": 37
+        "covered": 68,
+        "count": 78
       },
       "functions": {
-        "covered": 4,
-        "count": 6
+        "covered": 7,
+        "count": 9
       },
       "regions": {
-        "covered": 17,
-        "count": 20
+        "covered": 30,
+        "count": 35
       },
       "branches": {
-        "covered": 6,
-        "count": 8
+        "covered": 11,
+        "count": 16
       }
     },
     {
       "file": "src/main/items/item_13_trap_floor.c",
       "lines": {
-        "covered": 46,
-        "count": 46
+        "covered": 65,
+        "count": 65
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 19,
-        "count": 19
+        "covered": 28,
+        "count": 28
+      },
+      "branches": {
+        "covered": 14,
+        "count": 14
+      }
+    },
+    {
+      "file": "src/main/items/item_14_big_elevator.c",
+      "lines": {
+        "covered": 74,
+        "count": 80
+      },
+      "functions": {
+        "covered": 9,
+        "count": 11
+      },
+      "regions": {
+        "covered": 26,
+        "count": 29
       },
       "branches": {
         "covered": 10,
@@ -1705,37 +1724,18 @@
       }
     },
     {
-      "file": "src/main/items/item_14_big_elevator.c",
-      "lines": {
-        "covered": 41,
-        "count": 41
-      },
-      "functions": {
-        "covered": 5,
-        "count": 5
-      },
-      "regions": {
-        "covered": 9,
-        "count": 9
-      },
-      "branches": {
-        "covered": 2,
-        "count": 2
-      }
-    },
-    {
       "file": "src/main/items/item_15_rising_slab.c",
       "lines": {
-        "covered": 54,
-        "count": 54
+        "covered": 62,
+        "count": 62
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 26,
-        "count": 26
+        "covered": 28,
+        "count": 28
       },
       "branches": {
         "covered": 12,
@@ -1746,34 +1746,34 @@
       "file": "src/main/items/item_16_sliding_floor.c",
       "lines": {
         "covered": 0,
-        "count": 27
+        "count": 36
       },
       "functions": {
         "covered": 0,
-        "count": 2
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 11
+        "count": 18
       },
       "branches": {
         "covered": 0,
-        "count": 6
+        "count": 10
       }
     },
     {
       "file": "src/main/items/item_17_crumble_trigger.c",
       "lines": {
-        "covered": 37,
-        "count": 37
+        "covered": 40,
+        "count": 40
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 13,
-        "count": 13
+        "covered": 15,
+        "count": 15
       },
       "branches": {
         "covered": 7,
@@ -1783,134 +1783,134 @@
     {
       "file": "src/main/items/item_18_drop_pillar.c",
       "lines": {
-        "covered": 5,
-        "count": 5
+        "covered": 46,
+        "count": 46
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 14,
+        "count": 14
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 4,
+        "count": 4
       }
     },
     {
       "file": "src/main/items/item_19_data_capsule.c",
       "lines": {
-        "covered": 0,
-        "count": 2
+        "covered": 42,
+        "count": 44
       },
       "functions": {
-        "covered": 0,
-        "count": 1
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 0,
-        "count": 1
+        "covered": 12,
+        "count": 13
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 4,
+        "count": 4
       }
     },
     {
       "file": "src/main/items/item_20_gravity_switch.c",
       "lines": {
-        "covered": 68,
-        "count": 71
+        "covered": 81,
+        "count": 87
+      },
+      "functions": {
+        "covered": 6,
+        "count": 7
+      },
+      "regions": {
+        "covered": 51,
+        "count": 56
+      },
+      "branches": {
+        "covered": 23,
+        "count": 24
+      }
+    },
+    {
+      "file": "src/main/items/item_21_hopper_switch.c",
+      "lines": {
+        "covered": 39,
+        "count": 39
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 32,
+        "count": 32
+      },
+      "branches": {
+        "covered": 13,
+        "count": 14
+      }
+    },
+    {
+      "file": "src/main/items/item_22_layout_gate.c",
+      "lines": {
+        "covered": 99,
+        "count": 116
+      },
+      "functions": {
+        "covered": 9,
+        "count": 10
+      },
+      "regions": {
+        "covered": 34,
+        "count": 43
+      },
+      "branches": {
+        "covered": 19,
+        "count": 28
+      }
+    },
+    {
+      "file": "src/main/items/item_23_laser_target.c",
+      "lines": {
+        "covered": 74,
+        "count": 87
+      },
+      "functions": {
+        "covered": 5,
+        "count": 8
+      },
+      "regions": {
+        "covered": 60,
+        "count": 65
+      },
+      "branches": {
+        "covered": 31,
+        "count": 34
+      }
+    },
+    {
+      "file": "src/main/items/item_24_breakable_panel.c",
+      "lines": {
+        "covered": 35,
+        "count": 35
       },
       "functions": {
         "covered": 3,
         "count": 3
       },
       "regions": {
-        "covered": 45,
-        "count": 48
-      },
-      "branches": {
-        "covered": 21,
-        "count": 22
-      }
-    },
-    {
-      "file": "src/main/items/item_21_hopper_switch.c",
-      "lines": {
-        "covered": 18,
-        "count": 18
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 17,
-        "count": 17
-      },
-      "branches": {
-        "covered": 7,
-        "count": 8
-      }
-    },
-    {
-      "file": "src/main/items/item_22_layout_gate.c",
-      "lines": {
-        "covered": 57,
-        "count": 67
-      },
-      "functions": {
-        "covered": 5,
-        "count": 5
-      },
-      "regions": {
         "covered": 20,
-        "count": 26
+        "count": 20
       },
       "branches": {
-        "covered": 16,
-        "count": 24
-      }
-    },
-    {
-      "file": "src/main/items/item_23_laser_target.c",
-      "lines": {
-        "covered": 28,
-        "count": 35
-      },
-      "functions": {
-        "covered": 3,
-        "count": 5
-      },
-      "regions": {
-        "covered": 6,
-        "count": 8
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
-      }
-    },
-    {
-      "file": "src/main/items/item_24_breakable_panel.c",
-      "lines": {
-        "covered": 5,
-        "count": 5
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 1,
-        "count": 1
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 10,
+        "count": 10
       }
     },
     {
@@ -1935,73 +1935,73 @@
     {
       "file": "src/main/items/item_26_light_capsule.c",
       "lines": {
-        "covered": 103,
-        "count": 106
+        "covered": 237,
+        "count": 242
       },
       "functions": {
-        "covered": 6,
-        "count": 6
+        "covered": 18,
+        "count": 18
       },
       "regions": {
-        "covered": 47,
-        "count": 50
+        "covered": 120,
+        "count": 126
       },
       "branches": {
-        "covered": 27,
-        "count": 32
+        "covered": 64,
+        "count": 72
       }
     },
     {
       "file": "src/main/items/item_27_boss_teleporter.c",
       "lines": {
-        "covered": 44,
-        "count": 44
+        "covered": 147,
+        "count": 169
       },
       "functions": {
-        "covered": 3,
-        "count": 3
-      },
-      "regions": {
         "covered": 14,
         "count": 15
       },
+      "regions": {
+        "covered": 56,
+        "count": 68
+      },
       "branches": {
-        "covered": 7,
-        "count": 8
+        "covered": 24,
+        "count": 36
       }
     },
     {
       "file": "src/main/layers/layer_00_train_scroll.c",
       "lines": {
-        "covered": 152,
-        "count": 201
+        "covered": 163,
+        "count": 212
       },
       "functions": {
-        "covered": 19,
-        "count": 26
+        "covered": 20,
+        "count": 27
       },
       "regions": {
-        "covered": 60,
-        "count": 83
+        "covered": 63,
+        "count": 86
       },
       "branches": {
-        "covered": 32,
-        "count": 52
+        "covered": 33,
+        "count": 54
       }
     },
     {
       "file": "src/main/layers/layer_01_jungle_parallax.c",
       "lines": {
-        "covered": 82,
-        "count": 82
+        "covered": 88,
+        "count": 88
       },
       "functions": {
-        "covered": 13,
-        "count": 13
+        "covered": 14,
+        "count": 14
       },
       "regions": {
-        "covered": 29,
-        "count": 29
+        "covered": 30,
+        "count": 30
       },
       "branches": {
         "covered": 12,
@@ -2030,16 +2030,54 @@
     {
       "file": "src/main/layers/layer_04_volcano_camera.c",
       "lines": {
-        "covered": 46,
-        "count": 49
+        "covered": 59,
+        "count": 62
       },
       "functions": {
-        "covered": 10,
-        "count": 11
+        "covered": 11,
+        "count": 12
       },
       "regions": {
-        "covered": 16,
-        "count": 17
+        "covered": 24,
+        "count": 25
+      },
+      "branches": {
+        "covered": 10,
+        "count": 10
+      }
+    },
+    {
+      "file": "src/main/layers/layer_05_airship_bob.c",
+      "lines": {
+        "covered": 100,
+        "count": 103
+      },
+      "functions": {
+        "covered": 15,
+        "count": 16
+      },
+      "regions": {
+        "covered": 49,
+        "count": 50
+      },
+      "branches": {
+        "covered": 24,
+        "count": 24
+      }
+    },
+    {
+      "file": "src/main/layers/layer_06_final_weapon_bg_cycle.c",
+      "lines": {
+        "covered": 27,
+        "count": 27
+      },
+      "functions": {
+        "covered": 3,
+        "count": 3
+      },
+      "regions": {
+        "covered": 7,
+        "count": 7
       },
       "branches": {
         "covered": 4,
@@ -2047,56 +2085,18 @@
       }
     },
     {
-      "file": "src/main/layers/layer_05_airship_bob.c",
-      "lines": {
-        "covered": 68,
-        "count": 71
-      },
-      "functions": {
-        "covered": 13,
-        "count": 14
-      },
-      "regions": {
-        "covered": 31,
-        "count": 32
-      },
-      "branches": {
-        "covered": 12,
-        "count": 12
-      }
-    },
-    {
-      "file": "src/main/layers/layer_06_final_weapon_bg_cycle.c",
-      "lines": {
-        "covered": 9,
-        "count": 9
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 2,
-        "count": 2
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
-      }
-    },
-    {
       "file": "src/main/layers/layer_07_space_port_parallax.c",
       "lines": {
         "covered": 0,
-        "count": 16
+        "count": 22
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 4
       },
       "regions": {
         "covered": 0,
-        "count": 4
+        "count": 5
       },
       "branches": {
         "covered": 0,
@@ -2126,38 +2126,38 @@
       "file": "src/main/mains/main_01_armored_walker.c",
       "lines": {
         "covered": 0,
-        "count": 209
+        "count": 236
       },
       "functions": {
         "covered": 0,
-        "count": 15
+        "count": 16
       },
       "regions": {
         "covered": 0,
-        "count": 106
+        "count": 118
       },
       "branches": {
         "covered": 0,
-        "count": 58
+        "count": 66
       }
     },
     {
       "file": "src/main/mains/main_02_item_carrier.c",
       "lines": {
-        "covered": 84,
-        "count": 181
+        "covered": 106,
+        "count": 203
       },
       "functions": {
-        "covered": 8,
-        "count": 19
+        "covered": 13,
+        "count": 24
       },
       "regions": {
-        "covered": 26,
-        "count": 79
+        "covered": 37,
+        "count": 90
       },
       "branches": {
-        "covered": 10,
-        "count": 32
+        "covered": 12,
+        "count": 34
       }
     },
     {
@@ -2183,15 +2183,15 @@
       "file": "src/main/mains/main_04_drill_copter.c",
       "lines": {
         "covered": 0,
-        "count": 188
+        "count": 195
       },
       "functions": {
         "covered": 0,
-        "count": 24
+        "count": 26
       },
       "regions": {
         "covered": 0,
-        "count": 85
+        "count": 89
       },
       "branches": {
         "covered": 0,
@@ -2201,77 +2201,77 @@
     {
       "file": "src/main/mains/main_05_robot_bee.c",
       "lines": {
-        "covered": 174,
-        "count": 196
+        "covered": 279,
+        "count": 369
       },
       "functions": {
-        "covered": 13,
-        "count": 15
+        "covered": 27,
+        "count": 35
       },
       "regions": {
-        "covered": 102,
-        "count": 115
+        "covered": 152,
+        "count": 203
       },
       "branches": {
-        "covered": 45,
-        "count": 54
+        "covered": 71,
+        "count": 102
       }
     },
     {
       "file": "src/main/mains/main_06_bulldozer.c",
       "lines": {
-        "covered": 49,
-        "count": 61
+        "covered": 69,
+        "count": 102
       },
       "functions": {
-        "covered": 7,
-        "count": 8
+        "covered": 9,
+        "count": 11
       },
       "regions": {
-        "covered": 23,
-        "count": 27
+        "covered": 36,
+        "count": 54
       },
       "branches": {
-        "covered": 6,
-        "count": 10
+        "covered": 10,
+        "count": 20
       }
     },
     {
       "file": "src/main/mains/main_07_ambush_gunner.c",
       "lines": {
-        "covered": 99,
-        "count": 102
+        "covered": 133,
+        "count": 136
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 10,
+        "count": 11
       },
       "regions": {
-        "covered": 60,
-        "count": 61
+        "covered": 74,
+        "count": 75
       },
       "branches": {
-        "covered": 33,
-        "count": 36
+        "covered": 39,
+        "count": 42
       }
     },
     {
       "file": "src/main/mains/main_08_eregion.c",
       "lines": {
-        "covered": 151,
-        "count": 251
+        "covered": 390,
+        "count": 525
       },
       "functions": {
-        "covered": 16,
-        "count": 22
+        "covered": 34,
+        "count": 42
       },
       "regions": {
-        "covered": 66,
-        "count": 122
+        "covered": 194,
+        "count": 267
       },
       "branches": {
-        "covered": 29,
-        "count": 62
+        "covered": 88,
+        "count": 144
       }
     },
     {
@@ -2315,605 +2315,605 @@
     {
       "file": "src/main/mains/main_11_wall_crawler.c",
       "lines": {
-        "covered": 150,
-        "count": 201
+        "covered": 194,
+        "count": 252
       },
       "functions": {
-        "covered": 6,
-        "count": 8
+        "covered": 9,
+        "count": 12
       },
       "regions": {
-        "covered": 82,
-        "count": 115
+        "covered": 113,
+        "count": 149
       },
       "branches": {
-        "covered": 73,
-        "count": 104
+        "covered": 88,
+        "count": 122
       }
     },
     {
       "file": "src/main/mains/main_12_hover_sentry.c",
       "lines": {
-        "covered": 66,
-        "count": 71
+        "covered": 76,
+        "count": 81
       },
       "functions": {
-        "covered": 5,
-        "count": 6
+        "covered": 7,
+        "count": 8
       },
       "regions": {
-        "covered": 47,
-        "count": 51
+        "covered": 54,
+        "count": 58
       },
       "branches": {
-        "covered": 24,
-        "count": 26
+        "covered": 26,
+        "count": 28
       }
     },
     {
       "file": "src/main/mains/main_13_heavy_mech.c",
       "lines": {
-        "covered": 73,
-        "count": 101
+        "covered": 150,
+        "count": 178
       },
       "functions": {
-        "covered": 8,
-        "count": 10
+        "covered": 13,
+        "count": 15
       },
       "regions": {
-        "covered": 29,
-        "count": 41
+        "covered": 61,
+        "count": 73
       },
       "branches": {
-        "covered": 18,
-        "count": 26
+        "covered": 33,
+        "count": 44
       }
     },
     {
       "file": "src/main/mains/main_14_ice_bird.c",
       "lines": {
-        "covered": 137,
-        "count": 146
+        "covered": 226,
+        "count": 238
       },
       "functions": {
-        "covered": 11,
-        "count": 12
+        "covered": 22,
+        "count": 23
       },
       "regions": {
-        "covered": 47,
-        "count": 52
+        "covered": 83,
+        "count": 91
       },
       "branches": {
-        "covered": 15,
-        "count": 22
+        "covered": 24,
+        "count": 34
       }
     },
     {
       "file": "src/main/mains/main_15_shell_crawler.c",
       "lines": {
-        "covered": 148,
-        "count": 150
+        "covered": 223,
+        "count": 225
       },
       "functions": {
-        "covered": 6,
-        "count": 6
+        "covered": 10,
+        "count": 10
       },
       "regions": {
-        "covered": 93,
-        "count": 94
+        "covered": 131,
+        "count": 132
       },
       "branches": {
-        "covered": 54,
-        "count": 62
+        "covered": 77,
+        "count": 86
       }
     },
     {
       "file": "src/main/mains/main_16_trident_mech.c",
       "lines": {
-        "covered": 271,
-        "count": 283
+        "covered": 412,
+        "count": 440
       },
       "functions": {
-        "covered": 18,
-        "count": 18
+        "covered": 29,
+        "count": 29
       },
       "regions": {
-        "covered": 110,
-        "count": 117
+        "covered": 175,
+        "count": 187
       },
       "branches": {
-        "covered": 50,
-        "count": 62
+        "covered": 79,
+        "count": 96
       }
     },
     {
       "file": "src/main/mains/main_17_snowman_bomb.c",
       "lines": {
-        "covered": 95,
-        "count": 100
-      },
-      "functions": {
-        "covered": 6,
-        "count": 7
-      },
-      "regions": {
-        "covered": 37,
-        "count": 40
-      },
-      "branches": {
-        "covered": 17,
-        "count": 18
-      }
-    },
-    {
-      "file": "src/main/mains/main_18_ice_core.c",
-      "lines": {
-        "covered": 283,
-        "count": 291
-      },
-      "functions": {
-        "covered": 21,
-        "count": 22
-      },
-      "regions": {
-        "covered": 148,
-        "count": 151
-      },
-      "branches": {
-        "covered": 94,
-        "count": 102
-      }
-    },
-    {
-      "file": "src/main/mains/main_19_surface_hopper.c",
-      "lines": {
-        "covered": 102,
-        "count": 113
+        "covered": 151,
+        "count": 156
       },
       "functions": {
         "covered": 10,
         "count": 11
       },
       "regions": {
-        "covered": 46,
-        "count": 52
+        "covered": 63,
+        "count": 66
       },
       "branches": {
-        "covered": 22,
-        "count": 22
+        "covered": 31,
+        "count": 32
+      }
+    },
+    {
+      "file": "src/main/mains/main_18_ice_core.c",
+      "lines": {
+        "covered": 653,
+        "count": 684
+      },
+      "functions": {
+        "covered": 49,
+        "count": 50
+      },
+      "regions": {
+        "covered": 347,
+        "count": 363
+      },
+      "branches": {
+        "covered": 197,
+        "count": 216
+      }
+    },
+    {
+      "file": "src/main/mains/main_19_surface_hopper.c",
+      "lines": {
+        "covered": 160,
+        "count": 201
+      },
+      "functions": {
+        "covered": 14,
+        "count": 17
+      },
+      "regions": {
+        "covered": 81,
+        "count": 104
+      },
+      "branches": {
+        "covered": 36,
+        "count": 46
       }
     },
     {
       "file": "src/main/mains/main_20_ice_block.c",
       "lines": {
-        "covered": 47,
-        "count": 51
+        "covered": 63,
+        "count": 67
       },
       "functions": {
-        "covered": 4,
-        "count": 5
+        "covered": 6,
+        "count": 7
       },
       "regions": {
-        "covered": 31,
-        "count": 32
+        "covered": 40,
+        "count": 41
       },
       "branches": {
-        "covered": 16,
-        "count": 16
+        "covered": 20,
+        "count": 20
       }
     },
     {
       "file": "src/main/mains/main_21_falling_icicle.c",
       "lines": {
-        "covered": 39,
-        "count": 42
+        "covered": 61,
+        "count": 64
       },
       "functions": {
-        "covered": 4,
-        "count": 5
-      },
-      "regions": {
         "covered": 7,
         "count": 8
       },
+      "regions": {
+        "covered": 18,
+        "count": 19
+      },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 8,
+        "count": 8
       }
     },
     {
       "file": "src/main/mains/main_22_bee_hive.c",
       "lines": {
-        "covered": 72,
-        "count": 75
+        "covered": 166,
+        "count": 169
       },
       "functions": {
-        "covered": 11,
+        "covered": 21,
+        "count": 22
+      },
+      "regions": {
+        "covered": 67,
+        "count": 68
+      },
+      "branches": {
+        "covered": 23,
+        "count": 26
+      }
+    },
+    {
+      "file": "src/main/mains/main_23_slope_skier.c",
+      "lines": {
+        "covered": 124,
+        "count": 139
+      },
+      "functions": {
+        "covered": 10,
         "count": 12
+      },
+      "regions": {
+        "covered": 79,
+        "count": 90
+      },
+      "branches": {
+        "covered": 46,
+        "count": 52
+      }
+    },
+    {
+      "file": "src/main/mains/main_24_jet_drone.c",
+      "lines": {
+        "covered": 162,
+        "count": 167
+      },
+      "functions": {
+        "covered": 9,
+        "count": 10
+      },
+      "regions": {
+        "covered": 67,
+        "count": 69
+      },
+      "branches": {
+        "covered": 33,
+        "count": 38
+      }
+    },
+    {
+      "file": "src/main/mains/main_25_caterkiller.c",
+      "lines": {
+        "covered": 172,
+        "count": 210
+      },
+      "functions": {
+        "covered": 18,
+        "count": 20
+      },
+      "regions": {
+        "covered": 113,
+        "count": 127
+      },
+      "branches": {
+        "covered": 47,
+        "count": 60
+      }
+    },
+    {
+      "file": "src/main/mains/main_26_ice_wall.c",
+      "lines": {
+        "covered": 47,
+        "count": 54
+      },
+      "functions": {
+        "covered": 6,
+        "count": 8
+      },
+      "regions": {
+        "covered": 25,
+        "count": 29
+      },
+      "branches": {
+        "covered": 13,
+        "count": 14
+      }
+    },
+    {
+      "file": "src/main/mains/main_27_dash_gunner.c",
+      "lines": {
+        "covered": 277,
+        "count": 320
+      },
+      "functions": {
+        "covered": 22,
+        "count": 23
+      },
+      "regions": {
+        "covered": 168,
+        "count": 186
+      },
+      "branches": {
+        "covered": 89,
+        "count": 110
+      }
+    },
+    {
+      "file": "src/main/mains/main_28_spawner_pod.c",
+      "lines": {
+        "covered": 79,
+        "count": 86
+      },
+      "functions": {
+        "covered": 5,
+        "count": 8
+      },
+      "regions": {
+        "covered": 18,
+        "count": 22
+      },
+      "branches": {
+        "covered": 4,
+        "count": 6
+      }
+    },
+    {
+      "file": "src/main/mains/main_29_pod_spawner.c",
+      "lines": {
+        "covered": 89,
+        "count": 95
+      },
+      "functions": {
+        "covered": 7,
+        "count": 8
+      },
+      "regions": {
+        "covered": 35,
+        "count": 38
+      },
+      "branches": {
+        "covered": 15,
+        "count": 20
+      }
+    },
+    {
+      "file": "src/main/mains/main_30_regen_turret.c",
+      "lines": {
+        "covered": 82,
+        "count": 88
+      },
+      "functions": {
+        "covered": 8,
+        "count": 9
+      },
+      "regions": {
+        "covered": 46,
+        "count": 49
+      },
+      "branches": {
+        "covered": 18,
+        "count": 20
+      }
+    },
+    {
+      "file": "src/main/mains/main_31_thorn_trap.c",
+      "lines": {
+        "covered": 188,
+        "count": 202
+      },
+      "functions": {
+        "covered": 9,
+        "count": 10
+      },
+      "regions": {
+        "covered": 143,
+        "count": 152
+      },
+      "branches": {
+        "covered": 77,
+        "count": 82
+      }
+    },
+    {
+      "file": "src/main/mains/main_32_bomb_bat.c",
+      "lines": {
+        "covered": 145,
+        "count": 206
+      },
+      "functions": {
+        "covered": 13,
+        "count": 22
+      },
+      "regions": {
+        "covered": 52,
+        "count": 75
+      },
+      "branches": {
+        "covered": 21,
+        "count": 34
+      }
+    },
+    {
+      "file": "src/main/mains/main_33_spike_sled.c",
+      "lines": {
+        "covered": 287,
+        "count": 317
+      },
+      "functions": {
+        "covered": 19,
+        "count": 20
+      },
+      "regions": {
+        "covered": 141,
+        "count": 163
+      },
+      "branches": {
+        "covered": 78,
+        "count": 96
+      }
+    },
+    {
+      "file": "src/main/mains/main_34_highway_trooper.c",
+      "lines": {
+        "covered": 99,
+        "count": 101
+      },
+      "functions": {
+        "covered": 13,
+        "count": 13
+      },
+      "regions": {
+        "covered": 50,
+        "count": 51
+      },
+      "branches": {
+        "covered": 17,
+        "count": 20
+      }
+    },
+    {
+      "file": "src/main/mains/main_35_wheel_charger.c",
+      "lines": {
+        "covered": 123,
+        "count": 147
+      },
+      "functions": {
+        "covered": 12,
+        "count": 14
+      },
+      "regions": {
+        "covered": 69,
+        "count": 81
+      },
+      "branches": {
+        "covered": 38,
+        "count": 46
+      }
+    },
+    {
+      "file": "src/main/mains/main_36_latcher.c",
+      "lines": {
+        "covered": 123,
+        "count": 143
+      },
+      "functions": {
+        "covered": 10,
+        "count": 11
+      },
+      "regions": {
+        "covered": 93,
+        "count": 104
+      },
+      "branches": {
+        "covered": 40,
+        "count": 52
+      }
+    },
+    {
+      "file": "src/main/mains/main_37_rocket_spiker.c",
+      "lines": {
+        "covered": 201,
+        "count": 204
+      },
+      "functions": {
+        "covered": 18,
+        "count": 19
+      },
+      "regions": {
+        "covered": 117,
+        "count": 118
+      },
+      "branches": {
+        "covered": 60,
+        "count": 60
+      }
+    },
+    {
+      "file": "src/main/mains/main_38_train_cannon.c",
+      "lines": {
+        "covered": 265,
+        "count": 272
+      },
+      "functions": {
+        "covered": 24,
+        "count": 25
+      },
+      "regions": {
+        "covered": 100,
+        "count": 103
+      },
+      "branches": {
+        "covered": 46,
+        "count": 54
+      }
+    },
+    {
+      "file": "src/main/mains/main_39_falling_ceiling.c",
+      "lines": {
+        "covered": 41,
+        "count": 52
+      },
+      "functions": {
+        "covered": 5,
+        "count": 7
+      },
+      "regions": {
+        "covered": 19,
+        "count": 25
+      },
+      "branches": {
+        "covered": 7,
+        "count": 8
+      }
+    },
+    {
+      "file": "src/main/mains/main_40_breakable_terrain.c",
+      "lines": {
+        "covered": 67,
+        "count": 67
+      },
+      "functions": {
+        "covered": 6,
+        "count": 6
       },
       "regions": {
         "covered": 30,
         "count": 31
       },
       "branches": {
-        "covered": 9,
-        "count": 10
+        "covered": 15,
+        "count": 16
       }
     },
     {
-      "file": "src/main/mains/main_23_slope_skier.c",
+      "file": "src/main/mains/main_41_data_hopper.c",
       "lines": {
-        "covered": 35,
-        "count": 45
+        "covered": 191,
+        "count": 196
+      },
+      "functions": {
+        "covered": 10,
+        "count": 11
+      },
+      "regions": {
+        "covered": 78,
+        "count": 81
+      },
+      "branches": {
+        "covered": 56,
+        "count": 60
+      }
+    },
+    {
+      "file": "src/main/mains/main_42_homing_orb.c",
+      "lines": {
+        "covered": 80,
+        "count": 96
       },
       "functions": {
         "covered": 5,
         "count": 7
       },
       "regions": {
-        "covered": 21,
-        "count": 28
-      },
-      "branches": {
-        "covered": 9,
-        "count": 12
-      }
-    },
-    {
-      "file": "src/main/mains/main_24_jet_drone.c",
-      "lines": {
-        "covered": 152,
-        "count": 157
-      },
-      "functions": {
-        "covered": 7,
-        "count": 8
-      },
-      "regions": {
-        "covered": 63,
-        "count": 65
-      },
-      "branches": {
-        "covered": 31,
-        "count": 36
-      }
-    },
-    {
-      "file": "src/main/mains/main_25_caterkiller.c",
-      "lines": {
-        "covered": 63,
-        "count": 93
-      },
-      "functions": {
-        "covered": 9,
-        "count": 11
-      },
-      "regions": {
-        "covered": 40,
-        "count": 51
-      },
-      "branches": {
-        "covered": 17,
-        "count": 26
-      }
-    },
-    {
-      "file": "src/main/mains/main_26_ice_wall.c",
-      "lines": {
         "covered": 33,
         "count": 38
-      },
-      "functions": {
-        "covered": 3,
-        "count": 5
-      },
-      "regions": {
-        "covered": 21,
-        "count": 23
-      },
-      "branches": {
-        "covered": 12,
-        "count": 12
-      }
-    },
-    {
-      "file": "src/main/mains/main_27_dash_gunner.c",
-      "lines": {
-        "covered": 170,
-        "count": 206
-      },
-      "functions": {
-        "covered": 12,
-        "count": 13
-      },
-      "regions": {
-        "covered": 100,
-        "count": 116
-      },
-      "branches": {
-        "covered": 52,
-        "count": 68
-      }
-    },
-    {
-      "file": "src/main/mains/main_28_spawner_pod.c",
-      "lines": {
-        "covered": 67,
-        "count": 71
-      },
-      "functions": {
-        "covered": 3,
-        "count": 5
-      },
-      "regions": {
-        "covered": 11,
-        "count": 13
-      },
-      "branches": {
-        "covered": 2,
-        "count": 2
-      }
-    },
-    {
-      "file": "src/main/mains/main_29_pod_spawner.c",
-      "lines": {
-        "covered": 60,
-        "count": 66
-      },
-      "functions": {
-        "covered": 4,
-        "count": 5
-      },
-      "regions": {
-        "covered": 15,
-        "count": 18
-      },
-      "branches": {
-        "covered": 7,
-        "count": 10
-      }
-    },
-    {
-      "file": "src/main/mains/main_30_regen_turret.c",
-      "lines": {
-        "covered": 26,
-        "count": 30
-      },
-      "functions": {
-        "covered": 2,
-        "count": 3
-      },
-      "regions": {
-        "covered": 15,
-        "count": 16
-      },
-      "branches": {
-        "covered": 6,
-        "count": 6
-      }
-    },
-    {
-      "file": "src/main/mains/main_31_thorn_trap.c",
-      "lines": {
-        "covered": 130,
-        "count": 136
-      },
-      "functions": {
-        "covered": 4,
-        "count": 5
-      },
-      "regions": {
-        "covered": 109,
-        "count": 114
-      },
-      "branches": {
-        "covered": 60,
-        "count": 62
-      }
-    },
-    {
-      "file": "src/main/mains/main_32_bomb_bat.c",
-      "lines": {
-        "covered": 96,
-        "count": 138
-      },
-      "functions": {
-        "covered": 8,
-        "count": 15
-      },
-      "regions": {
-        "covered": 39,
-        "count": 56
-      },
-      "branches": {
-        "covered": 18,
-        "count": 28
-      }
-    },
-    {
-      "file": "src/main/mains/main_33_spike_sled.c",
-      "lines": {
-        "covered": 165,
-        "count": 194
-      },
-      "functions": {
-        "covered": 11,
-        "count": 12
-      },
-      "regions": {
-        "covered": 99,
-        "count": 119
-      },
-      "branches": {
-        "covered": 55,
-        "count": 72
-      }
-    },
-    {
-      "file": "src/main/mains/main_34_highway_trooper.c",
-      "lines": {
-        "covered": 43,
-        "count": 43
-      },
-      "functions": {
-        "covered": 6,
-        "count": 6
-      },
-      "regions": {
-        "covered": 16,
-        "count": 16
-      },
-      "branches": {
-        "covered": 5,
-        "count": 6
-      }
-    },
-    {
-      "file": "src/main/mains/main_35_wheel_charger.c",
-      "lines": {
-        "covered": 63,
-        "count": 66
-      },
-      "functions": {
-        "covered": 7,
-        "count": 8
-      },
-      "regions": {
-        "covered": 38,
-        "count": 39
-      },
-      "branches": {
-        "covered": 19,
-        "count": 20
-      }
-    },
-    {
-      "file": "src/main/mains/main_36_latcher.c",
-      "lines": {
-        "covered": 83,
-        "count": 103
-      },
-      "functions": {
-        "covered": 7,
-        "count": 8
-      },
-      "regions": {
-        "covered": 70,
-        "count": 81
-      },
-      "branches": {
-        "covered": 29,
-        "count": 38
-      }
-    },
-    {
-      "file": "src/main/mains/main_37_rocket_spiker.c",
-      "lines": {
-        "covered": 133,
-        "count": 136
-      },
-      "functions": {
-        "covered": 9,
-        "count": 10
-      },
-      "regions": {
-        "covered": 82,
-        "count": 83
-      },
-      "branches": {
-        "covered": 44,
-        "count": 44
-      }
-    },
-    {
-      "file": "src/main/mains/main_38_train_cannon.c",
-      "lines": {
-        "covered": 108,
-        "count": 113
-      },
-      "functions": {
-        "covered": 9,
-        "count": 10
-      },
-      "regions": {
-        "covered": 33,
-        "count": 35
-      },
-      "branches": {
-        "covered": 12,
-        "count": 16
-      }
-    },
-    {
-      "file": "src/main/mains/main_39_falling_ceiling.c",
-      "lines": {
-        "covered": 13,
-        "count": 20
-      },
-      "functions": {
-        "covered": 2,
-        "count": 3
-      },
-      "regions": {
-        "covered": 6,
-        "count": 9
-      },
-      "branches": {
-        "covered": 1,
-        "count": 2
-      }
-    },
-    {
-      "file": "src/main/mains/main_40_breakable_terrain.c",
-      "lines": {
-        "covered": 41,
-        "count": 41
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 14,
-        "count": 14
-      },
-      "branches": {
-        "covered": 10,
-        "count": 10
-      }
-    },
-    {
-      "file": "src/main/mains/main_41_data_hopper.c",
-      "lines": {
-        "covered": 61,
-        "count": 63
-      },
-      "functions": {
-        "covered": 3,
-        "count": 4
-      },
-      "regions": {
-        "covered": 19,
-        "count": 20
-      },
-      "branches": {
-        "covered": 13,
-        "count": 14
-      }
-    },
-    {
-      "file": "src/main/mains/main_42_homing_orb.c",
-      "lines": {
-        "covered": 77,
-        "count": 93
-      },
-      "functions": {
-        "covered": 4,
-        "count": 6
-      },
-      "regions": {
-        "covered": 32,
-        "count": 37
       },
       "branches": {
         "covered": 13,
@@ -2923,35 +2923,35 @@
     {
       "file": "src/main/mains/main_43_web_spider.c",
       "lines": {
-        "covered": 272,
-        "count": 276
+        "covered": 613,
+        "count": 696
       },
       "functions": {
-        "covered": 22,
-        "count": 23
+        "covered": 41,
+        "count": 47
       },
       "regions": {
-        "covered": 107,
-        "count": 108
+        "covered": 277,
+        "count": 319
       },
       "branches": {
-        "covered": 60,
-        "count": 68
+        "covered": 162,
+        "count": 194
       }
     },
     {
       "file": "src/main/mains/main_44_anchored_mine.c",
       "lines": {
-        "covered": 55,
-        "count": 58
+        "covered": 61,
+        "count": 64
       },
       "functions": {
-        "covered": 4,
-        "count": 5
+        "covered": 6,
+        "count": 7
       },
       "regions": {
-        "covered": 11,
-        "count": 12
+        "covered": 14,
+        "count": 15
       },
       "branches": {
         "covered": 3,
@@ -2962,11 +2962,30 @@
       "file": "src/main/mains/main_45_train_boss.c",
       "lines": {
         "covered": 0,
-        "count": 51
+        "count": 124
       },
       "functions": {
         "covered": 0,
-        "count": 6
+        "count": 10
+      },
+      "regions": {
+        "covered": 0,
+        "count": 42
+      },
+      "branches": {
+        "covered": 0,
+        "count": 22
+      }
+    },
+    {
+      "file": "src/main/mains/main_46_train_boss_turret.c",
+      "lines": {
+        "covered": 0,
+        "count": 89
+      },
+      "functions": {
+        "covered": 0,
+        "count": 7
       },
       "regions": {
         "covered": 0,
@@ -2974,345 +2993,326 @@
       },
       "branches": {
         "covered": 0,
-        "count": 16
-      }
-    },
-    {
-      "file": "src/main/mains/main_46_train_boss_turret.c",
-      "lines": {
-        "covered": 0,
-        "count": 29
-      },
-      "functions": {
-        "covered": 0,
-        "count": 2
-      },
-      "regions": {
-        "covered": 0,
-        "count": 11
-      },
-      "branches": {
-        "covered": 0,
-        "count": 6
+        "count": 14
       }
     },
     {
       "file": "src/main/mains/main_47_train_boss_armor.c",
       "lines": {
         "covered": 0,
-        "count": 30
+        "count": 44
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 5
       },
       "regions": {
         "covered": 0,
-        "count": 8
+        "count": 17
       },
       "branches": {
         "covered": 0,
-        "count": 4
+        "count": 8
       }
     },
     {
       "file": "src/main/mains/main_48_sentry_drone.c",
       "lines": {
-        "covered": 205,
-        "count": 216
+        "covered": 380,
+        "count": 395
       },
       "functions": {
-        "covered": 17,
-        "count": 19
+        "covered": 28,
+        "count": 30
       },
       "regions": {
-        "covered": 123,
-        "count": 129
+        "covered": 208,
+        "count": 218
       },
       "branches": {
-        "covered": 94,
-        "count": 104
+        "covered": 120,
+        "count": 138
       }
     },
     {
       "file": "src/main/mains/main_49_train_soldier.c",
       "lines": {
-        "covered": 188,
-        "count": 195
+        "covered": 357,
+        "count": 365
       },
       "functions": {
-        "covered": 14,
-        "count": 15
+        "covered": 24,
+        "count": 25
       },
       "regions": {
-        "covered": 121,
-        "count": 126
+        "covered": 224,
+        "count": 231
       },
       "branches": {
-        "covered": 61,
-        "count": 66
+        "covered": 114,
+        "count": 122
       }
     },
     {
       "file": "src/main/mains/main_50_train_crate.c",
       "lines": {
-        "covered": 2,
-        "count": 2
+        "covered": 17,
+        "count": 17
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 10,
+        "count": 10
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 4,
+        "count": 4
       }
     },
     {
       "file": "src/main/mains/main_51_fortress_cannon.c",
       "lines": {
-        "covered": 92,
-        "count": 103
+        "covered": 234,
+        "count": 263
       },
       "functions": {
-        "covered": 9,
-        "count": 10
+        "covered": 21,
+        "count": 23
       },
       "regions": {
-        "covered": 37,
-        "count": 40
+        "covered": 97,
+        "count": 111
       },
       "branches": {
-        "covered": 15,
-        "count": 20
+        "covered": 44,
+        "count": 60
       }
     },
     {
       "file": "src/main/mains/main_52_jump_shooter.c",
       "lines": {
-        "covered": 108,
-        "count": 119
+        "covered": 194,
+        "count": 208
       },
       "functions": {
-        "covered": 8,
-        "count": 9
+        "covered": 16,
+        "count": 17
       },
       "regions": {
-        "covered": 39,
-        "count": 51
+        "covered": 84,
+        "count": 98
       },
       "branches": {
-        "covered": 14,
-        "count": 22
+        "covered": 34,
+        "count": 44
       }
     },
     {
       "file": "src/main/mains/main_53_wave_rider.c",
       "lines": {
-        "covered": 78,
-        "count": 93
+        "covered": 124,
+        "count": 141
       },
       "functions": {
-        "covered": 6,
-        "count": 8
+        "covered": 10,
+        "count": 12
       },
       "regions": {
-        "covered": 32,
-        "count": 42
+        "covered": 58,
+        "count": 69
       },
       "branches": {
-        "covered": 15,
-        "count": 18
+        "covered": 26,
+        "count": 30
       }
     },
     {
       "file": "src/main/mains/main_54_slash_beast.c",
       "lines": {
-        "covered": 295,
-        "count": 445
+        "covered": 501,
+        "count": 672
       },
       "functions": {
-        "covered": 19,
-        "count": 23
+        "covered": 37,
+        "count": 42
       },
       "regions": {
-        "covered": 133,
-        "count": 186
+        "covered": 231,
+        "count": 294
       },
       "branches": {
-        "covered": 73,
-        "count": 110
+        "covered": 120,
+        "count": 170
       }
     },
     {
       "file": "src/main/mains/main_55_jet_stingray_flyby.c",
       "lines": {
         "covered": 0,
-        "count": 42
+        "count": 126
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 11
       },
       "regions": {
         "covered": 0,
-        "count": 18
+        "count": 69
       },
       "branches": {
         "covered": 0,
-        "count": 10
+        "count": 34
       }
     },
     {
       "file": "src/main/mains/main_56_jet_stingray.c",
       "lines": {
-        "covered": 277,
-        "count": 309
+        "covered": 746,
+        "count": 791
       },
       "functions": {
-        "covered": 19,
-        "count": 20
+        "covered": 52,
+        "count": 54
       },
       "regions": {
-        "covered": 133,
-        "count": 149
+        "covered": 340,
+        "count": 362
       },
       "branches": {
-        "covered": 84,
-        "count": 108
+        "covered": 209,
+        "count": 244
       }
     },
     {
       "file": "src/main/mains/main_57_frost_walrus.c",
       "lines": {
-        "covered": 172,
-        "count": 194
+        "covered": 646,
+        "count": 725
       },
       "functions": {
-        "covered": 19,
-        "count": 23
+        "covered": 57,
+        "count": 64
       },
       "regions": {
-        "covered": 87,
-        "count": 98
+        "covered": 307,
+        "count": 346
       },
       "branches": {
-        "covered": 43,
-        "count": 52
+        "covered": 164,
+        "count": 206
       }
     },
     {
       "file": "src/main/mains/main_58_beam_drone.c",
       "lines": {
-        "covered": 43,
-        "count": 46
+        "covered": 154,
+        "count": 157
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 18,
+        "count": 19
       },
       "regions": {
-        "covered": 15,
-        "count": 16
+        "covered": 72,
+        "count": 74
       },
       "branches": {
-        "covered": 5,
-        "count": 6
+        "covered": 27,
+        "count": 30
       }
     },
     {
       "file": "src/main/mains/main_59_timed_explosion.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 35,
+        "count": 35
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 2,
-        "count": 2
+        "covered": 19,
+        "count": 19
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 7,
+        "count": 8
       }
     },
     {
       "file": "src/main/mains/main_60_storm_owl.c",
       "lines": {
-        "covered": 320,
-        "count": 432
+        "covered": 765,
+        "count": 1030
       },
       "functions": {
-        "covered": 28,
-        "count": 36
+        "covered": 64,
+        "count": 84
       },
       "regions": {
-        "covered": 115,
-        "count": 173
+        "covered": 359,
+        "count": 512
       },
       "branches": {
-        "covered": 48,
-        "count": 88
+        "covered": 161,
+        "count": 256
       }
     },
     {
       "file": "src/main/mains/main_61_split_mushroom.c",
       "lines": {
-        "covered": 299,
-        "count": 358
+        "covered": 641,
+        "count": 784
       },
       "functions": {
-        "covered": 18,
-        "count": 22
+        "covered": 43,
+        "count": 51
       },
       "regions": {
-        "covered": 105,
-        "count": 135
+        "covered": 280,
+        "count": 349
       },
       "branches": {
-        "covered": 46,
-        "count": 68
+        "covered": 139,
+        "count": 192
       }
     },
     {
       "file": "src/main/mains/main_62_flame_jet.c",
       "lines": {
-        "covered": 3,
-        "count": 10
+        "covered": 59,
+        "count": 70
       },
       "functions": {
-        "covered": 1,
-        "count": 4
+        "covered": 6,
+        "count": 9
       },
       "regions": {
-        "covered": 1,
-        "count": 4
+        "covered": 36,
+        "count": 40
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 21,
+        "count": 26
       }
     },
     {
       "file": "src/main/mains/main_63_hatch_turret.c",
       "lines": {
-        "covered": 22,
-        "count": 22
+        "covered": 52,
+        "count": 52
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 5,
-        "count": 5
+        "covered": 7,
+        "count": 7
       },
       "branches": {
         "covered": 1,
@@ -3322,267 +3322,267 @@
     {
       "file": "src/main/mains/main_64_cyber_peacock.c",
       "lines": {
-        "covered": 186,
-        "count": 192
+        "covered": 460,
+        "count": 470
       },
       "functions": {
-        "covered": 17,
-        "count": 17
+        "covered": 40,
+        "count": 40
       },
       "regions": {
-        "covered": 61,
-        "count": 66
+        "covered": 196,
+        "count": 202
       },
       "branches": {
-        "covered": 33,
-        "count": 40
+        "covered": 92,
+        "count": 102
       }
     },
     {
       "file": "src/main/mains/main_65_magma_dragoon.c",
       "lines": {
-        "covered": 219,
-        "count": 227
+        "covered": 621,
+        "count": 688
       },
       "functions": {
-        "covered": 20,
-        "count": 22
+        "covered": 53,
+        "count": 58
       },
       "regions": {
-        "covered": 104,
-        "count": 108
+        "covered": 327,
+        "count": 367
       },
       "branches": {
-        "covered": 50,
-        "count": 58
+        "covered": 151,
+        "count": 184
       }
     },
     {
       "file": "src/main/mains/main_66_iris.c",
       "lines": {
-        "covered": 176,
-        "count": 254
+        "covered": 380,
+        "count": 478
       },
       "functions": {
-        "covered": 15,
-        "count": 19
+        "covered": 32,
+        "count": 38
       },
       "regions": {
-        "covered": 60,
-        "count": 99
+        "covered": 181,
+        "count": 226
       },
       "branches": {
-        "covered": 28,
-        "count": 54
+        "covered": 92,
+        "count": 122
       }
     },
     {
       "file": "src/main/mains/main_67_gunship.c",
       "lines": {
-        "covered": 95,
-        "count": 138
+        "covered": 148,
+        "count": 271
       },
       "functions": {
-        "covered": 8,
-        "count": 14
+        "covered": 13,
+        "count": 27
       },
       "regions": {
-        "covered": 50,
-        "count": 68
+        "covered": 81,
+        "count": 135
       },
       "branches": {
-        "covered": 20,
-        "count": 32
+        "covered": 30,
+        "count": 60
       }
     },
     {
       "file": "src/main/mains/main_68_sigma.c",
       "lines": {
-        "covered": 258,
-        "count": 287
+        "covered": 854,
+        "count": 900
       },
       "functions": {
-        "covered": 23,
-        "count": 24
+        "covered": 66,
+        "count": 68
       },
       "regions": {
-        "covered": 113,
-        "count": 130
+        "covered": 399,
+        "count": 424
       },
       "branches": {
-        "covered": 59,
-        "count": 82
+        "covered": 204,
+        "count": 244
       }
     },
     {
       "file": "src/main/mains/main_69_colonel.c",
       "lines": {
-        "covered": 75,
-        "count": 252
+        "covered": 441,
+        "count": 1038
       },
       "functions": {
-        "covered": 10,
-        "count": 25
+        "covered": 37,
+        "count": 80
       },
       "regions": {
-        "covered": 32,
-        "count": 107
+        "covered": 218,
+        "count": 497
       },
       "branches": {
-        "covered": 12,
-        "count": 56
+        "covered": 104,
+        "count": 256
       }
     },
     {
       "file": "src/main/mains/main_70_drone_pod.c",
       "lines": {
-        "covered": 126,
-        "count": 132
+        "covered": 277,
+        "count": 283
       },
       "functions": {
-        "covered": 9,
-        "count": 10
+        "covered": 24,
+        "count": 25
       },
       "regions": {
-        "covered": 40,
-        "count": 43
+        "covered": 99,
+        "count": 102
       },
       "branches": {
-        "covered": 23,
-        "count": 24
+        "covered": 57,
+        "count": 60
       }
     },
     {
       "file": "src/main/mains/main_71_ride_armor_pilot.c",
       "lines": {
-        "covered": 257,
-        "count": 311
+        "covered": 310,
+        "count": 370
       },
       "functions": {
-        "covered": 17,
-        "count": 20
+        "covered": 20,
+        "count": 23
       },
       "regions": {
-        "covered": 140,
-        "count": 177
+        "covered": 175,
+        "count": 215
       },
       "branches": {
-        "covered": 70,
-        "count": 98
+        "covered": 89,
+        "count": 120
       }
     },
     {
       "file": "src/main/mains/main_72_unused_ride_armor.c",
       "lines": {
         "covered": 0,
-        "count": 153
+        "count": 220
       },
       "functions": {
         "covered": 0,
-        "count": 14
+        "count": 19
       },
       "regions": {
         "covered": 0,
-        "count": 75
+        "count": 99
       },
       "branches": {
         "covered": 0,
-        "count": 34
+        "count": 46
       }
     },
     {
       "file": "src/main/mains/main_73_double.c",
       "lines": {
-        "covered": 42,
-        "count": 97
+        "covered": 250,
+        "count": 501
       },
       "functions": {
-        "covered": 7,
-        "count": 12
+        "covered": 24,
+        "count": 42
       },
       "regions": {
-        "covered": 20,
-        "count": 38
+        "covered": 107,
+        "count": 214
       },
       "branches": {
-        "covered": 7,
-        "count": 16
+        "covered": 46,
+        "count": 98
       }
     },
     {
       "file": "src/main/mains/main_74_sigma_final.c",
       "lines": {
-        "covered": 99,
-        "count": 167
+        "covered": 298,
+        "count": 660
       },
       "functions": {
-        "covered": 13,
-        "count": 23
+        "covered": 30,
+        "count": 61
       },
       "regions": {
-        "covered": 38,
-        "count": 64
+        "covered": 137,
+        "count": 306
       },
       "branches": {
-        "covered": 20,
-        "count": 34
+        "covered": 68,
+        "count": 166
       }
     },
     {
       "file": "src/main/mains/main_75_general.c",
       "lines": {
-        "covered": 81,
-        "count": 134
+        "covered": 344,
+        "count": 547
       },
       "functions": {
-        "covered": 8,
-        "count": 12
+        "covered": 26,
+        "count": 39
       },
       "regions": {
-        "covered": 41,
-        "count": 67
+        "covered": 162,
+        "count": 257
       },
       "branches": {
-        "covered": 21,
-        "count": 36
+        "covered": 90,
+        "count": 156
       }
     },
     {
       "file": "src/main/mains/main_76_spike_crawler.c",
       "lines": {
-        "covered": 108,
-        "count": 138
+        "covered": 176,
+        "count": 206
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 10,
+        "count": 11
       },
       "regions": {
-        "covered": 63,
-        "count": 78
+        "covered": 77,
+        "count": 92
       },
       "branches": {
-        "covered": 35,
-        "count": 46
+        "covered": 42,
+        "count": 54
       }
     },
     {
       "file": "src/main/mech.c",
       "lines": {
-        "covered": 761,
-        "count": 1026
+        "covered": 860,
+        "count": 1175
       },
       "functions": {
-        "covered": 38,
-        "count": 47
+        "covered": 42,
+        "count": 52
       },
       "regions": {
-        "covered": 532,
-        "count": 750
+        "covered": 602,
+        "count": 857
       },
       "branches": {
-        "covered": 302,
-        "count": 466
+        "covered": 337,
+        "count": 526
       }
     },
     {
@@ -3608,53 +3608,53 @@
       "file": "src/main/menu.c",
       "lines": {
         "covered": 17,
-        "count": 910
+        "count": 955
       },
       "functions": {
         "covered": 1,
-        "count": 27
+        "count": 30
       },
       "regions": {
         "covered": 4,
-        "count": 435
+        "count": 456
       },
       "branches": {
         "covered": 2,
-        "count": 308
+        "count": 318
       }
     },
     {
       "file": "src/main/misc/misc_00_static_sprite.c",
       "lines": {
-        "covered": 15,
-        "count": 15
+        "covered": 38,
+        "count": 38
       },
       "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
         "covered": 5,
         "count": 5
       },
+      "regions": {
+        "covered": 15,
+        "count": 15
+      },
       "branches": {
-        "covered": 1,
-        "count": 2
+        "covered": 3,
+        "count": 4
       }
     },
     {
       "file": "src/main/misc/misc_01_common_effect.c",
       "lines": {
-        "covered": 31,
-        "count": 32
+        "covered": 27,
+        "count": 28
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 13,
-        "count": 14
+        "covered": 16,
+        "count": 17
       },
       "branches": {
         "covered": 3,
@@ -3664,83 +3664,26 @@
     {
       "file": "src/main/misc/misc_02_rubble.c",
       "lines": {
-        "covered": 93,
-        "count": 93
+        "covered": 142,
+        "count": 142
       },
       "functions": {
-        "covered": 3,
-        "count": 3
-      },
-      "regions": {
-        "covered": 25,
-        "count": 25
-      },
-      "branches": {
-        "covered": 13,
-        "count": 18
-      }
-    },
-    {
-      "file": "src/main/misc/misc_04_dragon_rubble.c",
-      "lines": {
-        "covered": 34,
-        "count": 38
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 14,
-        "count": 18
-      },
-      "branches": {
-        "covered": 4,
+        "covered": 6,
         "count": 6
-      }
-    },
-    {
-      "file": "src/main/misc/misc_05_pod_effect.c",
-      "lines": {
-        "covered": 10,
-        "count": 10
-      },
-      "functions": {
-        "covered": 3,
-        "count": 3
       },
       "regions": {
-        "covered": 5,
-        "count": 5
+        "covered": 48,
+        "count": 48
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 24,
+        "count": 30
       }
     },
     {
-      "file": "src/main/misc/misc_06_homing_point.c",
+      "file": "src/main/misc/misc_03_debris.c",
       "lines": {
-        "covered": 12,
-        "count": 12
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 5,
-        "count": 5
-      },
-      "branches": {
-        "covered": 2,
-        "count": 2
-      }
-    },
-    {
-      "file": "src/main/misc/misc_07_attached_effect.c",
-      "lines": {
-        "covered": 19,
+        "covered": 22,
         "count": 22
       },
       "functions": {
@@ -3748,31 +3691,126 @@
         "count": 2
       },
       "regions": {
-        "covered": 11,
-        "count": 12
+        "covered": 15,
+        "count": 15
       },
       "branches": {
-        "covered": 5,
+        "covered": 6,
         "count": 6
+      }
+    },
+    {
+      "file": "src/main/misc/misc_04_dragon_rubble.c",
+      "lines": {
+        "covered": 100,
+        "count": 111
+      },
+      "functions": {
+        "covered": 5,
+        "count": 5
+      },
+      "regions": {
+        "covered": 36,
+        "count": 44
+      },
+      "branches": {
+        "covered": 11,
+        "count": 16
+      }
+    },
+    {
+      "file": "src/main/misc/misc_05_pod_effect.c",
+      "lines": {
+        "covered": 45,
+        "count": 45
+      },
+      "functions": {
+        "covered": 7,
+        "count": 7
+      },
+      "regions": {
+        "covered": 32,
+        "count": 32
+      },
+      "branches": {
+        "covered": 12,
+        "count": 14
+      }
+    },
+    {
+      "file": "src/main/misc/misc_06_homing_point.c",
+      "lines": {
+        "covered": 36,
+        "count": 36
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 17,
+        "count": 17
+      },
+      "branches": {
+        "covered": 10,
+        "count": 10
+      }
+    },
+    {
+      "file": "src/main/misc/misc_07_attached_effect.c",
+      "lines": {
+        "covered": 33,
+        "count": 38
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 17,
+        "count": 19
+      },
+      "branches": {
+        "covered": 8,
+        "count": 10
       }
     },
     {
       "file": "src/main/misc/misc_08_crumbling_tile.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 158,
+        "count": 180
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 9,
+        "count": 9
       },
       "regions": {
-        "covered": 2,
-        "count": 2
+        "covered": 130,
+        "count": 156
+      },
+      "branches": {
+        "covered": 111,
+        "count": 124
+      }
+    },
+    {
+      "file": "src/main/misc/misc_09_owner_fx.c",
+      "lines": {
+        "covered": 0,
+        "count": 35
+      },
+      "functions": {
+        "covered": 0,
+        "count": 3
+      },
+      "regions": {
+        "covered": 0,
+        "count": 19
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 8
       }
     },
     {
@@ -3797,54 +3835,54 @@
     {
       "file": "src/main/misc/misc_11_blink_marker.c",
       "lines": {
-        "covered": 5,
-        "count": 5
+        "covered": 40,
+        "count": 40
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 22,
+        "count": 22
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 14,
+        "count": 14
       }
     },
     {
       "file": "src/main/misc/misc_12_stage_icon.c",
       "lines": {
-        "covered": 6,
-        "count": 6
+        "covered": 18,
+        "count": 25
       },
       "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 4,
+        "covered": 3,
         "count": 4
       },
+      "regions": {
+        "covered": 10,
+        "count": 16
+      },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 6
       }
     },
     {
       "file": "src/main/misc/misc_13_stage_portrait.c",
       "lines": {
-        "covered": 29,
-        "count": 36
+        "covered": 33,
+        "count": 40
       },
       "functions": {
-        "covered": 1,
-        "count": 2
+        "covered": 2,
+        "count": 3
       },
       "regions": {
-        "covered": 11,
-        "count": 16
+        "covered": 12,
+        "count": 17
       },
       "branches": {
         "covered": 7,
@@ -3854,58 +3892,77 @@
     {
       "file": "src/main/misc/misc_14_frame_ghost.c",
       "lines": {
-        "covered": 17,
-        "count": 17
+        "covered": 27,
+        "count": 27
       },
       "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
         "covered": 3,
         "count": 3
       },
+      "regions": {
+        "covered": 10,
+        "count": 10
+      },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 2,
+        "count": 2
       }
     },
     {
       "file": "src/main/misc/misc_15_vent.c",
       "lines": {
-        "covered": 23,
-        "count": 25
+        "covered": 66,
+        "count": 70
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 6,
-        "count": 7
+        "covered": 24,
+        "count": 26
       },
       "branches": {
-        "covered": 3,
-        "count": 4
+        "covered": 12,
+        "count": 14
       }
     },
     {
       "file": "src/main/misc/misc_16_vent_puff.c",
       "lines": {
+        "covered": 28,
+        "count": 28
+      },
+      "functions": {
         "covered": 3,
         "count": 3
       },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
       "regions": {
+        "covered": 14,
+        "count": 14
+      },
+      "branches": {
+        "covered": 4,
+        "count": 4
+      }
+    },
+    {
+      "file": "src/main/misc/misc_17_death_orb.c",
+      "lines": {
+        "covered": 16,
+        "count": 16
+      },
+      "functions": {
         "covered": 2,
         "count": 2
       },
+      "regions": {
+        "covered": 15,
+        "count": 15
+      },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 6,
+        "count": 6
       }
     },
     {
@@ -3949,20 +4006,20 @@
     {
       "file": "src/main/misc/misc_20_scroll_prop.c",
       "lines": {
-        "covered": 19,
-        "count": 19
+        "covered": 39,
+        "count": 39
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 3,
-        "count": 3
+        "covered": 20,
+        "count": 20
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 8,
+        "count": 8
       }
     },
     {
@@ -4025,54 +4082,54 @@
     {
       "file": "src/main/misc/misc_24_enemy_hatch.c",
       "lines": {
-        "covered": 54,
-        "count": 54
+        "covered": 127,
+        "count": 129
       },
       "functions": {
-        "covered": 7,
-        "count": 7
+        "covered": 13,
+        "count": 13
       },
       "regions": {
-        "covered": 24,
-        "count": 24
+        "covered": 47,
+        "count": 48
       },
       "branches": {
-        "covered": 9,
-        "count": 10
+        "covered": 18,
+        "count": 20
       }
     },
     {
       "file": "src/main/misc/misc_25_sentry_flash.c",
       "lines": {
-        "covered": 63,
-        "count": 63
+        "covered": 85,
+        "count": 86
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 39,
+        "count": 41
+      },
+      "branches": {
+        "covered": 38,
+        "count": 40
+      }
+    },
+    {
+      "file": "src/main/misc/misc_26_slash_beast_afterimage.c",
+      "lines": {
+        "covered": 6,
+        "count": 6
       },
       "functions": {
         "covered": 2,
         "count": 2
       },
       "regions": {
-        "covered": 22,
-        "count": 22
-      },
-      "branches": {
-        "covered": 31,
-        "count": 32
-      }
-    },
-    {
-      "file": "src/main/misc/misc_26_slash_beast_afterimage.c",
-      "lines": {
         "covered": 3,
         "count": 3
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 1,
-        "count": 1
       },
       "branches": {
         "covered": 0,
@@ -4082,16 +4139,16 @@
     {
       "file": "src/main/misc/misc_27_owner_aura.c",
       "lines": {
-        "covered": 25,
-        "count": 25
+        "covered": 28,
+        "count": 28
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 16,
-        "count": 16
+        "covered": 18,
+        "count": 18
       },
       "branches": {
         "covered": 10,
@@ -4102,19 +4159,19 @@
       "file": "src/main/misc/misc_28_select_a_character.c",
       "lines": {
         "covered": 0,
-        "count": 282
+        "count": 333
       },
       "functions": {
         "covered": 0,
-        "count": 20
+        "count": 21
       },
       "regions": {
         "covered": 0,
-        "count": 151
+        "count": 173
       },
       "branches": {
         "covered": 0,
-        "count": 128
+        "count": 144
       }
     },
     {
@@ -4139,16 +4196,16 @@
     {
       "file": "src/main/misc/misc_30_spore_rain_fx.c",
       "lines": {
-        "covered": 20,
-        "count": 31
+        "covered": 26,
+        "count": 37
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 15,
-        "count": 21
+        "covered": 18,
+        "count": 24
       },
       "branches": {
         "covered": 6,
@@ -4158,35 +4215,35 @@
     {
       "file": "src/main/misc/misc_31_option_toggle.c",
       "lines": {
-        "covered": 18,
-        "count": 26
+        "covered": 22,
+        "count": 42
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 2,
+        "count": 3
       },
       "regions": {
-        "covered": 33,
-        "count": 39
+        "covered": 34,
+        "count": 47
       },
       "branches": {
         "covered": 17,
-        "count": 28
+        "count": 32
       }
     },
     {
       "file": "src/main/misc/misc_32_option_sprite.c",
       "lines": {
-        "covered": 9,
-        "count": 18
+        "covered": 13,
+        "count": 22
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 2,
+        "count": 2
       },
       "regions": {
-        "covered": 8,
-        "count": 29
+        "covered": 9,
+        "count": 30
       },
       "branches": {
         "covered": 4,
@@ -4196,16 +4253,16 @@
     {
       "file": "src/main/misc/misc_33_cyberspace_warp.c",
       "lines": {
-        "covered": 40,
-        "count": 42
+        "covered": 51,
+        "count": 53
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 7,
+        "count": 7
       },
       "regions": {
-        "covered": 25,
-        "count": 26
+        "covered": 29,
+        "count": 30
       },
       "branches": {
         "covered": 9,
@@ -4215,35 +4272,73 @@
     {
       "file": "src/main/misc/misc_34_cyberspace_guide.c",
       "lines": {
-        "covered": 37,
-        "count": 37
+        "covered": 119,
+        "count": 123
+      },
+      "functions": {
+        "covered": 11,
+        "count": 11
+      },
+      "regions": {
+        "covered": 48,
+        "count": 50
+      },
+      "branches": {
+        "covered": 18,
+        "count": 20
+      }
+    },
+    {
+      "file": "src/main/misc/misc_35_cyclone_trail.c",
+      "lines": {
+        "covered": 15,
+        "count": 15
+      },
+      "functions": {
+        "covered": 2,
+        "count": 2
+      },
+      "regions": {
+        "covered": 10,
+        "count": 10
+      },
+      "branches": {
+        "covered": 4,
+        "count": 4
+      }
+    },
+    {
+      "file": "src/main/misc/misc_36_item_sparkle.c",
+      "lines": {
+        "covered": 0,
+        "count": 17
+      },
+      "functions": {
+        "covered": 0,
+        "count": 3
+      },
+      "regions": {
+        "covered": 0,
+        "count": 13
+      },
+      "branches": {
+        "covered": 0,
+        "count": 4
+      }
+    },
+    {
+      "file": "src/main/misc/misc_38_dragoon_flame.c",
+      "lines": {
+        "covered": 20,
+        "count": 20
       },
       "functions": {
         "covered": 4,
         "count": 4
       },
       "regions": {
-        "covered": 19,
-        "count": 19
-      },
-      "branches": {
-        "covered": 12,
-        "count": 12
-      }
-    },
-    {
-      "file": "src/main/misc/misc_35_cyclone_trail.c",
-      "lines": {
-        "covered": 8,
-        "count": 8
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 6,
-        "count": 6
+        "covered": 11,
+        "count": 11
       },
       "branches": {
         "covered": 2,
@@ -4253,16 +4348,16 @@
     {
       "file": "src/main/misc/misc_39_iris_intro_crystal.c",
       "lines": {
-        "covered": 41,
-        "count": 41
+        "covered": 51,
+        "count": 51
       },
       "functions": {
-        "covered": 5,
-        "count": 5
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 21,
-        "count": 21
+        "covered": 26,
+        "count": 26
       },
       "branches": {
         "covered": 8,
@@ -4272,16 +4367,16 @@
     {
       "file": "src/main/misc/misc_40_ambient_bubble.c",
       "lines": {
-        "covered": 16,
-        "count": 16
+        "covered": 22,
+        "count": 25
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 10,
-        "count": 10
+        "covered": 12,
+        "count": 14
       },
       "branches": {
         "covered": 4,
@@ -4289,18 +4384,37 @@
       }
     },
     {
-      "file": "src/main/misc/misc_43_intro_messenger.c",
+      "file": "src/main/misc/misc_42_menu_icon.c",
       "lines": {
-        "covered": 81,
-        "count": 85
+        "covered": 0,
+        "count": 5
       },
       "functions": {
-        "covered": 10,
-        "count": 10
+        "covered": 0,
+        "count": 1
       },
       "regions": {
-        "covered": 39,
-        "count": 41
+        "covered": 0,
+        "count": 1
+      },
+      "branches": {
+        "covered": 0,
+        "count": 0
+      }
+    },
+    {
+      "file": "src/main/misc/misc_43_intro_messenger.c",
+      "lines": {
+        "covered": 82,
+        "count": 86
+      },
+      "functions": {
+        "covered": 12,
+        "count": 12
+      },
+      "regions": {
+        "covered": 45,
+        "count": 47
       },
       "branches": {
         "covered": 18,
@@ -4310,153 +4424,210 @@
     {
       "file": "src/main/misc/misc_44_stage_cutscene.c",
       "lines": {
-        "covered": 0,
-        "count": 33
+        "covered": 8,
+        "count": 107
       },
       "functions": {
-        "covered": 0,
-        "count": 3
+        "covered": 2,
+        "count": 12
       },
       "regions": {
-        "covered": 0,
-        "count": 17
+        "covered": 5,
+        "count": 53
       },
       "branches": {
-        "covered": 0,
-        "count": 16
+        "covered": 1,
+        "count": 32
       }
     },
     {
       "file": "src/main/misc/misc_45_scripted_slider.c",
       "lines": {
-        "covered": 38,
-        "count": 38
+        "covered": 47,
+        "count": 50
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 6,
+        "count": 7
       },
       "regions": {
-        "covered": 22,
-        "count": 22
+        "covered": 27,
+        "count": 29
       },
       "branches": {
-        "covered": 12,
-        "count": 12
+        "covered": 14,
+        "count": 14
       }
     },
     {
       "file": "src/main/misc/misc_46_post_boss_cutscene.c",
       "lines": {
         "covered": 0,
-        "count": 121
+        "count": 156
       },
       "functions": {
         "covered": 0,
-        "count": 12
+        "count": 16
       },
       "regions": {
         "covered": 0,
-        "count": 61
+        "count": 77
       },
       "branches": {
         "covered": 0,
-        "count": 34
+        "count": 36
+      }
+    },
+    {
+      "file": "src/main/misc/misc_49_double_afterimage.c",
+      "lines": {
+        "covered": 18,
+        "count": 25
+      },
+      "functions": {
+        "covered": 3,
+        "count": 3
+      },
+      "regions": {
+        "covered": 12,
+        "count": 18
+      },
+      "branches": {
+        "covered": 3,
+        "count": 6
+      }
+    },
+    {
+      "file": "src/main/misc/misc_50_cutscene_actor.c",
+      "lines": {
+        "covered": 0,
+        "count": 18
+      },
+      "functions": {
+        "covered": 0,
+        "count": 4
+      },
+      "regions": {
+        "covered": 0,
+        "count": 10
+      },
+      "branches": {
+        "covered": 0,
+        "count": 2
       }
     },
     {
       "file": "src/main/misc/misc_51_capsule_part.c",
       "lines": {
-        "covered": 30,
-        "count": 40
+        "covered": 77,
+        "count": 87
       },
       "functions": {
-        "covered": 5,
-        "count": 6
+        "covered": 10,
+        "count": 11
       },
       "regions": {
-        "covered": 15,
-        "count": 21
+        "covered": 32,
+        "count": 38
       },
       "branches": {
-        "covered": 4,
-        "count": 6
+        "covered": 10,
+        "count": 12
       }
     },
     {
       "file": "src/main/misc/misc_52_npc_cutscene.c",
       "lines": {
         "covered": 0,
-        "count": 77
+        "count": 132
       },
       "functions": {
         "covered": 0,
-        "count": 5
+        "count": 14
       },
       "regions": {
         "covered": 0,
-        "count": 42
+        "count": 70
       },
       "branches": {
         "covered": 0,
-        "count": 30
+        "count": 44
       }
     },
     {
       "file": "src/main/misc/misc_53_final_cutscene.c",
       "lines": {
         "covered": 0,
-        "count": 32
+        "count": 133
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 13
       },
       "regions": {
         "covered": 0,
-        "count": 8
+        "count": 57
       },
       "branches": {
         "covered": 0,
-        "count": 4
+        "count": 28
+      }
+    },
+    {
+      "file": "src/main/misc/misc_55_sigma_final_fx.c",
+      "lines": {
+        "covered": 15,
+        "count": 39
+      },
+      "functions": {
+        "covered": 3,
+        "count": 5
+      },
+      "regions": {
+        "covered": 7,
+        "count": 21
+      },
+      "branches": {
+        "covered": 3,
+        "count": 10
       }
     },
     {
       "file": "src/main/misc/misc_57_falling_piece.c",
       "lines": {
-        "covered": 0,
-        "count": 79
+        "covered": 29,
+        "count": 108
       },
       "functions": {
-        "covered": 0,
-        "count": 5
+        "covered": 4,
+        "count": 9
       },
       "regions": {
-        "covered": 0,
-        "count": 33
+        "covered": 13,
+        "count": 46
       },
       "branches": {
-        "covered": 0,
-        "count": 24
+        "covered": 2,
+        "count": 26
       }
     },
     {
       "file": "src/main/object_motion.c",
       "lines": {
-        "covered": 82,
-        "count": 107
+        "covered": 137,
+        "count": 162
       },
       "functions": {
-        "covered": 8,
-        "count": 9
+        "covered": 10,
+        "count": 11
       },
       "regions": {
-        "covered": 28,
-        "count": 38
+        "covered": 60,
+        "count": 70
       },
       "branches": {
-        "covered": 12,
-        "count": 18
+        "covered": 34,
+        "count": 40
       }
     },
     {
@@ -4519,115 +4690,115 @@
     {
       "file": "src/main/player.c",
       "lines": {
-        "covered": 314,
-        "count": 365
+        "covered": 762,
+        "count": 894
       },
       "functions": {
-        "covered": 20,
-        "count": 20
+        "covered": 45,
+        "count": 47
       },
       "regions": {
-        "covered": 215,
-        "count": 248
+        "covered": 565,
+        "count": 633
       },
       "branches": {
-        "covered": 137,
-        "count": 180
+        "covered": 364,
+        "count": 446
       }
     },
     {
       "file": "src/main/player_check.c",
       "lines": {
-        "covered": 277,
-        "count": 327
+        "covered": 363,
+        "count": 439
       },
       "functions": {
-        "covered": 17,
-        "count": 19
+        "covered": 21,
+        "count": 24
       },
       "regions": {
-        "covered": 213,
-        "count": 234
+        "covered": 286,
+        "count": 322
       },
       "branches": {
-        "covered": 142,
-        "count": 168
+        "covered": 187,
+        "count": 226
       }
     },
     {
       "file": "src/main/player_common.c",
       "lines": {
-        "covered": 468,
-        "count": 509
+        "covered": 781,
+        "count": 829
       },
       "functions": {
-        "covered": 30,
-        "count": 31
+        "covered": 43,
+        "count": 44
       },
       "regions": {
-        "covered": 225,
-        "count": 241
+        "covered": 349,
+        "count": 372
       },
       "branches": {
-        "covered": 131,
-        "count": 154
+        "covered": 199,
+        "count": 230
       }
     },
     {
       "file": "src/main/player_enter.c",
       "lines": {
-        "covered": 171,
-        "count": 179
+        "covered": 294,
+        "count": 314
       },
       "functions": {
-        "covered": 12,
-        "count": 13
-      },
-      "regions": {
-        "covered": 51,
-        "count": 53
-      },
-      "branches": {
         "covered": 22,
         "count": 24
+      },
+      "regions": {
+        "covered": 91,
+        "count": 95
+      },
+      "branches": {
+        "covered": 41,
+        "count": 46
       }
     },
     {
       "file": "src/main/player_special.c",
       "lines": {
-        "covered": 456,
-        "count": 938
+        "covered": 615,
+        "count": 1328
       },
       "functions": {
-        "covered": 29,
-        "count": 47
+        "covered": 40,
+        "count": 70
       },
       "regions": {
-        "covered": 320,
-        "count": 543
+        "covered": 418,
+        "count": 787
       },
       "branches": {
-        "covered": 187,
-        "count": 368
+        "covered": 240,
+        "count": 520
       }
     },
     {
       "file": "src/main/player_weapon.c",
       "lines": {
-        "covered": 365,
-        "count": 508
+        "covered": 441,
+        "count": 609
       },
       "functions": {
-        "covered": 24,
-        "count": 26
+        "covered": 31,
+        "count": 34
       },
       "regions": {
-        "covered": 288,
-        "count": 350
+        "covered": 339,
+        "count": 411
       },
       "branches": {
-        "covered": 205,
-        "count": 274
+        "covered": 236,
+        "count": 316
       }
     },
     {
@@ -4672,34 +4843,53 @@
       "file": "src/main/quads/quad_02_stage_select_flyout.c",
       "lines": {
         "covered": 0,
-        "count": 31
+        "count": 39
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 4
       },
       "regions": {
         "covered": 0,
-        "count": 5
+        "count": 9
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 2
       }
     },
     {
       "file": "src/main/quads/quad_03_boss_warning_quad.c",
       "lines": {
-        "covered": 7,
-        "count": 7
+        "covered": 68,
+        "count": 68
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 6,
+        "count": 6
       },
       "regions": {
+        "covered": 42,
+        "count": 42
+      },
+      "branches": {
+        "covered": 22,
+        "count": 22
+      }
+    },
+    {
+      "file": "src/main/quads/quad_04_boss_death_shard.c",
+      "lines": {
+        "covered": 23,
+        "count": 23
+      },
+      "functions": {
         "covered": 4,
         "count": 4
+      },
+      "regions": {
+        "covered": 7,
+        "count": 7
       },
       "branches": {
         "covered": 2,
@@ -4709,35 +4899,35 @@
     {
       "file": "src/main/quads/quad_05_web_piece_quad.c",
       "lines": {
-        "covered": 22,
-        "count": 28
+        "covered": 77,
+        "count": 83
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 7,
-        "count": 9
+        "covered": 30,
+        "count": 34
       },
       "branches": {
-        "covered": 4,
-        "count": 6
+        "covered": 10,
+        "count": 18
       }
     },
     {
       "file": "src/main/quads/quad_06_light_ray.c",
       "lines": {
-        "covered": 23,
-        "count": 25
+        "covered": 29,
+        "count": 31
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 13,
-        "count": 14
+        "covered": 15,
+        "count": 16
       },
       "branches": {
         "covered": 7,
@@ -4747,58 +4937,77 @@
     {
       "file": "src/main/quads/quad_07_ready_line.c",
       "lines": {
-        "covered": 261,
-        "count": 266
+        "covered": 287,
+        "count": 295
       },
       "functions": {
-        "covered": 8,
-        "count": 9
+        "covered": 9,
+        "count": 10
       },
       "regions": {
-        "covered": 68,
-        "count": 70
+        "covered": 80,
+        "count": 83
       },
       "branches": {
-        "covered": 57,
-        "count": 64
+        "covered": 65,
+        "count": 74
       }
     },
     {
       "file": "src/main/quads/quad_08_flash_band.c",
       "lines": {
-        "covered": 20,
-        "count": 20
+        "covered": 32,
+        "count": 32
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 3,
-        "count": 3
+        "covered": 8,
+        "count": 8
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 2,
+        "count": 2
       }
     },
     {
       "file": "src/main/quads/quad_09_aiming_laser_beam.c",
       "lines": {
-        "covered": 23,
-        "count": 23
+        "covered": 46,
+        "count": 58
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 11,
-        "count": 11
+        "covered": 26,
+        "count": 32
       },
       "branches": {
-        "covered": 4,
+        "covered": 16,
+        "count": 22
+      }
+    },
+    {
+      "file": "src/main/quads/quad_10_aiming_laser_charged_beam.c",
+      "lines": {
+        "covered": 0,
+        "count": 79
+      },
+      "functions": {
+        "covered": 0,
         "count": 4
+      },
+      "regions": {
+        "covered": 0,
+        "count": 39
+      },
+      "branches": {
+        "covered": 0,
+        "count": 26
       }
     },
     {
@@ -4861,20 +5070,20 @@
     {
       "file": "src/main/quads/quad_14_colonel_beam.c",
       "lines": {
-        "covered": 37,
-        "count": 37
+        "covered": 58,
+        "count": 62
       },
       "functions": {
-        "covered": 6,
-        "count": 6
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 17,
-        "count": 17
+        "covered": 23,
+        "count": 27
       },
       "branches": {
-        "covered": 6,
-        "count": 6
+        "covered": 9,
+        "count": 12
       }
     },
     {
@@ -4918,339 +5127,187 @@
     {
       "file": "src/main/shots/shot_00_dragon_shot.c",
       "lines": {
-        "covered": 38,
-        "count": 38
+        "covered": 84,
+        "count": 102
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 7,
+        "count": 8
       },
       "regions": {
-        "covered": 14,
-        "count": 14
+        "covered": 30,
+        "count": 36
       },
       "branches": {
-        "covered": 6,
-        "count": 8
+        "covered": 14,
+        "count": 20
       }
     },
     {
       "file": "src/main/shots/shot_01_drill_copter_shot.c",
       "lines": {
         "covered": 0,
-        "count": 3
+        "count": 19
       },
       "functions": {
         "covered": 0,
-        "count": 1
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 1
+        "count": 14
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 4
       }
     },
     {
       "file": "src/main/shots/shot_02_gunner_shot.c",
       "lines": {
-        "covered": 57,
-        "count": 60
+        "covered": 153,
+        "count": 162
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 15,
+        "count": 16
       },
       "regions": {
-        "covered": 36,
-        "count": 39
+        "covered": 97,
+        "count": 103
       },
       "branches": {
-        "covered": 16,
-        "count": 20
+        "covered": 41,
+        "count": 50
       }
     },
     {
       "file": "src/main/shots/shot_06_wall_crawler_shot.c",
       "lines": {
-        "covered": 54,
-        "count": 69
+        "covered": 81,
+        "count": 99
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 4,
+        "count": 5
       },
       "regions": {
-        "covered": 17,
-        "count": 24
+        "covered": 41,
+        "count": 49
       },
       "branches": {
-        "covered": 25,
-        "count": 34
+        "covered": 33,
+        "count": 44
       }
     },
     {
       "file": "src/main/shots/shot_07_dropped_bomb.c",
       "lines": {
-        "covered": 3,
-        "count": 5
+        "covered": 25,
+        "count": 27
       },
       "functions": {
-        "covered": 1,
-        "count": 2
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 2
+        "covered": 20,
+        "count": 21
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 5,
+        "count": 6
       }
     },
     {
       "file": "src/main/shots/shot_08_shell_crawler_shot.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 44,
+        "count": 46
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 21,
+        "count": 22
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 7,
+        "count": 8
       }
     },
     {
       "file": "src/main/shots/shot_09_trident_shot.c",
       "lines": {
-        "covered": 21,
-        "count": 25
+        "covered": 44,
+        "count": 48
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 15,
-        "count": 17
+        "covered": 31,
+        "count": 33
       },
       "branches": {
-        "covered": 6,
-        "count": 8
+        "covered": 10,
+        "count": 14
       }
     },
     {
       "file": "src/main/shots/shot_10_dragon_spread_shot.c",
       "lines": {
-        "covered": 3,
-        "count": 5
+        "covered": 42,
+        "count": 53
       },
       "functions": {
-        "covered": 1,
-        "count": 2
+        "covered": 4,
+        "count": 5
       },
       "regions": {
-        "covered": 1,
-        "count": 2
+        "covered": 14,
+        "count": 23
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 2,
+        "count": 6
       }
     },
     {
       "file": "src/main/shots/shot_11_enemy_bullet.c",
       "lines": {
+        "covered": 17,
+        "count": 18
+      },
+      "functions": {
         "covered": 3,
         "count": 3
       },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 16,
+        "count": 18
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 5,
+        "count": 6
       }
     },
     {
       "file": "src/main/shots/shot_12_ice_core_shot.c",
       "lines": {
+        "covered": 57,
+        "count": 72
+      },
+      "functions": {
         "covered": 6,
         "count": 6
       },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
       "regions": {
-        "covered": 3,
-        "count": 3
-      },
-      "branches": {
-        "covered": 2,
-        "count": 2
-      }
-    },
-    {
-      "file": "src/main/shots/shot_13_jet_drone_bullet.c",
-      "lines": {
-        "covered": 3,
-        "count": 3
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 1,
-        "count": 1
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
-      }
-    },
-    {
-      "file": "src/main/shots/shot_14_dash_gunner_shot.c",
-      "lines": {
-        "covered": 27,
-        "count": 31
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 19,
-        "count": 22
-      },
-      "branches": {
-        "covered": 8,
-        "count": 10
-      }
-    },
-    {
-      "file": "src/main/shots/shot_15_turret_laser.c",
-      "lines": {
-        "covered": 8,
-        "count": 13
-      },
-      "functions": {
-        "covered": 2,
-        "count": 4
-      },
-      "regions": {
-        "covered": 4,
-        "count": 6
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
-      }
-    },
-    {
-      "file": "src/main/shots/shot_16_linked_spark.c",
-      "lines": {
-        "covered": 3,
-        "count": 3
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 1,
-        "count": 1
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
-      }
-    },
-    {
-      "file": "src/main/shots/shot_17_depth_charge.c",
-      "lines": {
-        "covered": 23,
-        "count": 28
-      },
-      "functions": {
-        "covered": 2,
-        "count": 4
-      },
-      "regions": {
-        "covered": 14,
-        "count": 16
-      },
-      "branches": {
-        "covered": 6,
-        "count": 8
-      }
-    },
-    {
-      "file": "src/main/shots/shot_18_aimed_bullet.c",
-      "lines": {
-        "covered": 3,
-        "count": 3
-      },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
-      "regions": {
-        "covered": 1,
-        "count": 1
-      },
-      "branches": {
-        "covered": 0,
-        "count": 0
-      }
-    },
-    {
-      "file": "src/main/shots/shot_19_trooper_bomb.c",
-      "lines": {
-        "covered": 24,
-        "count": 24
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 13,
-        "count": 13
-      },
-      "branches": {
-        "covered": 8,
-        "count": 8
-      }
-    },
-    {
-      "file": "src/main/shots/shot_20_cannon_blast.c",
-      "lines": {
-        "covered": 33,
-        "count": 42
-      },
-      "functions": {
-        "covered": 2,
-        "count": 3
-      },
-      "regions": {
-        "covered": 26,
-        "count": 32
+        "covered": 41,
+        "count": 45
       },
       "branches": {
         "covered": 17,
@@ -5258,18 +5315,170 @@
       }
     },
     {
-      "file": "src/main/shots/shot_21_cannon_shell.c",
+      "file": "src/main/shots/shot_13_jet_drone_bullet.c",
       "lines": {
-        "covered": 46,
-        "count": 52
+        "covered": 44,
+        "count": 46
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
         "covered": 26,
-        "count": 29
+        "count": 27
+      },
+      "branches": {
+        "covered": 8,
+        "count": 12
+      }
+    },
+    {
+      "file": "src/main/shots/shot_14_dash_gunner_shot.c",
+      "lines": {
+        "covered": 48,
+        "count": 52
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 25,
+        "count": 28
+      },
+      "branches": {
+        "covered": 10,
+        "count": 12
+      }
+    },
+    {
+      "file": "src/main/shots/shot_15_turret_laser.c",
+      "lines": {
+        "covered": 46,
+        "count": 56
+      },
+      "functions": {
+        "covered": 5,
+        "count": 7
+      },
+      "regions": {
+        "covered": 22,
+        "count": 26
+      },
+      "branches": {
+        "covered": 3,
+        "count": 4
+      }
+    },
+    {
+      "file": "src/main/shots/shot_16_linked_spark.c",
+      "lines": {
+        "covered": 35,
+        "count": 43
+      },
+      "functions": {
+        "covered": 3,
+        "count": 3
+      },
+      "regions": {
+        "covered": 13,
+        "count": 15
+      },
+      "branches": {
+        "covered": 11,
+        "count": 16
+      }
+    },
+    {
+      "file": "src/main/shots/shot_17_depth_charge.c",
+      "lines": {
+        "covered": 87,
+        "count": 92
+      },
+      "functions": {
+        "covered": 6,
+        "count": 8
+      },
+      "regions": {
+        "covered": 44,
+        "count": 46
+      },
+      "branches": {
+        "covered": 14,
+        "count": 16
+      }
+    },
+    {
+      "file": "src/main/shots/shot_18_aimed_bullet.c",
+      "lines": {
+        "covered": 35,
+        "count": 36
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 20,
+        "count": 22
+      },
+      "branches": {
+        "covered": 5,
+        "count": 6
+      }
+    },
+    {
+      "file": "src/main/shots/shot_19_trooper_bomb.c",
+      "lines": {
+        "covered": 37,
+        "count": 37
+      },
+      "functions": {
+        "covered": 4,
+        "count": 4
+      },
+      "regions": {
+        "covered": 21,
+        "count": 21
+      },
+      "branches": {
+        "covered": 10,
+        "count": 10
+      }
+    },
+    {
+      "file": "src/main/shots/shot_20_cannon_blast.c",
+      "lines": {
+        "covered": 64,
+        "count": 73
+      },
+      "functions": {
+        "covered": 4,
+        "count": 5
+      },
+      "regions": {
+        "covered": 32,
+        "count": 38
+      },
+      "branches": {
+        "covered": 19,
+        "count": 24
+      }
+    },
+    {
+      "file": "src/main/shots/shot_21_cannon_shell.c",
+      "lines": {
+        "covered": 49,
+        "count": 55
+      },
+      "functions": {
+        "covered": 3,
+        "count": 4
+      },
+      "regions": {
+        "covered": 28,
+        "count": 31
       },
       "branches": {
         "covered": 11,
@@ -5279,27 +5488,65 @@
     {
       "file": "src/main/shots/shot_22_web_shot.c",
       "lines": {
-        "covered": 92,
-        "count": 95
+        "covered": 119,
+        "count": 122
       },
       "functions": {
-        "covered": 7,
-        "count": 7
+        "covered": 9,
+        "count": 9
       },
       "regions": {
-        "covered": 68,
-        "count": 70
+        "covered": 78,
+        "count": 80
       },
       "branches": {
-        "covered": 39,
-        "count": 46
+        "covered": 43,
+        "count": 50
       }
     },
     {
       "file": "src/main/shots/shot_23_web_thread.c",
       "lines": {
-        "covered": 27,
-        "count": 44
+        "covered": 49,
+        "count": 97
+      },
+      "functions": {
+        "covered": 5,
+        "count": 7
+      },
+      "regions": {
+        "covered": 23,
+        "count": 40
+      },
+      "branches": {
+        "covered": 10,
+        "count": 22
+      }
+    },
+    {
+      "file": "src/main/shots/shot_24_train_boss_shot.c",
+      "lines": {
+        "covered": 0,
+        "count": 197
+      },
+      "functions": {
+        "covered": 0,
+        "count": 15
+      },
+      "regions": {
+        "covered": 0,
+        "count": 83
+      },
+      "branches": {
+        "covered": 0,
+        "count": 48
+      }
+    },
+    {
+      "file": "src/main/shots/shot_25_grenade.c",
+      "lines": {
+        "covered": 25,
+        "count": 27
       },
       "functions": {
         "covered": 3,
@@ -5307,45 +5554,7 @@
       },
       "regions": {
         "covered": 18,
-        "count": 24
-      },
-      "branches": {
-        "covered": 9,
-        "count": 14
-      }
-    },
-    {
-      "file": "src/main/shots/shot_24_train_boss_shot.c",
-      "lines": {
-        "covered": 0,
-        "count": 76
-      },
-      "functions": {
-        "covered": 0,
-        "count": 7
-      },
-      "regions": {
-        "covered": 0,
-        "count": 28
-      },
-      "branches": {
-        "covered": 0,
-        "count": 14
-      }
-    },
-    {
-      "file": "src/main/shots/shot_25_grenade.c",
-      "lines": {
-        "covered": 22,
-        "count": 24
-      },
-      "functions": {
-        "covered": 2,
-        "count": 3
-      },
-      "regions": {
-        "covered": 16,
-        "count": 17
+        "count": 19
       },
       "branches": {
         "covered": 10,
@@ -5355,92 +5564,92 @@
     {
       "file": "src/main/shots/shot_26_sentry_shot.c",
       "lines": {
-        "covered": 72,
-        "count": 74
+        "covered": 98,
+        "count": 100
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 4,
+        "count": 5
       },
       "regions": {
-        "covered": 23,
-        "count": 24
+        "covered": 44,
+        "count": 45
       },
       "branches": {
-        "covered": 32,
-        "count": 34
+        "covered": 40,
+        "count": 42
       }
     },
     {
       "file": "src/main/shots/shot_27_jump_shooter_shot.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 42,
+        "count": 46
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 21,
+        "count": 24
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 5,
+        "count": 8
       }
     },
     {
       "file": "src/main/shots/shot_28_melee_hitbox.c",
       "lines": {
         "covered": 0,
-        "count": 6
+        "count": 43
       },
       "functions": {
         "covered": 0,
-        "count": 1
+        "count": 4
       },
       "regions": {
         "covered": 0,
-        "count": 1
+        "count": 12
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 4
       }
     },
     {
       "file": "src/main/shots/shot_29_cannon_missile.c",
       "lines": {
-        "covered": 3,
-        "count": 5
+        "covered": 76,
+        "count": 82
       },
       "functions": {
-        "covered": 1,
-        "count": 2
+        "covered": 4,
+        "count": 5
       },
       "regions": {
-        "covered": 1,
-        "count": 2
+        "covered": 39,
+        "count": 42
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 23,
+        "count": 28
       }
     },
     {
       "file": "src/main/shots/shot_30_cannon_shot.c",
       "lines": {
-        "covered": 21,
-        "count": 23
+        "covered": 24,
+        "count": 26
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 4,
-        "count": 5
+        "covered": 6,
+        "count": 7
       },
       "branches": {
         "covered": 1,
@@ -5450,111 +5659,111 @@
     {
       "file": "src/main/shots/shot_31_slash_beast_crescent.c",
       "lines": {
+        "covered": 17,
+        "count": 20
+      },
+      "functions": {
         "covered": 3,
         "count": 3
       },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 13,
+        "count": 15
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 3,
+        "count": 4
       }
     },
     {
       "file": "src/main/shots/shot_32_flame_pillar.c",
       "lines": {
+        "covered": 14,
+        "count": 14
+      },
+      "functions": {
         "covered": 3,
         "count": 3
       },
-      "functions": {
-        "covered": 1,
-        "count": 1
-      },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 8,
+        "count": 8
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 2,
+        "count": 2
       }
     },
     {
       "file": "src/main/shots/shot_33_falling_rock.c",
       "lines": {
+        "covered": 144,
+        "count": 180
+      },
+      "functions": {
         "covered": 7,
         "count": 7
       },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
       "regions": {
-        "covered": 2,
-        "count": 2
+        "covered": 91,
+        "count": 104
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 58,
+        "count": 80
       }
     },
     {
       "file": "src/main/shots/shot_34_ray_trap.c",
       "lines": {
-        "covered": 29,
-        "count": 49
+        "covered": 34,
+        "count": 87
       },
       "functions": {
-        "covered": 2,
-        "count": 4
+        "covered": 3,
+        "count": 6
       },
       "regions": {
-        "covered": 17,
-        "count": 28
+        "covered": 20,
+        "count": 47
       },
       "branches": {
-        "covered": 8,
-        "count": 16
+        "covered": 9,
+        "count": 24
       }
     },
     {
       "file": "src/main/shots/shot_35_walrus_ice.c",
       "lines": {
-        "covered": 132,
-        "count": 209
+        "covered": 319,
+        "count": 518
       },
       "functions": {
-        "covered": 7,
-        "count": 10
+        "covered": 24,
+        "count": 34
       },
       "regions": {
-        "covered": 56,
-        "count": 79
+        "covered": 140,
+        "count": 215
       },
       "branches": {
-        "covered": 23,
-        "count": 40
+        "covered": 56,
+        "count": 102
       }
     },
     {
       "file": "src/main/shots/shot_36_drone_beam.c",
       "lines": {
-        "covered": 65,
-        "count": 83
+        "covered": 68,
+        "count": 86
       },
       "functions": {
-        "covered": 4,
-        "count": 5
+        "covered": 5,
+        "count": 6
       },
       "regions": {
-        "covered": 42,
-        "count": 53
+        "covered": 44,
+        "count": 55
       },
       "branches": {
         "covered": 26,
@@ -5564,35 +5773,35 @@
     {
       "file": "src/main/shots/shot_37_owl_feather.c",
       "lines": {
-        "covered": 3,
-        "count": 5
+        "covered": 11,
+        "count": 13
       },
       "functions": {
-        "covered": 1,
-        "count": 2
+        "covered": 2,
+        "count": 3
       },
       "regions": {
-        "covered": 1,
-        "count": 2
+        "covered": 8,
+        "count": 9
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 3,
+        "count": 4
       }
     },
     {
       "file": "src/main/shots/shot_38_owl_cyclone.c",
       "lines": {
-        "covered": 53,
-        "count": 86
+        "covered": 56,
+        "count": 89
       },
       "functions": {
-        "covered": 3,
-        "count": 4
+        "covered": 4,
+        "count": 5
       },
       "regions": {
-        "covered": 27,
-        "count": 42
+        "covered": 29,
+        "count": 44
       },
       "branches": {
         "covered": 11,
@@ -5602,244 +5811,244 @@
     {
       "file": "src/main/shots/shot_39_mushroom_shot.c",
       "lines": {
-        "covered": 73,
-        "count": 81
+        "covered": 221,
+        "count": 249
       },
       "functions": {
-        "covered": 5,
-        "count": 5
+        "covered": 17,
+        "count": 17
       },
       "regions": {
-        "covered": 35,
-        "count": 39
+        "covered": 112,
+        "count": 125
       },
       "branches": {
-        "covered": 17,
-        "count": 20
+        "covered": 52,
+        "count": 62
       }
     },
     {
       "file": "src/main/shots/shot_40_hatch_blast.c",
       "lines": {
-        "covered": 35,
-        "count": 37
+        "covered": 85,
+        "count": 87
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 7,
+        "count": 7
       },
       "regions": {
-        "covered": 20,
-        "count": 22
+        "covered": 39,
+        "count": 41
       },
       "branches": {
-        "covered": 10,
-        "count": 12
+        "covered": 19,
+        "count": 22
       }
     },
     {
       "file": "src/main/shots/shot_41_magma_fire.c",
       "lines": {
-        "covered": 35,
-        "count": 44
+        "covered": 92,
+        "count": 133
       },
       "functions": {
-        "covered": 3,
-        "count": 6
+        "covered": 9,
+        "count": 14
       },
       "regions": {
-        "covered": 17,
-        "count": 20
+        "covered": 49,
+        "count": 70
       },
       "branches": {
-        "covered": 10,
-        "count": 10
+        "covered": 20,
+        "count": 28
       }
     },
     {
       "file": "src/main/shots/shot_42_peacock_missile.c",
       "lines": {
-        "covered": 33,
-        "count": 39
+        "covered": 60,
+        "count": 67
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 27,
-        "count": 29
+        "covered": 40,
+        "count": 43
       },
       "branches": {
-        "covered": 12,
-        "count": 16
+        "covered": 17,
+        "count": 22
       }
     },
     {
       "file": "src/main/shots/shot_43_gunship_shot.c",
       "lines": {
-        "covered": 3,
-        "count": 48
+        "covered": 17,
+        "count": 66
       },
       "functions": {
-        "covered": 1,
-        "count": 3
+        "covered": 3,
+        "count": 5
       },
       "regions": {
-        "covered": 1,
-        "count": 26
+        "covered": 14,
+        "count": 41
       },
       "branches": {
-        "covered": 0,
-        "count": 12
+        "covered": 3,
+        "count": 16
       }
     },
     {
       "file": "src/main/shots/shot_44_iris_shot.c",
       "lines": {
-        "covered": 76,
-        "count": 88
+        "covered": 179,
+        "count": 204
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 17,
+        "count": 19
       },
       "regions": {
-        "covered": 30,
-        "count": 37
+        "covered": 82,
+        "count": 97
       },
       "branches": {
-        "covered": 14,
-        "count": 18
+        "covered": 40,
+        "count": 50
       }
     },
     {
       "file": "src/main/shots/shot_45_colonel_shot.c",
       "lines": {
-        "covered": 18,
-        "count": 32
+        "covered": 69,
+        "count": 224
       },
       "functions": {
-        "covered": 4,
-        "count": 7
+        "covered": 9,
+        "count": 20
       },
       "regions": {
-        "covered": 7,
-        "count": 10
+        "covered": 24,
+        "count": 87
       },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 8,
+        "count": 38
       }
     },
     {
       "file": "src/main/shots/shot_46_sigma_shot.c",
       "lines": {
-        "covered": 133,
-        "count": 135
+        "covered": 279,
+        "count": 296
       },
       "functions": {
-        "covered": 13,
-        "count": 13
+        "covered": 24,
+        "count": 25
       },
       "regions": {
-        "covered": 86,
-        "count": 87
+        "covered": 171,
+        "count": 179
       },
       "branches": {
-        "covered": 41,
-        "count": 42
+        "covered": 85,
+        "count": 92
       }
     },
     {
       "file": "src/main/shots/shot_48_double_ball.c",
       "lines": {
-        "covered": 12,
-        "count": 12
+        "covered": 61,
+        "count": 76
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 5,
-        "count": 5
+        "covered": 27,
+        "count": 32
       },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 9,
+        "count": 12
       }
     },
     {
       "file": "src/main/shots/shot_49_double_aerial.c",
       "lines": {
         "covered": 0,
-        "count": 11
+        "count": 115
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 8
       },
       "regions": {
         "covered": 0,
-        "count": 3
+        "count": 54
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 22
       }
     },
     {
       "file": "src/main/shots/shot_50_double_bouncer.c",
       "lines": {
         "covered": 0,
-        "count": 36
+        "count": 66
       },
       "functions": {
         "covered": 0,
-        "count": 2
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 26
+        "count": 43
       },
       "branches": {
         "covered": 0,
-        "count": 20
+        "count": 28
       }
     },
     {
       "file": "src/main/shots/shot_51_double_mine.c",
       "lines": {
         "covered": 0,
-        "count": 52
+        "count": 100
       },
       "functions": {
         "covered": 0,
-        "count": 4
+        "count": 6
       },
       "regions": {
         "covered": 0,
-        "count": 21
+        "count": 42
       },
       "branches": {
         "covered": 0,
-        "count": 10
+        "count": 18
       }
     },
     {
       "file": "src/main/shots/shot_52_double_mine_shot.c",
       "lines": {
         "covered": 0,
-        "count": 31
+        "count": 54
       },
       "functions": {
         "covered": 0,
-        "count": 2
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 19
+        "count": 21
       },
       "branches": {
         "covered": 0,
@@ -5849,84 +6058,122 @@
     {
       "file": "src/main/shots/shot_53_sigma_head.c",
       "lines": {
-        "covered": 118,
-        "count": 248
+        "covered": 131,
+        "count": 316
       },
       "functions": {
-        "covered": 9,
-        "count": 17
+        "covered": 11,
+        "count": 27
       },
       "regions": {
-        "covered": 49,
-        "count": 89
+        "covered": 51,
+        "count": 113
       },
       "branches": {
         "covered": 19,
-        "count": 44
+        "count": 52
       }
     },
     {
       "file": "src/main/shots/shot_54_sigma_final_shot.c",
       "lines": {
-        "covered": 20,
-        "count": 92
+        "covered": 77,
+        "count": 193
       },
       "functions": {
-        "covered": 3,
-        "count": 11
+        "covered": 9,
+        "count": 20
       },
       "regions": {
-        "covered": 15,
-        "count": 44
+        "covered": 48,
+        "count": 96
       },
       "branches": {
-        "covered": 9,
-        "count": 22
+        "covered": 27,
+        "count": 50
       }
     },
     {
       "file": "src/main/shots/shot_55_general_shot.c",
       "lines": {
-        "covered": 108,
-        "count": 123
+        "covered": 310,
+        "count": 366
       },
       "functions": {
-        "covered": 9,
-        "count": 11
+        "covered": 28,
+        "count": 33
       },
       "regions": {
-        "covered": 52,
-        "count": 63
+        "covered": 164,
+        "count": 204
       },
       "branches": {
-        "covered": 24,
-        "count": 32
+        "covered": 70,
+        "count": 96
       }
     },
     {
       "file": "src/main/shots/shot_56_sigma_spit.c",
       "lines": {
         "covered": 0,
-        "count": 13
+        "count": 56
       },
       "functions": {
         "covered": 0,
-        "count": 3
+        "count": 7
       },
       "regions": {
         "covered": 0,
-        "count": 5
+        "count": 35
       },
       "branches": {
         "covered": 0,
-        "count": 2
+        "count": 10
       }
     },
     {
       "file": "src/main/shots/shot_57_sigma_beam_hitbox.c",
       "lines": {
         "covered": 0,
-        "count": 6
+        "count": 34
+      },
+      "functions": {
+        "covered": 0,
+        "count": 4
+      },
+      "regions": {
+        "covered": 0,
+        "count": 18
+      },
+      "branches": {
+        "covered": 0,
+        "count": 10
+      }
+    },
+    {
+      "file": "src/main/stage_objects.c",
+      "lines": {
+        "covered": 76,
+        "count": 76
+      },
+      "functions": {
+        "covered": 3,
+        "count": 3
+      },
+      "regions": {
+        "covered": 5,
+        "count": 5
+      },
+      "branches": {
+        "covered": 0,
+        "count": 0
+      }
+    },
+    {
+      "file": "src/main/unks/unk_00_menu_text.c",
+      "lines": {
+        "covered": 0,
+        "count": 4
       },
       "functions": {
         "covered": 0,
@@ -5934,26 +6181,7 @@
       },
       "regions": {
         "covered": 0,
-        "count": 3
-      },
-      "branches": {
-        "covered": 0,
-        "count": 2
-      }
-    },
-    {
-      "file": "src/main/stage_objects.c",
-      "lines": {
-        "covered": 68,
-        "count": 68
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 4,
-        "count": 4
+        "count": 1
       },
       "branches": {
         "covered": 0,
@@ -5964,15 +6192,15 @@
       "file": "src/main/unks/unk_01_menu_label.c",
       "lines": {
         "covered": 0,
-        "count": 37
+        "count": 41
       },
       "functions": {
         "covered": 0,
-        "count": 2
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 18
+        "count": 19
       },
       "branches": {
         "covered": 0,
@@ -6039,20 +6267,20 @@
     {
       "file": "src/main/visuals/visual_03_small_effect.c",
       "lines": {
-        "covered": 26,
-        "count": 26
+        "covered": 59,
+        "count": 59
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 5,
-        "count": 5
+        "covered": 22,
+        "count": 22
       },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 17,
+        "count": 18
       }
     },
     {
@@ -6077,73 +6305,73 @@
     {
       "file": "src/main/visuals/visual_05_object_afterimage.c",
       "lines": {
-        "covered": 22,
-        "count": 22
+        "covered": 96,
+        "count": 99
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 3,
-        "count": 3
+        "covered": 33,
+        "count": 34
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 17,
+        "count": 20
       }
     },
     {
       "file": "src/main/visuals/visual_06_eregion_part.c",
       "lines": {
-        "covered": 92,
-        "count": 101
+        "covered": 133,
+        "count": 148
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 58,
-        "count": 67
+        "covered": 99,
+        "count": 112
       },
       "branches": {
-        "covered": 40,
-        "count": 46
+        "covered": 59,
+        "count": 74
       }
     },
     {
       "file": "src/main/visuals/visual_07_water_wake.c",
       "lines": {
-        "covered": 82,
-        "count": 82
+        "covered": 98,
+        "count": 103
       },
       "functions": {
-        "covered": 6,
-        "count": 6
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 48,
-        "count": 48
+        "covered": 54,
+        "count": 56
       },
       "branches": {
-        "covered": 28,
-        "count": 28
+        "covered": 31,
+        "count": 34
       }
     },
     {
       "file": "src/main/visuals/visual_08_ice_shard.c",
       "lines": {
-        "covered": 59,
-        "count": 69
+        "covered": 62,
+        "count": 72
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 22,
-        "count": 27
+        "covered": 24,
+        "count": 29
       },
       "branches": {
         "covered": 12,
@@ -6153,35 +6381,35 @@
     {
       "file": "src/main/visuals/visual_09_dust_puff.c",
       "lines": {
-        "covered": 7,
-        "count": 7
+        "covered": 48,
+        "count": 48
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 4,
-        "count": 4
+        "covered": 24,
+        "count": 24
       },
       "branches": {
-        "covered": 2,
-        "count": 2
+        "covered": 13,
+        "count": 14
       }
     },
     {
       "file": "src/main/visuals/visual_10_dragon_fx.c",
       "lines": {
-        "covered": 23,
-        "count": 23
+        "covered": 40,
+        "count": 40
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 9,
-        "count": 9
+        "covered": 10,
+        "count": 10
       },
       "branches": {
         "covered": 4,
@@ -6229,20 +6457,20 @@
     {
       "file": "src/main/visuals/visual_13_ride_chaser_jet.c",
       "lines": {
-        "covered": 11,
-        "count": 14
+        "covered": 32,
+        "count": 37
       },
       "functions": {
-        "covered": 2,
-        "count": 3
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 2,
-        "count": 3
+        "covered": 12,
+        "count": 14
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 5,
+        "count": 6
       }
     },
     {
@@ -6286,20 +6514,20 @@
     {
       "file": "src/main/visuals/visual_16_enemy_charge_glow.c",
       "lines": {
-        "covered": 6,
-        "count": 6
+        "covered": 24,
+        "count": 24
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 3,
+        "count": 3
       },
       "regions": {
-        "covered": 2,
-        "count": 2
+        "covered": 9,
+        "count": 9
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 4,
+        "count": 4
       }
     },
     {
@@ -6438,39 +6666,39 @@
     {
       "file": "src/main/visuals/visual_24_frost_walrus_fx.c",
       "lines": {
-        "covered": 43,
-        "count": 46
+        "covered": 118,
+        "count": 134
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 15,
+        "count": 18
       },
       "regions": {
-        "covered": 12,
-        "count": 13
+        "covered": 55,
+        "count": 68
       },
       "branches": {
-        "covered": 4,
-        "count": 4
+        "covered": 23,
+        "count": 30
       }
     },
     {
       "file": "src/main/visuals/visual_25_flame_jet_fx.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 23,
+        "count": 26
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 8,
+        "count": 10
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 2,
+        "count": 2
       }
     },
     {
@@ -6514,16 +6742,16 @@
     {
       "file": "src/main/visuals/visual_28_storm_owl_fx.c",
       "lines": {
-        "covered": 86,
-        "count": 96
+        "covered": 89,
+        "count": 99
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 43,
-        "count": 49
+        "covered": 45,
+        "count": 51
       },
       "branches": {
         "covered": 34,
@@ -6534,26 +6762,7 @@
       "file": "src/main/visuals/visual_29_peacock_target.c",
       "lines": {
         "covered": 0,
-        "count": 16
-      },
-      "functions": {
-        "covered": 0,
-        "count": 3
-      },
-      "regions": {
-        "covered": 0,
-        "count": 6
-      },
-      "branches": {
-        "covered": 0,
-        "count": 2
-      }
-    },
-    {
-      "file": "src/main/visuals/visual_30_colonel_fx.c",
-      "lines": {
-        "covered": 0,
-        "count": 46
+        "count": 91
       },
       "functions": {
         "covered": 0,
@@ -6561,11 +6770,30 @@
       },
       "regions": {
         "covered": 0,
-        "count": 16
+        "count": 57
       },
       "branches": {
         "covered": 0,
-        "count": 6
+        "count": 30
+      }
+    },
+    {
+      "file": "src/main/visuals/visual_30_colonel_fx.c",
+      "lines": {
+        "covered": 0,
+        "count": 109
+      },
+      "functions": {
+        "covered": 0,
+        "count": 16
+      },
+      "regions": {
+        "covered": 0,
+        "count": 44
+      },
+      "branches": {
+        "covered": 0,
+        "count": 16
       }
     },
     {
@@ -6590,20 +6818,20 @@
     {
       "file": "src/main/visuals/visual_32_sigma_fx.c",
       "lines": {
-        "covered": 79,
-        "count": 81
+        "covered": 93,
+        "count": 95
       },
       "functions": {
-        "covered": 9,
-        "count": 9
+        "covered": 10,
+        "count": 10
       },
       "regions": {
-        "covered": 38,
-        "count": 39
+        "covered": 49,
+        "count": 50
       },
       "branches": {
-        "covered": 22,
-        "count": 24
+        "covered": 28,
+        "count": 30
       }
     },
     {
@@ -6647,187 +6875,187 @@
     {
       "file": "src/main/weapons/weapon_00_lemon.c",
       "lines": {
-        "covered": 65,
-        "count": 65
+        "covered": 94,
+        "count": 94
       },
       "functions": {
-        "covered": 5,
-        "count": 5
+        "covered": 8,
+        "count": 8
       },
       "regions": {
-        "covered": 29,
-        "count": 29
+        "covered": 50,
+        "count": 50
       },
       "branches": {
-        "covered": 10,
-        "count": 10
+        "covered": 16,
+        "count": 16
       }
     },
     {
       "file": "src/main/weapons/weapon_01_lightning_web.c",
       "lines": {
-        "covered": 32,
-        "count": 55
+        "covered": 163,
+        "count": 370
       },
       "functions": {
-        "covered": 5,
-        "count": 8
+        "covered": 13,
+        "count": 27
       },
       "regions": {
-        "covered": 16,
-        "count": 21
+        "covered": 78,
+        "count": 161
       },
       "branches": {
-        "covered": 6,
-        "count": 8
+        "covered": 38,
+        "count": 80
       }
     },
     {
       "file": "src/main/weapons/weapon_02_frost_tower.c",
       "lines": {
-        "covered": 64,
-        "count": 97
+        "covered": 174,
+        "count": 263
       },
       "functions": {
-        "covered": 5,
-        "count": 7
+        "covered": 12,
+        "count": 17
       },
       "regions": {
-        "covered": 27,
-        "count": 45
+        "covered": 85,
+        "count": 130
       },
       "branches": {
-        "covered": 10,
-        "count": 22
+        "covered": 43,
+        "count": 76
       }
     },
     {
       "file": "src/main/weapons/weapon_03_soul_body.c",
       "lines": {
-        "covered": 128,
-        "count": 190
+        "covered": 155,
+        "count": 217
       },
       "functions": {
-        "covered": 8,
-        "count": 8
+        "covered": 9,
+        "count": 9
       },
       "regions": {
-        "covered": 46,
-        "count": 82
+        "covered": 60,
+        "count": 96
       },
       "branches": {
-        "covered": 26,
-        "count": 60
+        "covered": 36,
+        "count": 70
       }
     },
     {
       "file": "src/main/weapons/weapon_04_rising_fire.c",
       "lines": {
-        "covered": 10,
-        "count": 14
+        "covered": 30,
+        "count": 97
       },
       "functions": {
-        "covered": 2,
-        "count": 3
-      },
-      "regions": {
         "covered": 4,
         "count": 7
       },
+      "regions": {
+        "covered": 17,
+        "count": 54
+      },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 7,
+        "count": 30
       }
     },
     {
       "file": "src/main/weapons/weapon_05_ground_hunter.c",
       "lines": {
-        "covered": 88,
-        "count": 113
+        "covered": 151,
+        "count": 208
       },
       "functions": {
-        "covered": 8,
-        "count": 10
+        "covered": 13,
+        "count": 17
       },
       "regions": {
-        "covered": 32,
-        "count": 47
+        "covered": 77,
+        "count": 112
       },
       "branches": {
-        "covered": 9,
-        "count": 18
+        "covered": 32,
+        "count": 58
       }
     },
     {
       "file": "src/main/weapons/weapon_06_aiming_laser_charged.c",
       "lines": {
-        "covered": 123,
-        "count": 158
+        "covered": 140,
+        "count": 219
       },
       "functions": {
-        "covered": 6,
-        "count": 7
+        "covered": 7,
+        "count": 11
       },
       "regions": {
-        "covered": 65,
-        "count": 76
+        "covered": 69,
+        "count": 100
       },
       "branches": {
         "covered": 28,
-        "count": 44
+        "count": 58
       }
     },
     {
       "file": "src/main/weapons/weapon_07_double_cyclone.c",
       "lines": {
-        "covered": 111,
-        "count": 125
+        "covered": 169,
+        "count": 189
       },
       "functions": {
-        "covered": 11,
-        "count": 11
+        "covered": 17,
+        "count": 17
       },
       "regions": {
-        "covered": 62,
-        "count": 69
+        "covered": 93,
+        "count": 103
       },
       "branches": {
-        "covered": 34,
-        "count": 42
+        "covered": 51,
+        "count": 62
       }
     },
     {
       "file": "src/main/weapons/weapon_08_twin_slasher.c",
       "lines": {
-        "covered": 24,
-        "count": 24
+        "covered": 96,
+        "count": 119
+      },
+      "functions": {
+        "covered": 7,
+        "count": 7
+      },
+      "regions": {
+        "covered": 49,
+        "count": 61
+      },
+      "branches": {
+        "covered": 26,
+        "count": 38
+      }
+    },
+    {
+      "file": "src/main/weapons/weapon_09_charge_shot.c",
+      "lines": {
+        "covered": 17,
+        "count": 17
       },
       "functions": {
         "covered": 3,
         "count": 3
       },
       "regions": {
-        "covered": 14,
-        "count": 14
-      },
-      "branches": {
-        "covered": 6,
-        "count": 6
-      }
-    },
-    {
-      "file": "src/main/weapons/weapon_09_charge_shot.c",
-      "lines": {
         "covered": 12,
         "count": 12
-      },
-      "functions": {
-        "covered": 2,
-        "count": 2
-      },
-      "regions": {
-        "covered": 10,
-        "count": 10
       },
       "branches": {
         "covered": 4,
@@ -6838,148 +7066,167 @@
       "file": "src/main/weapons/weapon_19_stock_shot.c",
       "lines": {
         "covered": 0,
-        "count": 3
+        "count": 47
       },
       "functions": {
         "covered": 0,
-        "count": 1
+        "count": 3
       },
       "regions": {
         "covered": 0,
-        "count": 1
+        "count": 21
       },
       "branches": {
         "covered": 0,
-        "count": 0
+        "count": 6
       }
     },
     {
       "file": "src/main/weapons/weapon_20_plasma_shot.c",
       "lines": {
-        "covered": 44,
-        "count": 44
+        "covered": 56,
+        "count": 56
       },
       "functions": {
-        "covered": 3,
-        "count": 3
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 25,
-        "count": 25
+        "covered": 34,
+        "count": 34
       },
       "branches": {
-        "covered": 16,
-        "count": 16
+        "covered": 20,
+        "count": 20
+      }
+    },
+    {
+      "file": "src/main/weapons/weapon_22_nova_strike_hitbox.c",
+      "lines": {
+        "covered": 17,
+        "count": 42
+      },
+      "functions": {
+        "covered": 1,
+        "count": 2
+      },
+      "regions": {
+        "covered": 4,
+        "count": 15
+      },
+      "branches": {
+        "covered": 2,
+        "count": 8
       }
     },
     {
       "file": "src/main/weapons/weapon_24_zero_saber.c",
       "lines": {
-        "covered": 20,
-        "count": 20
+        "covered": 48,
+        "count": 89
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 2,
+        "count": 3
       },
       "regions": {
-        "covered": 8,
-        "count": 8
+        "covered": 27,
+        "count": 49
       },
       "branches": {
-        "covered": 4,
-        "count": 4
+        "covered": 16,
+        "count": 30
       }
     },
     {
       "file": "src/main/weapons/weapon_56_ride_chaser_shot.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 26,
+        "count": 26
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 16,
+        "count": 16
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 5,
+        "count": 6
       }
     },
     {
       "file": "src/main/weapons/weapon_57_ride_chaser_ram.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 38,
+        "count": 38
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 16,
+        "count": 16
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 8,
+        "count": 8
       }
     },
     {
       "file": "src/main/weapons/weapon_58_ice_block_hitbox.c",
       "lines": {
-        "covered": 23,
-        "count": 29
+        "covered": 31,
+        "count": 37
       },
       "functions": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 4
       },
       "regions": {
-        "covered": 6,
-        "count": 8
+        "covered": 11,
+        "count": 13
       },
       "branches": {
-        "covered": 7,
-        "count": 10
+        "covered": 9,
+        "count": 12
       }
     },
     {
       "file": "src/main/weapons/weapon_59_ride_armor_shot.c",
       "lines": {
-        "covered": 21,
-        "count": 24
+        "covered": 40,
+        "count": 59
       },
       "functions": {
-        "covered": 2,
-        "count": 3
-      },
-      "regions": {
-        "covered": 5,
+        "covered": 4,
         "count": 6
       },
+      "regions": {
+        "covered": 19,
+        "count": 36
+      },
       "branches": {
-        "covered": 1,
-        "count": 2
+        "covered": 7,
+        "count": 14
       }
     },
     {
       "file": "src/main/weapons/weapon_60_ride_armor_missile.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 9,
+        "count": 9
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 2,
+        "count": 2
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 3
       },
       "branches": {
         "covered": 0,
@@ -6989,39 +7236,39 @@
     {
       "file": "src/main/weapons/weapon_61_ride_armor_punch.c",
       "lines": {
-        "covered": 3,
-        "count": 3
+        "covered": 44,
+        "count": 47
       },
       "functions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 4
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 18,
+        "count": 20
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 11,
+        "count": 12
       }
     },
     {
       "file": "src/pc/placeholder.c",
       "lines": {
-        "covered": 17300,
-        "count": 20085
+        "covered": 16306,
+        "count": 18965
       },
       "functions": {
-        "covered": 566,
-        "count": 613
+        "covered": 519,
+        "count": 561
       },
       "regions": {
-        "covered": 8871,
-        "count": 10463
+        "covered": 8508,
+        "count": 10028
       },
       "branches": {
-        "covered": 5655,
-        "count": 7396
+        "covered": 5481,
+        "count": 7168
       }
     }
   ],
