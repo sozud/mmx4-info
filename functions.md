@@ -292,7 +292,6 @@
 | main  | func_8004CA94 |       97 |         24 |        |                 |                                 |       |
 | main  | func_800B9354 |       98 |          4 |        |                 |                                 |       |
 | main  | func_800C0864 |       98 |          8 |        |                 |                                 |       |
-| main  | func_8009A10C |       98 |         16 |        |                 |                                 |       |
 | main  | func_8006398C |       98 |         17 |        |                 |                                 |       |
 | main  | func_8002DE30 |       98 |         18 |        |                 |                                 |       |
 | main  | func_8005BA2C |       98 |         22 |        |                 |                                 |       |

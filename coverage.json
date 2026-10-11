@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "created": "2026-10-10T16:30:46.740478+00:00",
-  "revision": "fff95bea6f68af9e1bcb9275b9f6ec4662315334",
-  "binary_sha256": "f3108359128ab189bb49297f73beb17f6884b2ada9960c5ccf06254e7249084d",
+  "created": "2026-10-11T10:45:25.457040+00:00",
+  "revision": "19667b3f15bc69d9353aef74f1bcd68e40ccedb7",
+  "binary_sha256": "8d4f535acfc630aaf298e44d27b2822e03654fcffbf2fc1a8c93bb1f93634d36",
   "manifest_sha256": "b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/38067671441",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/38132837748",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 58388,
-      "count": 77768
+      "covered": 58385,
+      "count": 77769
     },
     "functions": {
       "covered": 3799,
       "count": 4935
     },
     "regions": {
-      "covered": 29835,
-      "count": 39446
+      "covered": 29862,
+      "count": 39491
     },
     "branches": {
       "covered": 16945,
@@ -1487,8 +1487,8 @@
         "count": 6
       },
       "regions": {
-        "covered": 52,
-        "count": 54
+        "covered": 57,
+        "count": 59
       },
       "branches": {
         "covered": 33,
@@ -3140,8 +3140,8 @@
         "count": 42
       },
       "regions": {
-        "covered": 231,
-        "count": 294
+        "covered": 232,
+        "count": 295
       },
       "branches": {
         "covered": 120,
@@ -3197,8 +3197,8 @@
         "count": 64
       },
       "regions": {
-        "covered": 307,
-        "count": 346
+        "covered": 308,
+        "count": 347
       },
       "branches": {
         "covered": 164,
@@ -5165,20 +5165,20 @@
     {
       "file": "src/main/shots/shot_02_gunner_shot.c",
       "lines": {
-        "covered": 153,
-        "count": 162
+        "covered": 182,
+        "count": 195
       },
       "functions": {
-        "covered": 15,
-        "count": 16
+        "covered": 16,
+        "count": 17
       },
       "regions": {
-        "covered": 97,
-        "count": 103
+        "covered": 120,
+        "count": 131
       },
       "branches": {
-        "covered": 41,
-        "count": 50
+        "covered": 50,
+        "count": 60
       }
     },
     {
@@ -7255,20 +7255,20 @@
     {
       "file": "src/pc/placeholder.c",
       "lines": {
-        "covered": 16306,
-        "count": 18965
+        "covered": 16274,
+        "count": 18933
       },
       "functions": {
-        "covered": 519,
-        "count": 561
+        "covered": 518,
+        "count": 560
       },
       "regions": {
-        "covered": 8508,
-        "count": 10028
+        "covered": 8505,
+        "count": 10038
       },
       "branches": {
-        "covered": 5481,
-        "count": 7168
+        "covered": 5472,
+        "count": 7158
       }
     }
   ],

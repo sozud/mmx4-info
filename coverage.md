@@ -1,14 +1,14 @@
 # Movie code coverage
 
-Revision: `fff95bea6f68af9e1bcb9275b9f6ec4662315334`. Movies passed: **42/42**.
+Revision: `19667b3f15bc69d9353aef74f1bcd68e40ccedb7`. Movies passed: **42/42**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38067671441)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38132837748)
 
 | Metric | Covered / total |
 | --- | --- |
-| Lines | 58388/77768 (75.08%) |
+| Lines | 58385/77769 (75.07%) |
 | Functions | 3799/4935 (76.98%) |
-| Regions | 29835/39446 (75.64%) |
+| Regions | 29862/39491 (75.62%) |
 | Branches | 16945/24484 (69.21%) |
 
 ## Files
@@ -91,7 +91,7 @@ Revision: `fff95bea6f68af9e1bcb9275b9f6ec4662315334`. Movies passed: **42/42**.
 | `src/main/game_info.c` | 120/510 (23.53%) | 5/30 (16.67%) | 47/184 (25.54%) | 28/138 (20.29%) |
 | `src/main/items/item_00_breakable_wall.c` | 21/21 (100.00%) | 3/3 (100.00%) | 9/9 (100.00%) | 3/4 (75.00%) |
 | `src/main/items/item_01_stage_block.c` | 78/78 (100.00%) | 7/7 (100.00%) | 48/48 (100.00%) | 32/32 (100.00%) |
-| `src/main/items/item_02_pickup.c` | 109/112 (97.32%) | 6/6 (100.00%) | 52/54 (96.30%) | 33/36 (91.67%) |
+| `src/main/items/item_02_pickup.c` | 109/112 (97.32%) | 6/6 (100.00%) | 57/59 (96.61%) | 33/36 (91.67%) |
 | `src/main/items/item_03_falling_pillar.c` | 11/58 (18.97%) | 2/4 (50.00%) | 4/37 (10.81%) | 1/28 (3.57%) |
 | `src/main/items/item_04_destructible_core.c` | 113/122 (92.62%) | 5/5 (100.00%) | 70/74 (94.59%) | 57/62 (91.94%) |
 | `src/main/items/item_05_moving_lift.c` | 46/51 (90.20%) | 3/4 (75.00%) | 13/16 (81.25%) | 6/8 (75.00%) |
@@ -178,10 +178,10 @@ Revision: `fff95bea6f68af9e1bcb9275b9f6ec4662315334`. Movies passed: **42/42**.
 | `src/main/mains/main_51_fortress_cannon.c` | 234/263 (88.97%) | 21/23 (91.30%) | 97/111 (87.39%) | 44/60 (73.33%) |
 | `src/main/mains/main_52_jump_shooter.c` | 194/208 (93.27%) | 16/17 (94.12%) | 84/98 (85.71%) | 34/44 (77.27%) |
 | `src/main/mains/main_53_wave_rider.c` | 124/141 (87.94%) | 10/12 (83.33%) | 58/69 (84.06%) | 26/30 (86.67%) |
-| `src/main/mains/main_54_slash_beast.c` | 501/672 (74.55%) | 37/42 (88.10%) | 231/294 (78.57%) | 120/170 (70.59%) |
+| `src/main/mains/main_54_slash_beast.c` | 501/672 (74.55%) | 37/42 (88.10%) | 232/295 (78.64%) | 120/170 (70.59%) |
 | `src/main/mains/main_55_jet_stingray_flyby.c` | 0/126 (0.00%) | 0/11 (0.00%) | 0/69 (0.00%) | 0/34 (0.00%) |
 | `src/main/mains/main_56_jet_stingray.c` | 746/791 (94.31%) | 52/54 (96.30%) | 340/362 (93.92%) | 209/244 (85.66%) |
-| `src/main/mains/main_57_frost_walrus.c` | 646/725 (89.10%) | 57/64 (89.06%) | 307/346 (88.73%) | 164/206 (79.61%) |
+| `src/main/mains/main_57_frost_walrus.c` | 646/725 (89.10%) | 57/64 (89.06%) | 308/347 (88.76%) | 164/206 (79.61%) |
 | `src/main/mains/main_58_beam_drone.c` | 154/157 (98.09%) | 18/19 (94.74%) | 72/74 (97.30%) | 27/30 (90.00%) |
 | `src/main/mains/main_59_timed_explosion.c` | 35/35 (100.00%) | 4/4 (100.00%) | 19/19 (100.00%) | 7/8 (87.50%) |
 | `src/main/mains/main_60_storm_owl.c` | 765/1030 (74.27%) | 64/84 (76.19%) | 359/512 (70.12%) | 161/256 (62.89%) |
@@ -285,7 +285,7 @@ Revision: `fff95bea6f68af9e1bcb9275b9f6ec4662315334`. Movies passed: **42/42**.
 | `src/main/quads/quad_16_sigma_laser.c` | 0/107 (0.00%) | 0/9 (0.00%) | 0/40 (0.00%) | 0/16 (0.00%) |
 | `src/main/shots/shot_00_dragon_shot.c` | 84/102 (82.35%) | 7/8 (87.50%) | 30/36 (83.33%) | 14/20 (70.00%) |
 | `src/main/shots/shot_01_drill_copter_shot.c` | 0/19 (0.00%) | 0/3 (0.00%) | 0/14 (0.00%) | 0/4 (0.00%) |
-| `src/main/shots/shot_02_gunner_shot.c` | 153/162 (94.44%) | 15/16 (93.75%) | 97/103 (94.17%) | 41/50 (82.00%) |
+| `src/main/shots/shot_02_gunner_shot.c` | 182/195 (93.33%) | 16/17 (94.12%) | 120/131 (91.60%) | 50/60 (83.33%) |
 | `src/main/shots/shot_06_wall_crawler_shot.c` | 81/99 (81.82%) | 4/5 (80.00%) | 41/49 (83.67%) | 33/44 (75.00%) |
 | `src/main/shots/shot_07_dropped_bomb.c` | 25/27 (92.59%) | 3/4 (75.00%) | 20/21 (95.24%) | 5/6 (83.33%) |
 | `src/main/shots/shot_08_shell_crawler_shot.c` | 44/46 (95.65%) | 4/4 (100.00%) | 21/22 (95.45%) | 7/8 (87.50%) |
@@ -395,7 +395,7 @@ Revision: `fff95bea6f68af9e1bcb9275b9f6ec4662315334`. Movies passed: **42/42**.
 | `src/main/weapons/weapon_59_ride_armor_shot.c` | 40/59 (67.80%) | 4/6 (66.67%) | 19/36 (52.78%) | 7/14 (50.00%) |
 | `src/main/weapons/weapon_60_ride_armor_missile.c` | 9/9 (100.00%) | 2/2 (100.00%) | 3/3 (100.00%) | 0/0 (n/a) |
 | `src/main/weapons/weapon_61_ride_armor_punch.c` | 44/47 (93.62%) | 3/4 (75.00%) | 18/20 (90.00%) | 11/12 (91.67%) |
-| `src/pc/placeholder.c` | 16306/18965 (85.98%) | 519/561 (92.51%) | 8508/10028 (84.84%) | 5481/7168 (76.46%) |
+| `src/pc/placeholder.c` | 16274/18933 (85.96%) | 518/560 (92.50%) | 8505/10038 (84.73%) | 5472/7158 (76.45%) |
 
 ## Movies
 
@@ -446,8 +446,8 @@ Revision: `fff95bea6f68af9e1bcb9275b9f6ec4662315334`. Movies passed: **42/42**.
 
 ## Provenance
 
-- Generated: 2026-10-10T16:30:46.740478+00:00
-- Binary SHA-256: `f3108359128ab189bb49297f73beb17f6884b2ada9960c5ccf06254e7249084d`
+- Generated: 2026-10-11T10:45:25.457040+00:00
+- Binary SHA-256: `8d4f535acfc630aaf298e44d27b2822e03654fcffbf2fc1a8c93bb1f93634d36`
 - Manifest SHA-256: `b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
