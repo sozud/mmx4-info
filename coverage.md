@@ -1,14 +1,14 @@
 # Movie code coverage
 
-Revision: `e843324ba6aadcf2d005cdc02b1ee191e2e91608`. Movies passed: **42/42**.
+Revision: `d55cc9eedb4aa0e1849658439ed1ef5f3441b6b9`. Movies passed: **42/42**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38406546512)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38532234540)
 
 | Metric | Covered / total |
 | --- | --- |
 | Lines | 58384/77768 (75.07%) |
 | Functions | 3799/4935 (76.98%) |
-| Regions | 29860/39489 (75.62%) |
+| Regions | 29860/39485 (75.62%) |
 | Branches | 16944/24482 (69.21%) |
 
 ## Files
@@ -203,7 +203,7 @@ Revision: `e843324ba6aadcf2d005cdc02b1ee191e2e91608`. Movies passed: **42/42**.
 | `src/main/mains/main_76_spike_crawler.c` | 176/206 (85.44%) | 10/11 (90.91%) | 77/92 (83.70%) | 42/54 (77.78%) |
 | `src/main/mech.c` | 860/1175 (73.19%) | 42/52 (80.77%) | 602/857 (70.25%) | 337/526 (64.07%) |
 | `src/main/memcard.c` | 18/147 (12.24%) | 1/10 (10.00%) | 31/97 (31.96%) | 0/44 (0.00%) |
-| `src/main/menu.c` | 17/955 (1.78%) | 1/30 (3.33%) | 4/456 (0.88%) | 2/318 (0.63%) |
+| `src/main/menu.c` | 17/955 (1.78%) | 1/30 (3.33%) | 4/452 (0.88%) | 2/318 (0.63%) |
 | `src/main/misc/misc_00_static_sprite.c` | 38/38 (100.00%) | 5/5 (100.00%) | 15/15 (100.00%) | 3/4 (75.00%) |
 | `src/main/misc/misc_01_common_effect.c` | 27/28 (96.43%) | 4/4 (100.00%) | 16/17 (94.12%) | 3/4 (75.00%) |
 | `src/main/misc/misc_02_rubble.c` | 142/142 (100.00%) | 6/6 (100.00%) | 48/48 (100.00%) | 24/30 (80.00%) |
@@ -446,8 +446,8 @@ Revision: `e843324ba6aadcf2d005cdc02b1ee191e2e91608`. Movies passed: **42/42**.
 
 ## Provenance
 
-- Generated: 2026-10-13T13:42:42.377539+00:00
-- Binary SHA-256: `153a22d9dd968e62ec240c51e82c329d42c1cf32cc354338d2e7771212fb9b46`
+- Generated: 2026-10-14T08:05:59.999993+00:00
+- Binary SHA-256: `ccb0f527b87fbc8a3f11b714198b464e1fd3e5fd0b03e2a7924f94c88b7bfdc9`
 - Manifest SHA-256: `b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
