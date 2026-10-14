@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "created": "2026-10-14T10:00:29.514672+00:00",
-  "revision": "5a0442a6f8afbec6d47aac1c7e4ad95e730add02",
-  "binary_sha256": "ccb0f527b87fbc8a3f11b714198b464e1fd3e5fd0b03e2a7924f94c88b7bfdc9",
+  "created": "2026-10-14T12:24:25.930273+00:00",
+  "revision": "05c274882436cbb8e9fcfcc72f5ef32b83006c62",
+  "binary_sha256": "e100c95bfb42a2e620ad79e8c6c19a24faeff750006d4610f0944c7adf5132a5",
   "manifest_sha256": "b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/38546003485",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/38562902149",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
@@ -16,19 +16,19 @@
   "totals": {
     "lines": {
       "covered": 58384,
-      "count": 77768
+      "count": 78069
     },
     "functions": {
       "covered": 3799,
-      "count": 4935
+      "count": 4947
     },
     "regions": {
       "covered": 29860,
-      "count": 39485
+      "count": 39693
     },
     "branches": {
       "covered": 16944,
-      "count": 24482
+      "count": 24640
     }
   },
   "files": [
@@ -3589,7 +3589,7 @@
       "file": "src/main/memcard.c",
       "lines": {
         "covered": 18,
-        "count": 147
+        "count": 98
       },
       "functions": {
         "covered": 1,
@@ -3597,11 +3597,11 @@
       },
       "regions": {
         "covered": 31,
-        "count": 97
+        "count": 74
       },
       "branches": {
         "covered": 0,
-        "count": 44
+        "count": 24
       }
     },
     {
@@ -7256,19 +7256,19 @@
       "file": "src/pc/placeholder.c",
       "lines": {
         "covered": 16274,
-        "count": 18933
+        "count": 19283
       },
       "functions": {
         "covered": 518,
-        "count": 560
+        "count": 572
       },
       "regions": {
         "covered": 8505,
-        "count": 10038
+        "count": 10269
       },
       "branches": {
         "covered": 5472,
-        "count": 7158
+        "count": 7336
       }
     }
   ],

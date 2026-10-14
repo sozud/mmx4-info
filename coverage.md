@@ -1,15 +1,15 @@
 # Movie code coverage
 
-Revision: `5a0442a6f8afbec6d47aac1c7e4ad95e730add02`. Movies passed: **42/42**.
+Revision: `05c274882436cbb8e9fcfcc72f5ef32b83006c62`. Movies passed: **42/42**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38546003485)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38562902149)
 
 | Metric | Covered / total |
 | --- | --- |
-| Lines | 58384/77768 (75.07%) |
-| Functions | 3799/4935 (76.98%) |
-| Regions | 29860/39485 (75.62%) |
-| Branches | 16944/24482 (69.21%) |
+| Lines | 58384/78069 (74.79%) |
+| Functions | 3799/4947 (76.79%) |
+| Regions | 29860/39693 (75.23%) |
+| Branches | 16944/24640 (68.77%) |
 
 ## Files
 
@@ -202,7 +202,7 @@ Revision: `5a0442a6f8afbec6d47aac1c7e4ad95e730add02`. Movies passed: **42/42**.
 | `src/main/mains/main_75_general.c` | 344/547 (62.89%) | 26/39 (66.67%) | 162/257 (63.04%) | 90/156 (57.69%) |
 | `src/main/mains/main_76_spike_crawler.c` | 176/206 (85.44%) | 10/11 (90.91%) | 77/92 (83.70%) | 42/54 (77.78%) |
 | `src/main/mech.c` | 860/1175 (73.19%) | 42/52 (80.77%) | 602/857 (70.25%) | 337/526 (64.07%) |
-| `src/main/memcard.c` | 18/147 (12.24%) | 1/10 (10.00%) | 31/97 (31.96%) | 0/44 (0.00%) |
+| `src/main/memcard.c` | 18/98 (18.37%) | 1/10 (10.00%) | 31/74 (41.89%) | 0/24 (0.00%) |
 | `src/main/menu.c` | 17/955 (1.78%) | 1/30 (3.33%) | 4/452 (0.88%) | 2/318 (0.63%) |
 | `src/main/misc/misc_00_static_sprite.c` | 38/38 (100.00%) | 5/5 (100.00%) | 15/15 (100.00%) | 3/4 (75.00%) |
 | `src/main/misc/misc_01_common_effect.c` | 27/28 (96.43%) | 4/4 (100.00%) | 16/17 (94.12%) | 3/4 (75.00%) |
@@ -395,7 +395,7 @@ Revision: `5a0442a6f8afbec6d47aac1c7e4ad95e730add02`. Movies passed: **42/42**.
 | `src/main/weapons/weapon_59_ride_armor_shot.c` | 40/59 (67.80%) | 4/6 (66.67%) | 19/36 (52.78%) | 7/14 (50.00%) |
 | `src/main/weapons/weapon_60_ride_armor_missile.c` | 9/9 (100.00%) | 2/2 (100.00%) | 3/3 (100.00%) | 0/0 (n/a) |
 | `src/main/weapons/weapon_61_ride_armor_punch.c` | 44/47 (93.62%) | 3/4 (75.00%) | 18/20 (90.00%) | 11/12 (91.67%) |
-| `src/pc/placeholder.c` | 16274/18933 (85.96%) | 518/560 (92.50%) | 8505/10038 (84.73%) | 5472/7158 (76.45%) |
+| `src/pc/placeholder.c` | 16274/19283 (84.40%) | 518/572 (90.56%) | 8505/10269 (82.82%) | 5472/7336 (74.59%) |
 
 ## Movies
 
@@ -446,8 +446,8 @@ Revision: `5a0442a6f8afbec6d47aac1c7e4ad95e730add02`. Movies passed: **42/42**.
 
 ## Provenance
 
-- Generated: 2026-10-14T10:00:29.514672+00:00
-- Binary SHA-256: `ccb0f527b87fbc8a3f11b714198b464e1fd3e5fd0b03e2a7924f94c88b7bfdc9`
+- Generated: 2026-10-14T12:24:25.930273+00:00
+- Binary SHA-256: `e100c95bfb42a2e620ad79e8c6c19a24faeff750006d4610f0944c7adf5132a5`
 - Manifest SHA-256: `b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
