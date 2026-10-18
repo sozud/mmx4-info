@@ -1,15 +1,15 @@
 # Code coverage
 
-Revision: `7341b6b2430365c2178e2b0bad9a8411407f05e7`. Movies passed: **42/42**. Unit test cases passed: **4702**.
+Revision: `e208149e7af6363b1fbcc1976cf0d0a1579b16ff`. Movies passed: **42/42**. Unit test cases passed: **4702**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/38737416878)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/39166916124)
 
 | Metric | Movies | Unit tests | Total |
 | --- | --- | --- | --- |
 | Lines | 58411/80216 (72.82%) | 19962/80216 (24.89%) | 64881/80216 (80.88%) |
 | Functions | 3800/5018 (75.73%) | 1109/5018 (22.10%) | 4094/5018 (81.59%) |
 | Regions | 29870/40793 (73.22%) | 10864/40793 (26.63%) | 33596/40793 (82.36%) |
-| Branches | 16946/25394 (66.73%) | 6906/25394 (27.20%) | 20096/25394 (79.14%) |
+| Branches | 16947/25394 (66.74%) | 6906/25394 (27.20%) | 20097/25394 (79.14%) |
 
 ## Files
 
@@ -129,7 +129,7 @@ Revision: `7341b6b2430365c2178e2b0bad9a8411407f05e7`. Movies passed: **42/42**. 
 | `src/main/mains/main_02_item_carrier.c` | 106/203 (52.22%) | 82/203 (40.39%) | 149/203 (73.40%) | 17/24 (70.83%) | 61/90 (67.78%) | 22/34 (64.71%) |
 | `src/main/mains/main_03_spike_marl.c` | 315/336 (93.75%) | 99/336 (29.46%) | 331/336 (98.51%) | 27/28 (96.43%) | 207/213 (97.18%) | 129/140 (92.14%) |
 | `src/main/mains/main_04_drill_copter.c` | 0/195 (0.00%) | 31/195 (15.90%) | 31/195 (15.90%) | 6/26 (23.08%) | 17/89 (19.10%) | 6/38 (15.79%) |
-| `src/main/mains/main_05_robot_bee.c` | 279/369 (75.61%) | 0/369 (0.00%) | 279/369 (75.61%) | 27/35 (77.14%) | 152/203 (74.88%) | 70/102 (68.63%) |
+| `src/main/mains/main_05_robot_bee.c` | 279/369 (75.61%) | 0/369 (0.00%) | 279/369 (75.61%) | 27/35 (77.14%) | 152/203 (74.88%) | 71/102 (69.61%) |
 | `src/main/mains/main_06_bulldozer.c` | 69/102 (67.65%) | 18/102 (17.65%) | 74/102 (72.55%) | 10/11 (90.91%) | 41/54 (75.93%) | 11/20 (55.00%) |
 | `src/main/mains/main_07_ambush_gunner.c` | 133/136 (97.79%) | 50/136 (36.76%) | 136/136 (100.00%) | 11/11 (100.00%) | 75/75 (100.00%) | 42/42 (100.00%) |
 | `src/main/mains/main_08_eregion.c` | 390/525 (74.29%) | 184/525 (35.05%) | 428/525 (81.52%) | 36/42 (85.71%) | 217/267 (81.27%) | 113/144 (78.47%) |
@@ -446,8 +446,8 @@ Revision: `7341b6b2430365c2178e2b0bad9a8411407f05e7`. Movies passed: **42/42**. 
 
 ## Provenance
 
-- Generated: 2026-10-15T12:53:35.160743+00:00
-- Binary SHA-256: `f390372adca4db056d21ec5229a91a6c4f4c88e2f80eee812d0d1b54395f3242`
+- Generated: 2026-10-18T21:19:33.479667+00:00
+- Binary SHA-256: `7095e242fa8ca94b3903da18d44c97692c7fe435a35120c7e0bc194727a3308e`
 - Manifest SHA-256: `b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
