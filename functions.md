@@ -181,8 +181,8 @@
 | main  | func_8008A9F4 |       76 |         15 |        |                 |                                 |       |
 | main  | func_80040644 |       77 |          5 |        |                 |                                 |       |
 | main  | func_80095538 |       77 |          6 |        |                 |                                 |       |
-| main  | func_80073E80 |       77 |          7 |        |                 |                                 |       |
 | main  | func_80091EC4 |       77 |          7 |        |                 |                                 |       |
+| main  | func_80073E80 |       77 |          7 |        |                 |                                 |       |
 | main  | func_80098AF8 |       77 |          7 |        |                 |                                 |       |
 | main  | func_800CDE44 |       77 |         10 |        |                 |                                 |       |
 | main  | func_8008AC40 |       77 |         19 |        |                 |                                 |       |
