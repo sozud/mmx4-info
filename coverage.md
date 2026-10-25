@@ -1,8 +1,8 @@
 # Code coverage
 
-Revision: `d9742e89bc087eff96f454880f5eb2ae7bf1a884`. Movies passed: **42/42**. Unit test cases passed: **20085**.
+Revision: `807a01b1b8928811908a33367b964cf22f5ce799`. Movies passed: **42/42**. Unit test cases passed: **20085**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/40212347492)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/40214178791)
 
 | Metric | Movies | Unit tests | Total |
 | --- | --- | --- | --- |
@@ -450,7 +450,7 @@ Revision: `d9742e89bc087eff96f454880f5eb2ae7bf1a884`. Movies passed: **42/42**. 
 
 ## Provenance
 
-- Generated: 2026-10-25T16:42:02.085947+00:00
+- Generated: 2026-10-25T17:05:24.160097+00:00
 - Binary SHA-256: `70b5d286e7d4c55026a5cc2b4e156d86c1bc1eb755d4a7a047f108f6da67b3d9`
 - Manifest SHA-256: `b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908`
 - LLVM: `Ubuntu LLVM version 18.1.3`
