@@ -1,34 +1,34 @@
 {
   "schema_version": 1,
-  "created": "2026-10-26T11:18:01.711632+00:00",
-  "revision": "5272565800ce7fb4ac0d8388ee1eff9cc1c780b1",
-  "binary_sha256": "2a4a0190d2773a0f99fa424c0ff7f55fd780c6ec927ca54ff106c1866bd0f29d",
+  "created": "2026-10-26T11:56:30.848933+00:00",
+  "revision": "16d1c4fc15d48fe0c0614526876ac0551c8a89d7",
+  "binary_sha256": "45132534624aaa88523407e3d5a9794891cc8f64946e07f899dec7290a6de906",
   "manifest_sha256": "b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/40313095392",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/40317940730",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 78052,
-      "count": 80243
+      "covered": 78102,
+      "count": 80287
     },
     "functions": {
       "covered": 4779,
-      "count": 4979
+      "count": 4978
     },
     "regions": {
-      "covered": 41405,
-      "count": 42392
+      "covered": 41422,
+      "count": 42414
     },
     "branches": {
-      "covered": 24317,
-      "count": 25230
+      "covered": 24324,
+      "count": 25244
     }
   },
   "files": [
@@ -43,12 +43,12 @@
         "count": 17
       },
       "regions": {
-        "covered": 174,
-        "count": 177
+        "covered": 177,
+        "count": 180
       },
       "branches": {
-        "covered": 127,
-        "count": 136
+        "covered": 126,
+        "count": 134
       }
     },
     {
@@ -244,20 +244,20 @@
     {
       "file": "src/main/1A5BC.c",
       "lines": {
-        "covered": 106,
-        "count": 106
+        "covered": 161,
+        "count": 161
       },
       "functions": {
-        "covered": 4,
-        "count": 4
+        "covered": 5,
+        "count": 5
       },
       "regions": {
-        "covered": 47,
-        "count": 47
+        "covered": 104,
+        "count": 104
       },
       "branches": {
-        "covered": 34,
-        "count": 36
+        "covered": 78,
+        "count": 80
       }
     },
     {
@@ -434,39 +434,39 @@
     {
       "file": "src/main/55C4.c",
       "lines": {
-        "covered": 928,
-        "count": 1086
+        "covered": 980,
+        "count": 1138
       },
       "functions": {
-        "covered": 50,
-        "count": 60
+        "covered": 52,
+        "count": 62
       },
       "regions": {
-        "covered": 430,
-        "count": 497
+        "covered": 482,
+        "count": 558
       },
       "branches": {
-        "covered": 276,
-        "count": 336
+        "covered": 291,
+        "count": 360
       }
     },
     {
       "file": "src/main/CB184.c",
       "lines": {
-        "covered": 68,
-        "count": 68
+        "covered": 83,
+        "count": 83
       },
       "functions": {
-        "covered": 5,
-        "count": 5
+        "covered": 6,
+        "count": 6
       },
       "regions": {
-        "covered": 44,
-        "count": 44
+        "covered": 49,
+        "count": 49
       },
       "branches": {
-        "covered": 22,
-        "count": 22
+        "covered": 24,
+        "count": 24
       }
     },
     {
@@ -529,20 +529,20 @@
     {
       "file": "src/main/bike.c",
       "lines": {
-        "covered": 844,
-        "count": 848
+        "covered": 847,
+        "count": 851
       },
       "functions": {
         "covered": 32,
         "count": 32
       },
       "regions": {
-        "covered": 443,
-        "count": 444
+        "covered": 448,
+        "count": 450
       },
       "branches": {
-        "covered": 290,
-        "count": 296
+        "covered": 293,
+        "count": 300
       }
     },
     {
@@ -1935,20 +1935,20 @@
     {
       "file": "src/main/items/item_22_layout_gate.c",
       "lines": {
-        "covered": 135,
-        "count": 139
+        "covered": 142,
+        "count": 146
       },
       "functions": {
         "covered": 11,
         "count": 11
       },
       "regions": {
-        "covered": 59,
-        "count": 60
+        "covered": 56,
+        "count": 57
       },
       "branches": {
-        "covered": 37,
-        "count": 38
+        "covered": 38,
+        "count": 40
       }
     },
     {
@@ -3664,16 +3664,16 @@
     {
       "file": "src/main/memcard.c",
       "lines": {
-        "covered": 70,
-        "count": 98
+        "covered": 74,
+        "count": 102
       },
       "functions": {
-        "covered": 7,
-        "count": 10
+        "covered": 8,
+        "count": 11
       },
       "regions": {
-        "covered": 64,
-        "count": 74
+        "covered": 65,
+        "count": 75
       },
       "branches": {
         "covered": 18,
@@ -3683,20 +3683,20 @@
     {
       "file": "src/main/menu.c",
       "lines": {
-        "covered": 1031,
-        "count": 1111
+        "covered": 1055,
+        "count": 1135
       },
       "functions": {
-        "covered": 31,
-        "count": 34
+        "covered": 32,
+        "count": 35
       },
       "regions": {
-        "covered": 486,
-        "count": 503
+        "covered": 492,
+        "count": 509
       },
       "branches": {
-        "covered": 333,
-        "count": 358
+        "covered": 337,
+        "count": 362
       }
     },
     {
@@ -5925,16 +5925,16 @@
     {
       "file": "src/main/shots/shot_41_magma_fire.c",
       "lines": {
-        "covered": 287,
-        "count": 300
+        "covered": 290,
+        "count": 303
       },
       "functions": {
         "covered": 17,
         "count": 19
       },
       "regions": {
-        "covered": 143,
-        "count": 150
+        "covered": 144,
+        "count": 151
       },
       "branches": {
         "covered": 79,
@@ -6647,16 +6647,16 @@
     {
       "file": "src/main/visuals/visual_19_double_cyclone_charged_fan.c",
       "lines": {
-        "covered": 49,
-        "count": 49
+        "covered": 66,
+        "count": 66
       },
       "functions": {
         "covered": 2,
         "count": 2
       },
       "regions": {
-        "covered": 37,
-        "count": 37
+        "covered": 38,
+        "count": 38
       },
       "branches": {
         "covered": 20,
@@ -7084,16 +7084,16 @@
     {
       "file": "src/main/weapons/weapon_07_double_cyclone.c",
       "lines": {
-        "covered": 286,
-        "count": 288
+        "covered": 294,
+        "count": 296
       },
       "functions": {
         "covered": 20,
         "count": 20
       },
       "regions": {
-        "covered": 137,
-        "count": 138
+        "covered": 141,
+        "count": 142
       },
       "branches": {
         "covered": 71,
@@ -7331,20 +7331,20 @@
     {
       "file": "src/pc/placeholder.c",
       "lines": {
-        "covered": 1312,
-        "count": 1522
+        "covered": 1174,
+        "count": 1378
       },
       "functions": {
-        "covered": 37,
-        "count": 51
+        "covered": 31,
+        "count": 44
       },
       "regions": {
-        "covered": 875,
-        "count": 923
+        "covered": 760,
+        "count": 803
       },
       "branches": {
-        "covered": 485,
-        "count": 514
+        "covered": 424,
+        "count": 450
       }
     }
   ],
@@ -7646,14 +7646,14 @@
   ],
   "unit_tests": {
     "passed": 20085,
-    "binary_sha256": "e191e5299e9ea8fe385dffc7b7ae77f6176eb6407466a48a21f43655a39e0348"
+    "binary_sha256": "e6a9daeb0fd7edb3cd41cde19156e4393d941dcc4a25e340cc9bbaf9db69f90a"
   },
   "source_files": {
     "movies": [
       {
         "file": "src/main/102FC.c",
         "lines": {
-          "covered": 213,
+          "covered": 217,
           "count": 271
         },
         "functions": {
@@ -7661,12 +7661,12 @@
           "count": 17
         },
         "regions": {
-          "covered": 146,
-          "count": 177
+          "covered": 144,
+          "count": 180
         },
         "branches": {
-          "covered": 92,
-          "count": 136
+          "covered": 93,
+          "count": 134
         }
       },
       {
@@ -7863,19 +7863,19 @@
         "file": "src/main/1A5BC.c",
         "lines": {
           "covered": 0,
-          "count": 106
+          "count": 161
         },
         "functions": {
           "covered": 0,
-          "count": 4
+          "count": 5
         },
         "regions": {
           "covered": 0,
-          "count": 47
+          "count": 104
         },
         "branches": {
           "covered": 0,
-          "count": 36
+          "count": 80
         }
       },
       {
@@ -8052,39 +8052,39 @@
       {
         "file": "src/main/55C4.c",
         "lines": {
-          "covered": 689,
-          "count": 1086
+          "covered": 741,
+          "count": 1138
         },
         "functions": {
-          "covered": 40,
-          "count": 60
+          "covered": 42,
+          "count": 62
         },
         "regions": {
-          "covered": 310,
-          "count": 497
+          "covered": 362,
+          "count": 558
         },
         "branches": {
-          "covered": 180,
-          "count": 336
+          "covered": 195,
+          "count": 360
         }
       },
       {
         "file": "src/main/CB184.c",
         "lines": {
-          "covered": 68,
-          "count": 68
+          "covered": 83,
+          "count": 83
         },
         "functions": {
-          "covered": 5,
-          "count": 5
+          "covered": 6,
+          "count": 6
         },
         "regions": {
-          "covered": 44,
-          "count": 44
+          "covered": 49,
+          "count": 49
         },
         "branches": {
-          "covered": 22,
-          "count": 22
+          "covered": 24,
+          "count": 24
         }
       },
       {
@@ -8147,20 +8147,20 @@
       {
         "file": "src/main/bike.c",
         "lines": {
-          "covered": 745,
-          "count": 848
+          "covered": 749,
+          "count": 851
         },
         "functions": {
           "covered": 29,
           "count": 32
         },
         "regions": {
-          "covered": 380,
-          "count": 444
+          "covered": 385,
+          "count": 450
         },
         "branches": {
-          "covered": 226,
-          "count": 296
+          "covered": 229,
+          "count": 300
         }
       },
       {
@@ -9553,20 +9553,20 @@
       {
         "file": "src/main/items/item_22_layout_gate.c",
         "lines": {
-          "covered": 122,
-          "count": 139
+          "covered": 129,
+          "count": 146
         },
         "functions": {
           "covered": 10,
           "count": 11
         },
         "regions": {
-          "covered": 51,
-          "count": 60
+          "covered": 48,
+          "count": 57
         },
         "branches": {
-          "covered": 29,
-          "count": 38
+          "covered": 30,
+          "count": 40
         }
       },
       {
@@ -11283,15 +11283,15 @@
         "file": "src/main/memcard.c",
         "lines": {
           "covered": 18,
-          "count": 98
+          "count": 102
         },
         "functions": {
           "covered": 1,
-          "count": 10
+          "count": 11
         },
         "regions": {
           "covered": 31,
-          "count": 74
+          "count": 75
         },
         "branches": {
           "covered": 0,
@@ -11302,19 +11302,19 @@
         "file": "src/main/menu.c",
         "lines": {
           "covered": 17,
-          "count": 1111
+          "count": 1135
         },
         "functions": {
           "covered": 1,
-          "count": 34
+          "count": 35
         },
         "regions": {
           "covered": 4,
-          "count": 503
+          "count": 509
         },
         "branches": {
           "covered": 2,
-          "count": 358
+          "count": 362
         }
       },
       {
@@ -13543,8 +13543,8 @@
       {
         "file": "src/main/shots/shot_41_magma_fire.c",
         "lines": {
-          "covered": 196,
-          "count": 300
+          "covered": 197,
+          "count": 303
         },
         "functions": {
           "covered": 12,
@@ -13552,7 +13552,7 @@
         },
         "regions": {
           "covered": 94,
-          "count": 150
+          "count": 151
         },
         "branches": {
           "covered": 49,
@@ -14265,16 +14265,16 @@
       {
         "file": "src/main/visuals/visual_19_double_cyclone_charged_fan.c",
         "lines": {
-          "covered": 43,
-          "count": 49
+          "covered": 58,
+          "count": 66
         },
         "functions": {
           "covered": 2,
           "count": 2
         },
         "regions": {
-          "covered": 33,
-          "count": 37
+          "covered": 31,
+          "count": 38
         },
         "branches": {
           "covered": 14,
@@ -14702,16 +14702,16 @@
       {
         "file": "src/main/weapons/weapon_07_double_cyclone.c",
         "lines": {
-          "covered": 264,
-          "count": 288
+          "covered": 272,
+          "count": 296
         },
         "functions": {
           "covered": 20,
           "count": 20
         },
         "regions": {
-          "covered": 126,
-          "count": 138
+          "covered": 130,
+          "count": 142
         },
         "branches": {
           "covered": 60,
@@ -14949,20 +14949,20 @@
       {
         "file": "src/pc/placeholder.c",
         "lines": {
-          "covered": 1002,
-          "count": 1522
+          "covered": 937,
+          "count": 1378
         },
         "functions": {
-          "covered": 27,
-          "count": 51
+          "covered": 24,
+          "count": 44
         },
         "regions": {
-          "covered": 659,
-          "count": 923
+          "covered": 605,
+          "count": 803
         },
         "branches": {
-          "covered": 324,
-          "count": 514
+          "covered": 309,
+          "count": 450
         }
       }
     ],
@@ -14978,12 +14978,12 @@
           "count": 17
         },
         "regions": {
-          "covered": 126,
-          "count": 177
+          "covered": 129,
+          "count": 180
         },
         "branches": {
-          "covered": 90,
-          "count": 136
+          "covered": 89,
+          "count": 134
         }
       },
       {
@@ -15179,20 +15179,20 @@
       {
         "file": "src/main/1A5BC.c",
         "lines": {
-          "covered": 106,
-          "count": 106
+          "covered": 161,
+          "count": 161
         },
         "functions": {
-          "covered": 4,
-          "count": 4
+          "covered": 5,
+          "count": 5
         },
         "regions": {
-          "covered": 47,
-          "count": 47
+          "covered": 104,
+          "count": 104
         },
         "branches": {
-          "covered": 34,
-          "count": 36
+          "covered": 78,
+          "count": 80
         }
       },
       {
@@ -15369,39 +15369,39 @@
       {
         "file": "src/main/55C4.c",
         "lines": {
-          "covered": 864,
-          "count": 1086
+          "covered": 916,
+          "count": 1138
         },
         "functions": {
-          "covered": 48,
-          "count": 60
+          "covered": 50,
+          "count": 62
         },
         "regions": {
-          "covered": 402,
-          "count": 497
+          "covered": 454,
+          "count": 558
         },
         "branches": {
-          "covered": 252,
-          "count": 336
+          "covered": 267,
+          "count": 360
         }
       },
       {
         "file": "src/main/CB184.c",
         "lines": {
-          "covered": 64,
-          "count": 68
+          "covered": 79,
+          "count": 83
         },
         "functions": {
-          "covered": 4,
-          "count": 5
+          "covered": 5,
+          "count": 6
         },
         "regions": {
-          "covered": 41,
-          "count": 44
+          "covered": 46,
+          "count": 49
         },
         "branches": {
-          "covered": 19,
-          "count": 22
+          "covered": 21,
+          "count": 24
         }
       },
       {
@@ -15464,20 +15464,20 @@
       {
         "file": "src/main/bike.c",
         "lines": {
-          "covered": 840,
-          "count": 848
+          "covered": 843,
+          "count": 851
         },
         "functions": {
           "covered": 32,
           "count": 32
         },
         "regions": {
-          "covered": 442,
-          "count": 444
+          "covered": 446,
+          "count": 450
         },
         "branches": {
-          "covered": 288,
-          "count": 296
+          "covered": 290,
+          "count": 300
         }
       },
       {
@@ -16871,7 +16871,7 @@
         "file": "src/main/items/item_22_layout_gate.c",
         "lines": {
           "covered": 23,
-          "count": 139
+          "count": 146
         },
         "functions": {
           "covered": 3,
@@ -16879,11 +16879,11 @@
         },
         "regions": {
           "covered": 11,
-          "count": 60
+          "count": 57
         },
         "branches": {
           "covered": 10,
-          "count": 38
+          "count": 40
         }
       },
       {
@@ -18599,16 +18599,16 @@
       {
         "file": "src/main/memcard.c",
         "lines": {
-          "covered": 70,
-          "count": 98
+          "covered": 74,
+          "count": 102
         },
         "functions": {
-          "covered": 7,
-          "count": 10
+          "covered": 8,
+          "count": 11
         },
         "regions": {
-          "covered": 64,
-          "count": 74
+          "covered": 65,
+          "count": 75
         },
         "branches": {
           "covered": 18,
@@ -18618,20 +18618,20 @@
       {
         "file": "src/main/menu.c",
         "lines": {
-          "covered": 1031,
-          "count": 1111
+          "covered": 1055,
+          "count": 1135
         },
         "functions": {
-          "covered": 31,
-          "count": 34
+          "covered": 32,
+          "count": 35
         },
         "regions": {
-          "covered": 486,
-          "count": 503
+          "covered": 492,
+          "count": 509
         },
         "branches": {
-          "covered": 333,
-          "count": 358
+          "covered": 337,
+          "count": 362
         }
       },
       {
@@ -20860,16 +20860,16 @@
       {
         "file": "src/main/shots/shot_41_magma_fire.c",
         "lines": {
-          "covered": 190,
-          "count": 300
+          "covered": 193,
+          "count": 303
         },
         "functions": {
           "covered": 8,
           "count": 19
         },
         "regions": {
-          "covered": 88,
-          "count": 150
+          "covered": 89,
+          "count": 151
         },
         "branches": {
           "covered": 54,
@@ -21582,16 +21582,16 @@
       {
         "file": "src/main/visuals/visual_19_double_cyclone_charged_fan.c",
         "lines": {
-          "covered": 47,
-          "count": 49
+          "covered": 63,
+          "count": 66
         },
         "functions": {
           "covered": 2,
           "count": 2
         },
         "regions": {
-          "covered": 34,
-          "count": 37
+          "covered": 35,
+          "count": 38
         },
         "branches": {
           "covered": 18,
@@ -22019,16 +22019,16 @@
       {
         "file": "src/main/weapons/weapon_07_double_cyclone.c",
         "lines": {
-          "covered": 152,
-          "count": 288
+          "covered": 155,
+          "count": 296
         },
         "functions": {
           "covered": 12,
           "count": 20
         },
         "regions": {
-          "covered": 70,
-          "count": 138
+          "covered": 72,
+          "count": 142
         },
         "branches": {
           "covered": 34,
@@ -22266,20 +22266,20 @@
       {
         "file": "src/pc/placeholder.c",
         "lines": {
-          "covered": 1213,
-          "count": 1522
+          "covered": 1075,
+          "count": 1378
         },
         "functions": {
-          "covered": 37,
-          "count": 51
+          "covered": 31,
+          "count": 44
         },
         "regions": {
-          "covered": 797,
-          "count": 923
+          "covered": 682,
+          "count": 803
         },
         "branches": {
-          "covered": 427,
-          "count": 514
+          "covered": 366,
+          "count": 450
         }
       }
     ]
@@ -22287,56 +22287,56 @@
   "sources": {
     "movies": {
       "lines": {
-        "covered": 57910,
-        "count": 80243
+        "covered": 57951,
+        "count": 80287
       },
       "functions": {
         "covered": 3751,
-        "count": 4979
+        "count": 4978
       },
       "regions": {
-        "covered": 30864,
-        "count": 42392
+        "covered": 30869,
+        "count": 42414
       },
       "branches": {
-        "covered": 16737,
-        "count": 25230
+        "covered": 16744,
+        "count": 25244
       }
     },
     "unit_tests": {
       "lines": {
-        "covered": 53324,
-        "count": 80243
+        "covered": 53361,
+        "count": 80287
       },
       "functions": {
         "covered": 2923,
-        "count": 4979
+        "count": 4978
       },
       "regions": {
-        "covered": 28909,
-        "count": 42392
+        "covered": 28926,
+        "count": 42414
       },
       "branches": {
-        "covered": 17306,
-        "count": 25230
+        "covered": 17311,
+        "count": 25244
       }
     },
     "combined": {
       "lines": {
-        "covered": 78052,
-        "count": 80243
+        "covered": 78102,
+        "count": 80287
       },
       "functions": {
         "covered": 4779,
-        "count": 4979
+        "count": 4978
       },
       "regions": {
-        "covered": 41405,
-        "count": 42392
+        "covered": 41422,
+        "count": 42414
       },
       "branches": {
-        "covered": 24317,
-        "count": 25230
+        "covered": 24324,
+        "count": 25244
       }
     }
   }
