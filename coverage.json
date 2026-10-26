@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "created": "2026-10-26T11:56:30.848933+00:00",
-  "revision": "16d1c4fc15d48fe0c0614526876ac0551c8a89d7",
-  "binary_sha256": "45132534624aaa88523407e3d5a9794891cc8f64946e07f899dec7290a6de906",
-  "manifest_sha256": "b1b612af1da69326aa2837af08e6d5ff6b616eb7ed7b6aae5862162c48e1d908",
+  "created": "2026-10-26T19:51:21.884009+00:00",
+  "revision": "c15070ad888c27f3ac20e1a240f5c6fd25f3384c",
+  "binary_sha256": "9472ff481a0ca79055b602af368cb96c4af5a861c0eabed0b8c17a6c928704cf",
+  "manifest_sha256": "a9d1bb3cbf7b9f4c02a608f2ef1fc9858fc1a0f9edf7eba5641c97a8def81bd7",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/40317940730",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/40380254596",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 78102,
+      "covered": 78140,
       "count": 80287
     },
     "functions": {
-      "covered": 4779,
+      "covered": 4782,
       "count": 4978
     },
     "regions": {
-      "covered": 41422,
-      "count": 42414
+      "covered": 41442,
+      "count": 42415
     },
     "branches": {
-      "covered": 24324,
+      "covered": 24334,
       "count": 25244
     }
   },
@@ -149,34 +149,34 @@
     {
       "file": "src/main/13A8C.c",
       "lines": {
-        "covered": 280,
+        "covered": 295,
         "count": 298
       },
       "functions": {
-        "covered": 12,
+        "covered": 13,
         "count": 13
       },
       "regions": {
-        "covered": 115,
+        "covered": 126,
         "count": 130
       },
       "branches": {
-        "covered": 79,
+        "covered": 80,
         "count": 82
       }
     },
     {
       "file": "src/main/144A4.c",
       "lines": {
-        "covered": 133,
+        "covered": 136,
         "count": 140
       },
       "functions": {
-        "covered": 6,
+        "covered": 7,
         "count": 7
       },
       "regions": {
-        "covered": 99,
+        "covered": 100,
         "count": 102
       },
       "branches": {
@@ -434,7 +434,7 @@
     {
       "file": "src/main/55C4.c",
       "lines": {
-        "covered": 980,
+        "covered": 981,
         "count": 1138
       },
       "functions": {
@@ -442,11 +442,11 @@
         "count": 62
       },
       "regions": {
-        "covered": 482,
+        "covered": 483,
         "count": 558
       },
       "branches": {
-        "covered": 291,
+        "covered": 292,
         "count": 360
       }
     },
@@ -1669,7 +1669,7 @@
     {
       "file": "src/main/items/item_08_boss_door.c",
       "lines": {
-        "covered": 116,
+        "covered": 120,
         "count": 123
       },
       "functions": {
@@ -1677,11 +1677,11 @@
         "count": 8
       },
       "regions": {
-        "covered": 75,
+        "covered": 76,
         "count": 77
       },
       "branches": {
-        "covered": 51,
+        "covered": 52,
         "count": 56
       }
     },
@@ -3588,7 +3588,7 @@
     {
       "file": "src/main/mains/main_74_sigma_final.c",
       "lines": {
-        "covered": 943,
+        "covered": 952,
         "count": 965
       },
       "functions": {
@@ -3596,11 +3596,11 @@
         "count": 68
       },
       "regions": {
-        "covered": 458,
+        "covered": 460,
         "count": 465
       },
       "branches": {
-        "covered": 254,
+        "covered": 257,
         "count": 266
       }
     },
@@ -4132,7 +4132,7 @@
         "count": 60
       },
       "branches": {
-        "covered": 56,
+        "covered": 58,
         "count": 58
       }
     },
@@ -4633,15 +4633,15 @@
     {
       "file": "src/main/misc/misc_53_final_cutscene.c",
       "lines": {
-        "covered": 129,
+        "covered": 133,
         "count": 133
       },
       "functions": {
-        "covered": 12,
+        "covered": 13,
         "count": 13
       },
       "regions": {
-        "covered": 61,
+        "covered": 63,
         "count": 63
       },
       "branches": {
@@ -5184,7 +5184,7 @@
     {
       "file": "src/main/quads/quad_16_sigma_laser.c",
       "lines": {
-        "covered": 126,
+        "covered": 128,
         "count": 128
       },
       "functions": {
@@ -5192,11 +5192,11 @@
         "count": 10
       },
       "regions": {
-        "covered": 58,
+        "covered": 59,
         "count": 59
       },
       "branches": {
-        "covered": 21,
+        "covered": 22,
         "count": 22
       }
     },
@@ -6142,11 +6142,11 @@
         "count": 30
       },
       "regions": {
-        "covered": 153,
-        "count": 156
+        "covered": 154,
+        "count": 157
       },
       "branches": {
-        "covered": 78,
+        "covered": 79,
         "count": 80
       }
     },
@@ -7642,18 +7642,25 @@
       "sync_sha256": "4ae60bf04ac4f58115cf9f89a77e0a5662f7ba036daa36fe1d6ed954fd07eb56",
       "samples": 5012,
       "status": "passed"
+    },
+    {
+      "movie": "tools/oracle/recordings/stage-12-sigma-final.mmx4r",
+      "sha256": "8b9246521670a695dc88269b9e454071c05e14e1d73118898cd852938a66843c",
+      "sync_sha256": "92e958b46094451acc9ba610da0461e3d8417243132d501b28d9ba032f8c62d9",
+      "samples": 10443,
+      "status": "passed"
     }
   ],
   "unit_tests": {
     "passed": 20085,
-    "binary_sha256": "e6a9daeb0fd7edb3cd41cde19156e4393d941dcc4a25e340cc9bbaf9db69f90a"
+    "binary_sha256": "76e6db5245a3254513e64babb0606cb8ee7a0bd44bfe51e9bf9c53435446470d"
   },
   "source_files": {
     "movies": [
       {
         "file": "src/main/102FC.c",
         "lines": {
-          "covered": 217,
+          "covered": 219,
           "count": 271
         },
         "functions": {
@@ -7661,11 +7668,11 @@
           "count": 17
         },
         "regions": {
-          "covered": 144,
+          "covered": 149,
           "count": 180
         },
         "branches": {
-          "covered": 93,
+          "covered": 97,
           "count": 134
         }
       },
@@ -7748,7 +7755,7 @@
       {
         "file": "src/main/128C4.c",
         "lines": {
-          "covered": 224,
+          "covered": 316,
           "count": 358
         },
         "functions": {
@@ -7756,45 +7763,45 @@
           "count": 3
         },
         "regions": {
-          "covered": 115,
+          "covered": 154,
           "count": 173
         },
         "branches": {
-          "covered": 75,
+          "covered": 97,
           "count": 130
         }
       },
       {
         "file": "src/main/13A8C.c",
         "lines": {
-          "covered": 122,
+          "covered": 234,
           "count": 298
         },
         "functions": {
-          "covered": 1,
+          "covered": 9,
           "count": 13
         },
         "regions": {
-          "covered": 49,
+          "covered": 101,
           "count": 130
         },
         "branches": {
-          "covered": 34,
+          "covered": 57,
           "count": 82
         }
       },
       {
         "file": "src/main/144A4.c",
         "lines": {
-          "covered": 133,
+          "covered": 136,
           "count": 140
         },
         "functions": {
-          "covered": 6,
+          "covered": 7,
           "count": 7
         },
         "regions": {
-          "covered": 99,
+          "covered": 100,
           "count": 102
         },
         "branches": {
@@ -7931,7 +7938,7 @@
           "count": 221
         },
         "branches": {
-          "covered": 150,
+          "covered": 151,
           "count": 174
         }
       },
@@ -8052,7 +8059,7 @@
       {
         "file": "src/main/55C4.c",
         "lines": {
-          "covered": 741,
+          "covered": 744,
           "count": 1138
         },
         "functions": {
@@ -8060,11 +8067,11 @@
           "count": 62
         },
         "regions": {
-          "covered": 362,
+          "covered": 364,
           "count": 558
         },
         "branches": {
-          "covered": 195,
+          "covered": 197,
           "count": 360
         }
       },
@@ -9033,26 +9040,26 @@
           "count": 41
         },
         "branches": {
-          "covered": 27,
+          "covered": 28,
           "count": 32
         }
       },
       {
         "file": "src/main/effects/effect_43_sigma_collapse.c",
         "lines": {
-          "covered": 36,
+          "covered": 57,
           "count": 57
         },
         "functions": {
-          "covered": 5,
+          "covered": 8,
           "count": 8
         },
         "regions": {
-          "covered": 17,
+          "covered": 27,
           "count": 27
         },
         "branches": {
-          "covered": 6,
+          "covered": 11,
           "count": 12
         }
       },
@@ -9287,7 +9294,7 @@
       {
         "file": "src/main/items/item_08_boss_door.c",
         "lines": {
-          "covered": 114,
+          "covered": 118,
           "count": 123
         },
         "functions": {
@@ -9295,11 +9302,11 @@
           "count": 8
         },
         "regions": {
-          "covered": 73,
+          "covered": 74,
           "count": 77
         },
         "branches": {
-          "covered": 49,
+          "covered": 50,
           "count": 56
         }
       },
@@ -11100,11 +11107,11 @@
           "count": 75
         },
         "regions": {
-          "covered": 558,
+          "covered": 560,
           "count": 594
         },
         "branches": {
-          "covered": 276,
+          "covered": 278,
           "count": 332
         }
       },
@@ -11206,19 +11213,19 @@
       {
         "file": "src/main/mains/main_74_sigma_final.c",
         "lines": {
-          "covered": 450,
+          "covered": 742,
           "count": 965
         },
         "functions": {
-          "covered": 34,
+          "covered": 57,
           "count": 68
         },
         "regions": {
-          "covered": 212,
+          "covered": 360,
           "count": 465
         },
         "branches": {
-          "covered": 115,
+          "covered": 178,
           "count": 266
         }
       },
@@ -11738,7 +11745,7 @@
       {
         "file": "src/main/misc/misc_22_dialogue_ui.c",
         "lines": {
-          "covered": 75,
+          "covered": 98,
           "count": 100
         },
         "functions": {
@@ -11746,11 +11753,11 @@
           "count": 1
         },
         "regions": {
-          "covered": 43,
+          "covered": 59,
           "count": 60
         },
         "branches": {
-          "covered": 42,
+          "covered": 56,
           "count": 58
         }
       },
@@ -12251,38 +12258,38 @@
       {
         "file": "src/main/misc/misc_53_final_cutscene.c",
         "lines": {
-          "covered": 0,
+          "covered": 113,
           "count": 133
         },
         "functions": {
-          "covered": 0,
+          "covered": 12,
           "count": 13
         },
         "regions": {
-          "covered": 0,
+          "covered": 59,
           "count": 63
         },
         "branches": {
-          "covered": 0,
+          "covered": 23,
           "count": 28
         }
       },
       {
         "file": "src/main/misc/misc_55_sigma_final_fx.c",
         "lines": {
-          "covered": 15,
+          "covered": 25,
           "count": 39
         },
         "functions": {
-          "covered": 3,
+          "covered": 4,
           "count": 5
         },
         "regions": {
-          "covered": 7,
+          "covered": 13,
           "count": 21
         },
         "branches": {
-          "covered": 3,
+          "covered": 6,
           "count": 10
         }
       },
@@ -12403,7 +12410,7 @@
       {
         "file": "src/main/player_check.c",
         "lines": {
-          "covered": 414,
+          "covered": 418,
           "count": 493
         },
         "functions": {
@@ -12411,11 +12418,11 @@
           "count": 26
         },
         "regions": {
-          "covered": 320,
+          "covered": 322,
           "count": 357
         },
         "branches": {
-          "covered": 205,
+          "covered": 207,
           "count": 246
         }
       },
@@ -12802,19 +12809,19 @@
       {
         "file": "src/main/quads/quad_16_sigma_laser.c",
         "lines": {
-          "covered": 0,
+          "covered": 116,
           "count": 128
         },
         "functions": {
-          "covered": 0,
+          "covered": 10,
           "count": 10
         },
         "regions": {
-          "covered": 0,
+          "covered": 51,
           "count": 59
         },
         "branches": {
-          "covered": 0,
+          "covered": 20,
           "count": 22
         }
       },
@@ -13638,7 +13645,7 @@
       {
         "file": "src/main/shots/shot_46_sigma_shot.c",
         "lines": {
-          "covered": 434,
+          "covered": 436,
           "count": 458
         },
         "functions": {
@@ -13646,11 +13653,11 @@
           "count": 28
         },
         "regions": {
-          "covered": 253,
+          "covered": 259,
           "count": 273
         },
         "branches": {
-          "covered": 130,
+          "covered": 134,
           "count": 148
         }
       },
@@ -13752,38 +13759,38 @@
       {
         "file": "src/main/shots/shot_53_sigma_head.c",
         "lines": {
-          "covered": 189,
+          "covered": 312,
           "count": 383
         },
         "functions": {
-          "covered": 14,
+          "covered": 25,
           "count": 30
         },
         "regions": {
-          "covered": 85,
-          "count": 156
+          "covered": 133,
+          "count": 157
         },
         "branches": {
-          "covered": 42,
+          "covered": 64,
           "count": 80
         }
       },
       {
         "file": "src/main/shots/shot_54_sigma_final_shot.c",
         "lines": {
-          "covered": 116,
+          "covered": 174,
           "count": 279
         },
         "functions": {
-          "covered": 10,
+          "covered": 14,
           "count": 21
         },
         "regions": {
-          "covered": 55,
+          "covered": 76,
           "count": 119
         },
         "branches": {
-          "covered": 38,
+          "covered": 48,
           "count": 72
         }
       },
@@ -13828,19 +13835,19 @@
       {
         "file": "src/main/shots/shot_57_sigma_beam_hitbox.c",
         "lines": {
-          "covered": 0,
+          "covered": 32,
           "count": 34
         },
         "functions": {
-          "covered": 0,
+          "covered": 4,
           "count": 4
         },
         "regions": {
-          "covered": 0,
+          "covered": 17,
           "count": 18
         },
         "branches": {
-          "covered": 0,
+          "covered": 9,
           "count": 10
         }
       },
@@ -14520,11 +14527,11 @@
           "count": 11
         },
         "regions": {
-          "covered": 69,
+          "covered": 70,
           "count": 75
         },
         "branches": {
-          "covered": 49,
+          "covered": 50,
           "count": 56
         }
       },
@@ -21077,8 +21084,8 @@
           "count": 30
         },
         "regions": {
-          "covered": 118,
-          "count": 156
+          "covered": 119,
+          "count": 157
         },
         "branches": {
           "covered": 60,
@@ -22287,19 +22294,19 @@
   "sources": {
     "movies": {
       "lines": {
-        "covered": 57951,
+        "covered": 58961,
         "count": 80287
       },
       "functions": {
-        "covered": 3751,
+        "covered": 3828,
         "count": 4978
       },
       "regions": {
-        "covered": 30869,
-        "count": 42414
+        "covered": 31356,
+        "count": 42415
       },
       "branches": {
-        "covered": 16744,
+        "covered": 16976,
         "count": 25244
       }
     },
@@ -22313,8 +22320,8 @@
         "count": 4978
       },
       "regions": {
-        "covered": 28926,
-        "count": 42414
+        "covered": 28927,
+        "count": 42415
       },
       "branches": {
         "covered": 17311,
@@ -22323,19 +22330,19 @@
     },
     "combined": {
       "lines": {
-        "covered": 78102,
+        "covered": 78140,
         "count": 80287
       },
       "functions": {
-        "covered": 4779,
+        "covered": 4782,
         "count": 4978
       },
       "regions": {
-        "covered": 41422,
-        "count": 42414
+        "covered": 41442,
+        "count": 42415
       },
       "branches": {
-        "covered": 24324,
+        "covered": 24334,
         "count": 25244
       }
     }
