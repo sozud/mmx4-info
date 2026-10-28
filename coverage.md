@@ -1,14 +1,14 @@
 # Code coverage
 
-Revision: `071fa279535eab283d2e784fa68906a142b2781a`. Movies passed: **46/46**. Unit test cases passed: **20085**.
+Revision: `4e16dfc7c06597fd5719dd112654d8cf85d343c2`. Movies passed: **46/46**. Unit test cases passed: **20085**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/40456723025)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/40649624094)
 
 | Metric | Movies | Unit tests | Total |
 | --- | --- | --- | --- |
 | Lines | 64147/80568 (79.62%) | 53541/80568 (66.45%) | 78530/80568 (97.47%) |
 | Functions | 4116/4984 (82.58%) | 2927/4984 (58.73%) | 4798/4984 (96.27%) |
-| Regions | 33862/42539 (79.60%) | 29007/42539 (68.19%) | 41613/42539 (97.82%) |
+| Regions | 33863/42540 (79.60%) | 29008/42540 (68.19%) | 41614/42540 (97.82%) |
 | Branches | 18368/25324 (72.53%) | 17357/25324 (68.54%) | 24451/25324 (96.55%) |
 
 ## Files
@@ -168,7 +168,7 @@ Revision: `071fa279535eab283d2e784fa68906a142b2781a`. Movies passed: **46/46**. 
 | `src/main/mains/main_37_rocket_spiker.c` | 318/321 (99.07%) | 70/321 (21.81%) | 321/321 (100.00%) | 21/21 (100.00%) | 184/184 (100.00%) | 95/96 (98.96%) |
 | `src/main/mains/main_38_train_cannon.c` | 267/272 (98.16%) | 144/272 (52.94%) | 272/272 (100.00%) | 25/25 (100.00%) | 110/110 (100.00%) | 54/54 (100.00%) |
 | `src/main/mains/main_39_falling_ceiling.c` | 158/177 (89.27%) | 118/177 (66.67%) | 177/177 (100.00%) | 10/10 (100.00%) | 103/103 (100.00%) | 63/64 (98.44%) |
-| `src/main/mains/main_40_breakable_terrain.c` | 98/98 (100.00%) | 42/98 (42.86%) | 98/98 (100.00%) | 7/7 (100.00%) | 36/36 (100.00%) | 18/18 (100.00%) |
+| `src/main/mains/main_40_breakable_terrain.c` | 98/98 (100.00%) | 42/98 (42.86%) | 98/98 (100.00%) | 7/7 (100.00%) | 37/37 (100.00%) | 18/18 (100.00%) |
 | `src/main/mains/main_41_data_hopper.c` | 294/311 (94.53%) | 185/311 (59.49%) | 309/311 (99.36%) | 14/14 (100.00%) | 159/160 (99.38%) | 125/126 (99.21%) |
 | `src/main/mains/main_42_homing_orb.c` | 106/122 (86.89%) | 45/122 (36.89%) | 122/122 (100.00%) | 8/8 (100.00%) | 41/41 (100.00%) | 16/16 (100.00%) |
 | `src/main/mains/main_43_web_spider.c` | 930/1042 (89.25%) | 532/1042 (51.06%) | 1042/1042 (100.00%) | 57/57 (100.00%) | 479/479 (100.00%) | 318/318 (100.00%) |
@@ -454,8 +454,8 @@ Revision: `071fa279535eab283d2e784fa68906a142b2781a`. Movies passed: **46/46**. 
 
 ## Provenance
 
-- Generated: 2026-10-27T05:48:44.409460+00:00
-- Binary SHA-256: `4d4abaca0eae675b61a08173c76d947001b4d3b3eef5022380af58e0098f2070`
+- Generated: 2026-10-28T07:29:27.901799+00:00
+- Binary SHA-256: `59d418c2d20120dea50b7708311c79c6da4a2ce87d2552139314d145c22f921c`
 - Manifest SHA-256: `09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
