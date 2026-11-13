@@ -1,12 +1,6 @@
 | Ovl   | Function      |   Length |   Branches | Jtbl   | Objtype         | WIP                             |     % |
 |-------|---------------|----------|------------|--------|-----------------|---------------------------------|-------|
-| main  | func_80012E2C |        9 |          1 |        |                 |                                 |       |
-| main  | func_80012E18 |       11 |          2 |        |                 |                                 |       |
-| main  | func_80012D4C |       13 |          1 |        |                 | https://decomp.me/scratch/OdFvT | 0.333 |
-| main  | func_80012D28 |       15 |          1 |        |                 |                                 |       |
-| main  | func_80012D88 |       20 |          2 |        |                 |                                 |       |
 | main  | func_8003DCD8 |       23 |          4 |        |                 |                                 |       |
-| main  | func_80012DC0 |       28 |          2 |        |                 |                                 |       |
 | main  | func_80017268 |       63 |          4 |        |                 |                                 |       |
 | main  | func_80065574 |       64 |          2 |        |                 |                                 |       |
 | main  | func_80041060 |      108 |         19 |        |                 |                                 |       |
