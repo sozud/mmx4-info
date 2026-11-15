@@ -1,34 +1,34 @@
 {
   "schema_version": 1,
-  "created": "2026-11-15T11:12:39.142453+00:00",
-  "revision": "108327ffece12db37e05bb4100861b952a8d6684",
-  "binary_sha256": "37d913c0999ffe1abbcffdb2bc9c15f346ce702ef5569c19dd29aedda96c3dea",
+  "created": "2026-11-15T12:21:03.371760+00:00",
+  "revision": "f67b03d574038192985b67717549b999fb3c48ee",
+  "binary_sha256": "bb112b8ea0c965c4532af828bc7a889c116bfd966893098631b059d664db1669",
   "manifest_sha256": "09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/43707183793",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/43712660930",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 78632,
-      "count": 80835
+      "covered": 78645,
+      "count": 81099
     },
     "functions": {
       "covered": 4795,
-      "count": 4993
+      "count": 5008
     },
     "regions": {
-      "covered": 41721,
-      "count": 42688
+      "covered": 41731,
+      "count": 42938
     },
     "branches": {
-      "covered": 24589,
-      "count": 25482
+      "covered": 24596,
+      "count": 25596
     }
   },
   "files": [
@@ -225,20 +225,20 @@
     {
       "file": "src/main/195B4.c",
       "lines": {
-        "covered": 43,
-        "count": 43
+        "covered": 46,
+        "count": 47
       },
       "functions": {
         "covered": 5,
         "count": 5
       },
       "regions": {
-        "covered": 20,
-        "count": 20
+        "covered": 21,
+        "count": 22
       },
       "branches": {
-        "covered": 12,
-        "count": 12
+        "covered": 13,
+        "count": 14
       }
     },
     {
@@ -814,20 +814,20 @@
     {
       "file": "src/main/effects/effect_11_null_effect.c",
       "lines": {
-        "covered": 2,
-        "count": 2
+        "covered": 4,
+        "count": 143
       },
       "functions": {
         "covered": 1,
-        "count": 1
+        "count": 13
       },
       "regions": {
-        "covered": 1,
-        "count": 1
+        "covered": 3,
+        "count": 118
       },
       "branches": {
-        "covered": 0,
-        "count": 0
+        "covered": 1,
+        "count": 38
       }
     },
     {
@@ -7331,20 +7331,20 @@
     {
       "file": "src/pc/placeholder.c",
       "lines": {
-        "covered": 1122,
-        "count": 1322
+        "covered": 1130,
+        "count": 1441
       },
       "functions": {
         "covered": 29,
-        "count": 42
+        "count": 45
       },
       "regions": {
-        "covered": 726,
-        "count": 766
+        "covered": 733,
+        "count": 897
       },
       "branches": {
-        "covered": 409,
-        "count": 432
+        "covered": 414,
+        "count": 506
       }
     }
   ],
@@ -7674,7 +7674,7 @@
   ],
   "unit_tests": {
     "passed": 20085,
-    "binary_sha256": "71d686ca872457c71dc62f75dc5722f85a979aa72bdf180f4cc8ccf2b7da7639"
+    "binary_sha256": "c39733c42199b19e3cac8bdc258451a760b2eb3b98da694727d13c8b6a6594fb"
   },
   "source_files": {
     "movies": [
@@ -7871,20 +7871,20 @@
       {
         "file": "src/main/195B4.c",
         "lines": {
-          "covered": 43,
-          "count": 43
+          "covered": 46,
+          "count": 47
         },
         "functions": {
           "covered": 5,
           "count": 5
         },
         "regions": {
-          "covered": 20,
-          "count": 20
+          "covered": 21,
+          "count": 22
         },
         "branches": {
-          "covered": 10,
-          "count": 12
+          "covered": 11,
+          "count": 14
         }
       },
       {
@@ -8460,20 +8460,20 @@
       {
         "file": "src/main/effects/effect_11_null_effect.c",
         "lines": {
-          "covered": 2,
-          "count": 2
+          "covered": 4,
+          "count": 143
         },
         "functions": {
           "covered": 1,
-          "count": 1
+          "count": 13
         },
         "regions": {
-          "covered": 1,
-          "count": 1
+          "covered": 3,
+          "count": 118
         },
         "branches": {
-          "covered": 0,
-          "count": 0
+          "covered": 1,
+          "count": 38
         }
       },
       {
@@ -14977,20 +14977,20 @@
       {
         "file": "src/pc/placeholder.c",
         "lines": {
-          "covered": 885,
-          "count": 1322
+          "covered": 893,
+          "count": 1441
         },
         "functions": {
           "covered": 22,
-          "count": 42
+          "count": 45
         },
         "regions": {
-          "covered": 571,
-          "count": 766
+          "covered": 578,
+          "count": 897
         },
         "branches": {
-          "covered": 296,
-          "count": 432
+          "covered": 301,
+          "count": 506
         }
       }
     ],
@@ -15188,20 +15188,20 @@
       {
         "file": "src/main/195B4.c",
         "lines": {
-          "covered": 43,
-          "count": 43
+          "covered": 46,
+          "count": 47
         },
         "functions": {
           "covered": 5,
           "count": 5
         },
         "regions": {
-          "covered": 20,
-          "count": 20
+          "covered": 21,
+          "count": 22
         },
         "branches": {
-          "covered": 12,
-          "count": 12
+          "covered": 13,
+          "count": 14
         }
       },
       {
@@ -15778,19 +15778,19 @@
         "file": "src/main/effects/effect_11_null_effect.c",
         "lines": {
           "covered": 0,
-          "count": 2
+          "count": 143
         },
         "functions": {
           "covered": 0,
-          "count": 1
+          "count": 13
         },
         "regions": {
           "covered": 0,
-          "count": 1
+          "count": 118
         },
         "branches": {
           "covered": 0,
-          "count": 0
+          "count": 38
         }
       },
       {
@@ -22294,20 +22294,20 @@
       {
         "file": "src/pc/placeholder.c",
         "lines": {
-          "covered": 1034,
-          "count": 1322
+          "covered": 1042,
+          "count": 1441
         },
         "functions": {
           "covered": 29,
-          "count": 42
+          "count": 45
         },
         "regions": {
-          "covered": 664,
-          "count": 766
+          "covered": 671,
+          "count": 897
         },
         "branches": {
-          "covered": 364,
-          "count": 432
+          "covered": 369,
+          "count": 506
         }
       }
     ]
@@ -22315,56 +22315,56 @@
   "sources": {
     "movies": {
       "lines": {
-        "covered": 64148,
-        "count": 80835
+        "covered": 64161,
+        "count": 81099
       },
       "functions": {
         "covered": 4112,
-        "count": 4993
+        "count": 5008
       },
       "regions": {
-        "covered": 33932,
-        "count": 42688
+        "covered": 33942,
+        "count": 42938
       },
       "branches": {
-        "covered": 18443,
-        "count": 25482
+        "covered": 18450,
+        "count": 25596
       }
     },
     "unit_tests": {
       "lines": {
-        "covered": 53553,
-        "count": 80835
+        "covered": 53564,
+        "count": 81099
       },
       "functions": {
         "covered": 2924,
-        "count": 4993
+        "count": 5008
       },
       "regions": {
-        "covered": 29043,
-        "count": 42688
+        "covered": 29051,
+        "count": 42938
       },
       "branches": {
-        "covered": 17453,
-        "count": 25482
+        "covered": 17459,
+        "count": 25596
       }
     },
     "combined": {
       "lines": {
-        "covered": 78632,
-        "count": 80835
+        "covered": 78645,
+        "count": 81099
       },
       "functions": {
         "covered": 4795,
-        "count": 4993
+        "count": 5008
       },
       "regions": {
-        "covered": 41721,
-        "count": 42688
+        "covered": 41731,
+        "count": 42938
       },
       "branches": {
-        "covered": 24589,
-        "count": 25482
+        "covered": 24596,
+        "count": 25596
       }
     }
   }
