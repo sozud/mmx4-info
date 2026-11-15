@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "created": "2026-11-13T15:25:05.621818+00:00",
-  "revision": "784b0367246906a69ef445f36280a4dec4cf6ab7",
-  "binary_sha256": "8a51113e98ec6649ded6be57ccdf809b619db39c146be6124f746641ffdbfef3",
+  "created": "2026-11-15T11:12:39.142453+00:00",
+  "revision": "108327ffece12db37e05bb4100861b952a8d6684",
+  "binary_sha256": "37d913c0999ffe1abbcffdb2bc9c15f346ce702ef5569c19dd29aedda96c3dea",
   "manifest_sha256": "09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/43451212220",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/43707183793",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 78622,
-      "count": 80825
+      "covered": 78632,
+      "count": 80835
     },
     "functions": {
       "covered": 4795,
@@ -434,8 +434,8 @@
     {
       "file": "src/main/55C4.c",
       "lines": {
-        "covered": 1053,
-        "count": 1208
+        "covered": 1057,
+        "count": 1212
       },
       "functions": {
         "covered": 54,
@@ -2790,8 +2790,8 @@
     {
       "file": "src/main/mains/main_32_bomb_bat.c",
       "lines": {
-        "covered": 224,
-        "count": 224
+        "covered": 226,
+        "count": 226
       },
       "functions": {
         "covered": 24,
@@ -3474,8 +3474,8 @@
     {
       "file": "src/main/mains/main_68_sigma.c",
       "lines": {
-        "covered": 1160,
-        "count": 1160
+        "covered": 1164,
+        "count": 1164
       },
       "functions": {
         "covered": 76,
@@ -7674,7 +7674,7 @@
   ],
   "unit_tests": {
     "passed": 20085,
-    "binary_sha256": "060e4a0737d30aee87d92e7b22d81a9dfeeed177dc721fb7a517da8f37d3bc3b"
+    "binary_sha256": "71d686ca872457c71dc62f75dc5722f85a979aa72bdf180f4cc8ccf2b7da7639"
   },
   "source_files": {
     "movies": [
@@ -8080,8 +8080,8 @@
       {
         "file": "src/main/55C4.c",
         "lines": {
-          "covered": 816,
-          "count": 1208
+          "covered": 820,
+          "count": 1212
         },
         "functions": {
           "covered": 44,
@@ -10437,7 +10437,7 @@
         "file": "src/main/mains/main_32_bomb_bat.c",
         "lines": {
           "covered": 150,
-          "count": 224
+          "count": 226
         },
         "functions": {
           "covered": 14,
@@ -11120,8 +11120,8 @@
       {
         "file": "src/main/mains/main_68_sigma.c",
         "lines": {
-          "covered": 1103,
-          "count": 1160
+          "covered": 1107,
+          "count": 1164
         },
         "functions": {
           "covered": 74,
@@ -15397,8 +15397,8 @@
       {
         "file": "src/main/55C4.c",
         "lines": {
-          "covered": 970,
-          "count": 1208
+          "covered": 974,
+          "count": 1212
         },
         "functions": {
           "covered": 52,
@@ -17753,8 +17753,8 @@
       {
         "file": "src/main/mains/main_32_bomb_bat.c",
         "lines": {
-          "covered": 150,
-          "count": 224
+          "covered": 152,
+          "count": 226
         },
         "functions": {
           "covered": 14,
@@ -18438,7 +18438,7 @@
         "file": "src/main/mains/main_68_sigma.c",
         "lines": {
           "covered": 407,
-          "count": 1160
+          "count": 1164
         },
         "functions": {
           "covered": 22,
@@ -22315,8 +22315,8 @@
   "sources": {
     "movies": {
       "lines": {
-        "covered": 64140,
-        "count": 80825
+        "covered": 64148,
+        "count": 80835
       },
       "functions": {
         "covered": 4112,
@@ -22333,8 +22333,8 @@
     },
     "unit_tests": {
       "lines": {
-        "covered": 53547,
-        "count": 80825
+        "covered": 53553,
+        "count": 80835
       },
       "functions": {
         "covered": 2924,
@@ -22351,8 +22351,8 @@
     },
     "combined": {
       "lines": {
-        "covered": 78622,
-        "count": 80825
+        "covered": 78632,
+        "count": 80835
       },
       "functions": {
         "covered": 4795,
