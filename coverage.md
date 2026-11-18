@@ -1,12 +1,12 @@
 # Code coverage
 
-Revision: `7fecba3db028cc9ecdfbed4f0d36928bf91845de`. Movies passed: **46/46**. Unit test cases passed: **20085**.
+Revision: `f6051b2ca61e1190bce8b410e6f9d979f1dfaf91`. Movies passed: **46/46**. Unit test cases passed: **20085**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/44365096562)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/44369185685)
 
 | Metric | Movies | Unit tests | Total |
 | --- | --- | --- | --- |
-| Lines | 63982/80904 (79.08%) | 53410/80904 (66.02%) | 78444/80904 (96.96%) |
+| Lines | 63983/80905 (79.08%) | 53411/80905 (66.02%) | 78445/80905 (96.96%) |
 | Functions | 4112/5008 (82.11%) | 2924/5008 (58.39%) | 4795/5008 (95.75%) |
 | Regions | 33993/43004 (79.05%) | 29104/43004 (67.68%) | 41793/43004 (97.18%) |
 | Branches | 18462/25618 (72.07%) | 17476/25618 (68.22%) | 24614/25618 (96.08%) |
@@ -175,7 +175,7 @@ Revision: `7fecba3db028cc9ecdfbed4f0d36928bf91845de`. Movies passed: **46/46**. 
 | `src/main/mains/main_40_breakable_terrain.c` | 96/96 (100.00%) | 42/96 (43.75%) | 96/96 (100.00%) | 7/7 (100.00%) | 37/37 (100.00%) | 18/18 (100.00%) |
 | `src/main/mains/main_41_data_hopper.c` | 296/313 (94.57%) | 187/313 (59.74%) | 311/313 (99.36%) | 14/14 (100.00%) | 159/160 (99.38%) | 125/126 (99.21%) |
 | `src/main/mains/main_42_homing_orb.c` | 106/122 (86.89%) | 45/122 (36.89%) | 122/122 (100.00%) | 8/8 (100.00%) | 41/41 (100.00%) | 16/16 (100.00%) |
-| `src/main/mains/main_43_web_spider.c` | 939/1051 (89.34%) | 527/1051 (50.14%) | 1051/1051 (100.00%) | 57/57 (100.00%) | 482/482 (100.00%) | 318/318 (100.00%) |
+| `src/main/mains/main_43_web_spider.c` | 940/1052 (89.35%) | 528/1052 (50.19%) | 1052/1052 (100.00%) | 57/57 (100.00%) | 482/482 (100.00%) | 318/318 (100.00%) |
 | `src/main/mains/main_44_anchored_mine.c` | 61/64 (95.31%) | 15/64 (23.44%) | 64/64 (100.00%) | 7/7 (100.00%) | 16/16 (100.00%) | 4/4 (100.00%) |
 | `src/main/mains/main_45_train_boss.c` | 360/369 (97.56%) | 369/369 (100.00%) | 369/369 (100.00%) | 16/16 (100.00%) | 182/182 (100.00%) | 128/130 (98.46%) |
 | `src/main/mains/main_46_train_boss_turret.c` | 85/89 (95.51%) | 82/89 (92.13%) | 85/89 (95.51%) | 6/7 (85.71%) | 27/28 (96.43%) | 14/14 (100.00%) |
@@ -461,8 +461,8 @@ Revision: `7fecba3db028cc9ecdfbed4f0d36928bf91845de`. Movies passed: **46/46**. 
 
 ## Provenance
 
-- Generated: 2026-11-18T18:14:12.721215+00:00
-- Binary SHA-256: `827f717666218d5600d2598d4e24407f67de6f6d1867b26bddc39d4867628156`
+- Generated: 2026-11-18T18:40:08.000108+00:00
+- Binary SHA-256: `60bad9928c4e6b7023ffae52f3a8e924e9983c627ce4a8c03edbc867cb3294fd`
 - Manifest SHA-256: `09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)

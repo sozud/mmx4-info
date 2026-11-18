@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "created": "2026-11-18T18:14:12.721215+00:00",
-  "revision": "7fecba3db028cc9ecdfbed4f0d36928bf91845de",
-  "binary_sha256": "827f717666218d5600d2598d4e24407f67de6f6d1867b26bddc39d4867628156",
+  "created": "2026-11-18T18:40:08.000108+00:00",
+  "revision": "f6051b2ca61e1190bce8b410e6f9d979f1dfaf91",
+  "binary_sha256": "60bad9928c4e6b7023ffae52f3a8e924e9983c627ce4a8c03edbc867cb3294fd",
   "manifest_sha256": "09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/44365096562",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/44369185685",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
   ],
   "totals": {
     "lines": {
-      "covered": 78444,
-      "count": 80904
+      "covered": 78445,
+      "count": 80905
     },
     "functions": {
       "covered": 4795,
@@ -3075,8 +3075,8 @@
     {
       "file": "src/main/mains/main_43_web_spider.c",
       "lines": {
-        "covered": 1051,
-        "count": 1051
+        "covered": 1052,
+        "count": 1052
       },
       "functions": {
         "covered": 57,
@@ -7807,7 +7807,7 @@
   ],
   "unit_tests": {
     "passed": 20085,
-    "binary_sha256": "e03d1b466c0f9ef0e72a70c3041df180ab29340ecab20c13598f020a58bf0f28"
+    "binary_sha256": "de9e8bbe3f5b409d50cb643568a14448e73a9ea10160dd185d814df7848bc112"
   },
   "source_files": {
     "movies": [
@@ -10854,8 +10854,8 @@
       {
         "file": "src/main/mains/main_43_web_spider.c",
         "lines": {
-          "covered": 939,
-          "count": 1051
+          "covered": 940,
+          "count": 1052
         },
         "functions": {
           "covered": 51,
@@ -18304,8 +18304,8 @@
       {
         "file": "src/main/mains/main_43_web_spider.c",
         "lines": {
-          "covered": 527,
-          "count": 1051
+          "covered": 528,
+          "count": 1052
         },
         "functions": {
           "covered": 28,
@@ -22714,8 +22714,8 @@
   "sources": {
     "movies": {
       "lines": {
-        "covered": 63982,
-        "count": 80904
+        "covered": 63983,
+        "count": 80905
       },
       "functions": {
         "covered": 4112,
@@ -22732,8 +22732,8 @@
     },
     "unit_tests": {
       "lines": {
-        "covered": 53410,
-        "count": 80904
+        "covered": 53411,
+        "count": 80905
       },
       "functions": {
         "covered": 2924,
@@ -22750,8 +22750,8 @@
     },
     "combined": {
       "lines": {
-        "covered": 78444,
-        "count": 80904
+        "covered": 78445,
+        "count": 80905
       },
       "functions": {
         "covered": 4795,
