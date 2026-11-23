@@ -1,15 +1,15 @@
 # Code coverage
 
-Revision: `1d1a818c5f3b620e807ca662a2f61eaa50d30e44`. Movies passed: **46/46**. Unit test cases passed: **20085**.
+Revision: `014db50683be86f2d0cf16291d31db2897b5cd0e`. Movies passed: **46/46**. Unit test cases passed: **20085**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/45204926269)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/45216683926)
 
 | Metric | Movies | Unit tests | Total |
 | --- | --- | --- | --- |
 | Lines | 64843/82032 (79.05%) | 54171/82032 (66.04%) | 79514/82032 (96.93%) |
 | Functions | 4112/5008 (82.11%) | 2924/5008 (58.39%) | 4795/5008 (95.75%) |
 | Regions | 34387/43535 (78.99%) | 29452/43535 (67.65%) | 42310/43535 (97.19%) |
-| Branches | 18498/25682 (72.03%) | 17513/25682 (68.19%) | 24669/25682 (96.06%) |
+| Branches | 18497/25682 (72.02%) | 17513/25682 (68.19%) | 24669/25682 (96.06%) |
 
 ## Files
 
@@ -461,8 +461,8 @@ Revision: `1d1a818c5f3b620e807ca662a2f61eaa50d30e44`. Movies passed: **46/46**. 
 
 ## Provenance
 
-- Generated: 2026-11-23T15:35:50.365530+00:00
-- Binary SHA-256: `1c9db96c20044e7978accb8cf75c343157b4efc6782ee7f15d413f2ea0f3b3e1`
+- Generated: 2026-11-23T16:38:35.078158+00:00
+- Binary SHA-256: `293bc08eff24b460d6aa5f65b09229383cb8354f7e41f5d12850a7bf0ed4948f`
 - Manifest SHA-256: `09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
