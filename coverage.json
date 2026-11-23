@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "created": "2026-11-22T16:42:55.994913+00:00",
-  "revision": "d4fe2d40b9341d90258a8234424efcdc83d549b1",
+  "created": "2026-11-23T12:35:01.981918+00:00",
+  "revision": "882ffacdc3fa3c11942e2f024cfb24b053c5e387",
   "binary_sha256": "d3a0c9f4055ee9aa713b2898ebd16543f686dec9f99fe5f7615982acb53ee640",
   "manifest_sha256": "09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/45044628776",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/45173947854",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
