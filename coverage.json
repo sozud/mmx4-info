@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "created": "2026-11-23T14:02:21.860703+00:00",
-  "revision": "ffe8e1a5b9bfae1dcb92ad060cf3f57f0c718c42",
-  "binary_sha256": "085003dbf6750cbb6e522ec30fc6a3cb900d2fb10b746e9a17991620ffb0d25b",
+  "created": "2026-11-23T15:35:50.365530+00:00",
+  "revision": "1d1a818c5f3b620e807ca662a2f61eaa50d30e44",
+  "binary_sha256": "1c9db96c20044e7978accb8cf75c343157b4efc6782ee7f15d413f2ea0f3b3e1",
   "manifest_sha256": "09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d",
   "tool_versions": {
     "llvm-profdata": "Ubuntu LLVM version 18.1.3\n  Optimized build.",
     "llvm-cov": "Ubuntu LLVM version 18.1.3\n  Optimized build."
   },
-  "ci_run": "https://github.com/sozud/mmx4/actions/runs/45188707394",
+  "ci_run": "https://github.com/sozud/mmx4/actions/runs/45204926269",
   "scope": [
     "src/main/**",
     "src/pc/placeholder.c"
@@ -23,8 +23,8 @@
       "count": 5008
     },
     "regions": {
-      "covered": 42309,
-      "count": 43534
+      "covered": 42310,
+      "count": 43535
     },
     "branches": {
       "covered": 24669,
@@ -214,8 +214,8 @@
         "count": 15
       },
       "regions": {
-        "covered": 316,
-        "count": 336
+        "covered": 317,
+        "count": 337
       },
       "branches": {
         "covered": 129,
@@ -7807,7 +7807,7 @@
   ],
   "unit_tests": {
     "passed": 20085,
-    "binary_sha256": "8d791c1639d8068d0da6d94e48d51c8facda391b335c0d4c73c9d914e0b65b7f"
+    "binary_sha256": "6080439e5fb5422376b94ee5c5ae0035bbd10a6d378cfb47bc5dcba35ca61863"
   },
   "source_files": {
     "movies": [
@@ -7993,8 +7993,8 @@
           "count": 15
         },
         "regions": {
-          "covered": 210,
-          "count": 336
+          "covered": 211,
+          "count": 337
         },
         "branches": {
           "covered": 95,
@@ -15443,8 +15443,8 @@
           "count": 15
         },
         "regions": {
-          "covered": 300,
-          "count": 336
+          "covered": 301,
+          "count": 337
         },
         "branches": {
           "covered": 121,
@@ -22722,8 +22722,8 @@
         "count": 5008
       },
       "regions": {
-        "covered": 34386,
-        "count": 43534
+        "covered": 34387,
+        "count": 43535
       },
       "branches": {
         "covered": 18498,
@@ -22740,8 +22740,8 @@
         "count": 5008
       },
       "regions": {
-        "covered": 29451,
-        "count": 43534
+        "covered": 29452,
+        "count": 43535
       },
       "branches": {
         "covered": 17513,
@@ -22758,8 +22758,8 @@
         "count": 5008
       },
       "regions": {
-        "covered": 42309,
-        "count": 43534
+        "covered": 42310,
+        "count": 43535
       },
       "branches": {
         "covered": 24669,
