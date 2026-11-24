@@ -1,15 +1,15 @@
 # Code coverage
 
-Revision: `014db50683be86f2d0cf16291d31db2897b5cd0e`. Movies passed: **46/46**. Unit test cases passed: **20085**.
+Revision: `5d2711434b2a19d27b130d0258356627d4352290`. Movies passed: **46/46**. Unit test cases passed: **20085**.
 
-[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/45216683926)
+[CI run and detailed coverage artifacts](https://github.com/sozud/mmx4/actions/runs/45318221325)
 
 | Metric | Movies | Unit tests | Total |
 | --- | --- | --- | --- |
-| Lines | 64843/82032 (79.05%) | 54171/82032 (66.04%) | 79514/82032 (96.93%) |
-| Functions | 4112/5008 (82.11%) | 2924/5008 (58.39%) | 4795/5008 (95.75%) |
-| Regions | 34387/43535 (78.99%) | 29452/43535 (67.65%) | 42310/43535 (97.19%) |
-| Branches | 18497/25682 (72.02%) | 17513/25682 (68.19%) | 24669/25682 (96.06%) |
+| Lines | 64834/82023 (79.04%) | 54162/82023 (66.03%) | 79505/82023 (96.93%) |
+| Functions | 4111/5007 (82.11%) | 2923/5007 (58.38%) | 4794/5007 (95.75%) |
+| Regions | 34386/43534 (78.99%) | 29451/43534 (67.65%) | 42309/43534 (97.19%) |
+| Branches | 18498/25682 (72.03%) | 17513/25682 (68.19%) | 24669/25682 (96.06%) |
 
 ## Files
 
@@ -406,7 +406,7 @@ Revision: `014db50683be86f2d0cf16291d31db2897b5cd0e`. Movies passed: **46/46**. 
 | `src/main/weapons/weapon_59_ride_armor_shot.c` | 92/124 (74.19%) | 101/124 (81.45%) | 112/124 (90.32%) | 8/9 (88.89%) | 83/85 (97.65%) | 43/44 (97.73%) |
 | `src/main/weapons/weapon_60_ride_armor_missile.c` | 105/106 (99.06%) | 41/106 (38.68%) | 105/106 (99.06%) | 4/4 (100.00%) | 48/49 (97.96%) | 32/34 (94.12%) |
 | `src/main/weapons/weapon_61_ride_armor_punch.c` | 40/43 (93.02%) | 0/43 (0.00%) | 40/43 (93.02%) | 3/4 (75.00%) | 18/20 (90.00%) | 11/12 (91.67%) |
-| `src/pc/placeholder.c` | 727/1248 (58.25%) | 860/1248 (68.91%) | 938/1248 (75.16%) | 24/40 (60.00%) | 602/764 (78.80%) | 359/446 (80.49%) |
+| `src/pc/placeholder.c` | 718/1239 (57.95%) | 851/1239 (68.68%) | 929/1239 (74.98%) | 23/39 (58.97%) | 601/763 (78.77%) | 359/446 (80.49%) |
 
 ## Movies
 
@@ -461,8 +461,8 @@ Revision: `014db50683be86f2d0cf16291d31db2897b5cd0e`. Movies passed: **46/46**. 
 
 ## Provenance
 
-- Generated: 2026-11-23T16:38:35.078158+00:00
-- Binary SHA-256: `293bc08eff24b460d6aa5f65b09229383cb8354f7e41f5d12850a7bf0ed4948f`
+- Generated: 2026-11-24T03:23:59.009102+00:00
+- Binary SHA-256: `ab969da6b494f3a88364cc1c41352f32692d6a25da89464c2692220015efa1ee`
 - Manifest SHA-256: `09252bdacfa7f79efaba244b49ec93853179ff4909cae4bc9144c4b04b7cd14d`
 - LLVM: `Ubuntu LLVM version 18.1.3`
 - Movie and sync-sidecar hashes: [coverage.json](coverage.json)
